@@ -34,3 +34,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# note
+## プロジェクトをローカルで作成
+```
+npx create-next-app@latest my-next-app
+cd my-next-app
+
+```
+## GitHub リポジトリを作成 & Push
+```
+git init
+git remote add origin https://github.com/あなたのユーザ名/my-next-app.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+```
+
+## Vercelにデプロイ
+1. https://vercel.com にアクセス
+1. GitHubアカウントでログイン
+1. 「Add New Project」 → 作成したGitHubリポジトリを選択
+1. Next.js と自動で認識されるので、そのままデプロイ
+
+## KaTeXを使う
+```
+npm install katex react-katex
+npm install react-markdown remark-math rehype-katex
+
+```

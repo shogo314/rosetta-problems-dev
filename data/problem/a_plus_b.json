@@ -1,0 +1,31 @@
+{
+  "id": "a_plus_b",
+  "title": "A + B",
+  "description": "整数が $2$ つ与えられ、$2$ 数の和を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "aplusb"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "many_aplusb"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "many_aplusb_128bit"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "addition_of_big_integers"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "APG4b_cr"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "tessoku_book_bz"
+    }
+  ]
+}
