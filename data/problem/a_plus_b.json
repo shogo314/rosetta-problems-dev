@@ -26,6 +26,122 @@
     {
       "judge": "atcoder",
       "problem": "tessoku_book_bz"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "sum-of-two-integers"
+    },
+    {
+      "judge": "acwing",
+      "problem": "1"
+    },
+    {
+      "judge": "algo-method",
+      "problem": "cce3e762f21f87d6"
+    },
+    {
+      "judge": "kep",
+      "problem": "1"
+    },
+    {
+      "judge": "codeforces",
+      "problem": "1351_A"
+    },
+    {
+      "judge": "luogu",
+      "problem": "P1001"
+    },
+    {
+      "judge": "yukicoder",
+      "problem": "1088"
+    },
+    {
+      "judge": "hackerrank",
+      "problem": "ysf1-a"
+    },
+    {
+      "judge": "kep",
+      "problem": "56"
+    },
+    {
+      "judge": "codeany",
+      "problem": "47"
+    },
+    {
+      "judge": "loj",
+      "problem": "1"
+    },
+    {
+      "judge": "uoj",
+      "problem": "1"
+    },
+    {
+      "judge": "hydro",
+      "problem": "1"
+    },
+    {
+      "judge": "algotester",
+      "problem": "20024"
+    },
+    {
+      "judge": "pythoncode-club",
+      "problem": "add_nums"
+    },
+    {
+      "judge": "boj",
+      "problem": "1000"
+    },
+    {
+      "judge": "toph",
+      "problem": "add-them-up"
+    },
+    {
+      "judge": "dmoj",
+      "problem": "aplusb"
+    },
+    {
+      "judge": "aoj",
+      "problem": "1000"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "post"
+    },
+    {
+      "judge": "spoj",
+      "problem": "LONGSUM"
+    },
+    {
+      "judge": "codechef",
+      "problem": "FLOW001"
+    },
+    {
+      "judge": "oj-uz",
+      "problem": "IOI24_aplusb"
+    },
+    {
+      "judge": "tlx",
+      "problem": "osn-2010_2F"
+    },
+    {
+      "judge": "eolymp",
+      "problem": "1000"
+    },
+    {
+      "judge": "eolymp",
+      "problem": "1315"
+    },
+    {
+      "judge": "eolymp",
+      "problem": "8804"
+    },
+    {
+      "judge": "eolymp",
+      "problem": "8805"
+    },
+    {
+      "judge": "eolymp",
+      "problem": "8806"
     }
   ]
 }

@@ -62,5 +62,6 @@ git push -u origin main
 ```
 npm install katex react-katex
 npm install react-markdown remark-math rehype-katex
+npm install flag-icons
 
 ```
