@@ -9,13 +9,15 @@ export async function generateStaticParams() {
   return files.map((name) => ({ judge: name.replace(".json", "") }));
 }
 
-export default async function Page({ params }: { params: { judge: string } }) {
-  const judgePath = path.join(process.cwd(), "data/judge", `${params.judge}.json`);
+export default async function Page({ params }: { params: Promise<{ judge: string }> }) {
+  const { judge } = await params;
+
+  const judgePath = path.join(process.cwd(), "data/judge", `${judge}.json`);
   try {
     const judgeFile = await fs.readFile(judgePath, "utf-8");
-    const judge = JSON.parse(judgeFile);
+    const judgeData = JSON.parse(judgeFile);
 
-    const judgeProblemDir = path.join(process.cwd(), "data/judge-problem", params.judge);
+    const judgeProblemDir = path.join(process.cwd(), "data/judge-problem", judge);
     const problemFiles = await fs.readdir(judgeProblemDir);
 
     const problems = [];
@@ -36,8 +38,8 @@ export default async function Page({ params }: { params: { judge: string } }) {
           </Link>
         </div>
 
-        <h1 className="text-2xl font-bold">{judge.name}</h1>
-        <p className="mt-2">{judge.description}</p>
+        <h1 className="text-2xl font-bold">{judgeData.name}</h1>
+        <p className="mt-2">{judgeData.description}</p>
 
         {problems.length > 0 && (
           <>
@@ -45,7 +47,7 @@ export default async function Page({ params }: { params: { judge: string } }) {
             <ul className="list-disc ml-6 mt-2">
               {problems.map((p) => (
                 <li key={p.slug}>
-                  <Link href={`/judge/${params.judge}/${p.slug}`} className="text-blue-600 underline">
+                  <Link href={`/judge/${judge}/${p.slug}`} className="text-blue-600 underline">
                     {p.title}
                   </Link>
                 </li>

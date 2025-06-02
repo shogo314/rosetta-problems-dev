@@ -23,17 +23,17 @@ export async function generateStaticParams() {
   return params;
 }
 
-export default async function Page({ params }: { params: { judge: string; problem: string } }) {
-  const filePath = path.join(process.cwd(), "data/judge-problem", params.judge, `${params.problem}.json`);
+export default async function Page({ params }: { params: Promise<{ judge: string; problem: string }> }) {
+  const { judge, problem } = await params;
+
+  const filePath = path.join(process.cwd(), "data/judge-problem", judge, `${problem}.json`);
   try {
     const file = await fs.readFile(filePath, "utf-8");
-    const problem = JSON.parse(file);
+    const problemData = JSON.parse(file);
 
-    // ローカル問題データのパス
     const localProblemDir = path.join(process.cwd(), "data/problem");
     const localFiles = await fs.readdir(localProblemDir);
 
-    // judge/problem の組み合わせと完全一致するローカル問題を探す
     const linkedLocalProblems = [];
     for (const f of localFiles) {
       if (!f.endsWith(".json")) continue;
@@ -43,7 +43,7 @@ export default async function Page({ params }: { params: { judge: string; proble
 
       const match = localProb.sources.some(
         (src: { judge: string; problem: string }) =>
-          src.judge === params.judge && src.problem === params.problem
+          src.judge === judge && src.problem === problem
       );
 
       if (match) {
@@ -53,17 +53,16 @@ export default async function Page({ params }: { params: { judge: string; proble
 
     return (
       <div className="p-6">
-        {/* 親ジャッジページへのリンク */}
         <div className="mb-4">
-          <Link href={`/judge/${params.judge}`} className="text-blue-600 underline">
-            ← {params.judge} に戻る
+          <Link href={`/judge/${judge}`} className="text-blue-600 underline">
+            ← {judge} に戻る
           </Link>
         </div>
 
-        <h1 className="text-2xl font-bold">{problem.title}</h1>
+        <h1 className="text-2xl font-bold">{problemData.title}</h1>
 
         <a
-          href={problem.url}
+          href={problemData.url}
           className="text-blue-600 underline mt-4 block"
           target="_blank"
           rel="noopener noreferrer"
