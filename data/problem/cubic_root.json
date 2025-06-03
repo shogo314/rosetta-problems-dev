@@ -1,0 +1,11 @@
+{
+  "id": "cubic_root",
+  "title": "$\\sqrt[3]{X}$",
+  "description": "$$\n\\sqrt[3]{X}\n$$",
+  "sources": [
+    {
+      "judge": "kep",
+      "problem": "69"
+    }
+  ]
+}

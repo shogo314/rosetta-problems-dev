@@ -1,0 +1,11 @@
+{
+  "id": "x_plus_1",
+  "title": "$X + 1$",
+  "description": "$$\nX + 1\n$$",
+  "sources": [
+    {
+      "judge": "codeany",
+      "problem": "48"
+    }
+  ]
+}

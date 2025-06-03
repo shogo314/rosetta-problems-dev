@@ -1,0 +1,11 @@
+{
+  "id": "x_minus_y",
+  "title": "$X - Y$",
+  "description": "整数が $2$ つ与えられ、$2$ 数の差を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc001_1"
+    }
+  ]
+}

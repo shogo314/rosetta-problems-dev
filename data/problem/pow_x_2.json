@@ -1,0 +1,15 @@
+{
+  "id": "pow_x_2",
+  "title": "$X^2$",
+  "description": "$$\nX^2\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "tessoku_book_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "abc145_a"
+    }
+  ]
+}

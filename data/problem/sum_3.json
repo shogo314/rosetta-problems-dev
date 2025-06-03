@@ -1,0 +1,11 @@
+{
+  "id": "sum_3",
+  "title": "$X + Y + Z$",
+  "description": "$$\nX + Y + Z\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "math_and_algorithm_b"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "max_n",
+  "title": "$\\max A$",
+  "description": "$$\n\\max A\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "chokudai_S001_a"
+    },
+    {
+      "judge": "algo-method",
+      "problem": "213"
+    }
+  ]
+}

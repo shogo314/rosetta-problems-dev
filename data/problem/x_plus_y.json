@@ -1,6 +1,6 @@
 {
-  "id": "a_plus_b",
-  "title": "A + B",
+  "id": "x_plus_y",
+  "title": "$X + Y$",
   "description": "整数が $2$ つ与えられ、$2$ 数の和を求める。",
   "sources": [
     {
@@ -37,6 +37,10 @@
     },
     {
       "judge": "algo-method",
+      "problem": "24"
+    },
+    {
+      "judge": "algo-method",
       "problem": "cce3e762f21f87d6"
     },
     {
@@ -58,6 +62,10 @@
     {
       "judge": "hackerrank",
       "problem": "ysf1-a"
+    },
+    {
+      "judge": "hackerrank",
+      "problem": "solve-me-first"
     },
     {
       "judge": "kep",

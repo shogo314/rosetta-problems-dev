@@ -1,0 +1,15 @@
+{
+  "id": "x_ceildiv_y",
+  "title": "$\\left\\lceil \\frac{X}{Y} \\right\\rceil$",
+  "description": "$$\n\\left\\lceil \\frac{X}{Y} \\right\\rceil\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc036_a"
+    },
+    {
+      "judge": "kep",
+      "problem": "33"
+    }
+  ]
+}

@@ -30,9 +30,19 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
             ← 問題一覧に戻る
           </a>
         </div>
-
-        <h1 className="text-2xl font-bold">{problem.title}</h1>
-
+        <h1 className="text-2xl font-bold">
+          <ReactMarkdown
+            remarkPlugins={[remarkMath]}
+            rehypePlugins={[rehypeKatex]}
+            components={{
+              a: ({ node, ...props }) => (
+                <a {...props} target="_blank" rel="noopener noreferrer" className="text-blue-600 underline" />
+              ),
+            }}
+          >
+            {problem.title}
+          </ReactMarkdown>
+        </h1>
         <div className="mt-2 prose max-w-none">
           <ReactMarkdown
             remarkPlugins={[remarkMath]}

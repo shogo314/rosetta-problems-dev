@@ -1,0 +1,11 @@
+{
+  "id": "max_lcm",
+  "title": "$\\max_{1\\leq i\\le j\\leq n} \\operatorname{lcm}(A_i,A_j)$",
+  "description": "$$\n\\max_{1\\leq i\\le j\\leq n} \\operatorname{lcm}(A_i,A_j)\n$$",
+  "sources": [
+    {
+      "judge": "codeforces",
+      "problem": "1285_F"
+    }
+  ]
+}

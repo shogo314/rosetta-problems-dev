@@ -1,0 +1,15 @@
+{
+  "id": "min_n",
+  "title": "$\\min A$",
+  "description": "$$\n\\min A\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc005_2"
+    },
+    {
+      "judge": "algo-method",
+      "problem": "214"
+    }
+  ]
+}

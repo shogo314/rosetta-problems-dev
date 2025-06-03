@@ -1,0 +1,11 @@
+{
+  "id": "min_lcm",
+  "title": "$\\min_{1\\leq i\\le j\\leq n} \\operatorname{lcm}(A_i,A_j)$",
+  "description": "$$\n\\min_{1\\leq i\\le j\\leq n} \\operatorname{lcm}(A_i,A_j)\n$$",
+  "sources": [
+    {
+      "judge": "codeforces",
+      "problem": "1154_G"
+    }
+  ]
+}

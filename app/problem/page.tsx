@@ -2,6 +2,11 @@ import fs from "fs/promises";
 import path from "path";
 import Link from "next/link";
 import { cache } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import "katex/dist/katex.min.css";
+
 
 const getProblems = cache(async () => {
   const dirPath = path.join(process.cwd(), "data/problem");
@@ -26,7 +31,18 @@ export default async function ProblemListPage() {
         {problems.map(p => (
           <li key={p.id}>
             <Link href={`/problem/${p.id}`} className="text-blue-600 underline">
-              {p.title}
+              <ReactMarkdown
+                remarkPlugins={[remarkMath]}
+                rehypePlugins={[rehypeKatex]}
+                components={{
+                  a: ({ node, ...props }) => (
+                    <a {...props} target="_blank" rel="noopener noreferrer" className="text-blue-600 underline" />
+                  ),
+                  p: ({ node, ...props }) => <span {...props} />  // <p> を <span> に変換してレイアウト崩れを防ぐ
+                }}
+              >
+                {p.title}
+              </ReactMarkdown>
             </Link>
           </li>
         ))}

@@ -1,0 +1,11 @@
+{
+  "id": "x_minus_1",
+  "title": "$X - 1$",
+  "description": "$$\nX - 1\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc007_1"
+    }
+  ]
+}

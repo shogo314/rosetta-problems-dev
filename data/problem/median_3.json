@@ -1,0 +1,11 @@
+{
+  "id": "median_3",
+  "title": "$\\operatorname{median}\\{X,Y,Z\\}$",
+  "description": "$$\n\\operatorname{median}\\{X,Y,Z\\}\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc019_1"
+    }
+  ]
+}

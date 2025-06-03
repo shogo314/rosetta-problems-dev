@@ -1,6 +1,6 @@
 {
-    "slug": "yukicoder",
-    "name": "yukicoder",
-    "description": "yukicoder は日本の競技プログラミングサイトで、様々な難易度の問題が毎日追加され、ユニークな問題が多いことで知られています。定期的にコンテストも開催されています。",
-    "country": "JP"
+  "slug": "yukicoder",
+  "name": "yukicoder",
+  "description": "yukicoder は日本の競技プログラミングサイトで、様々な難易度の問題が毎日追加され、ユニークな問題が多いことで知られています。定期的にコンテストも開催されています。",
+  "country": "JP"
 }

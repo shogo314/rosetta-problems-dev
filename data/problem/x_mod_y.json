@@ -1,0 +1,11 @@
+{
+  "id": "x_mod_y",
+  "title": "$X \\mod Y$",
+  "description": "$$\nX \\mod Y\n$$",
+  "sources": [
+    {
+      "judge": "codeany",
+      "problem": "54"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pow_x_3",
+  "title": "$X^3$",
+  "description": "$$\nX^3\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "joi2022_yo1b_a"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP1_1_B"
+    }
+  ]
+}

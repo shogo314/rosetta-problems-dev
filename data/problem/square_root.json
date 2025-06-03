@@ -1,0 +1,11 @@
+{
+  "id": "square_root",
+  "title": "$\\sqrt{X}$",
+  "description": "$$\n\\sqrt{X}\n$$",
+  "sources": [
+    {
+      "judge": "kep",
+      "problem": "90"
+    }
+  ]
+}

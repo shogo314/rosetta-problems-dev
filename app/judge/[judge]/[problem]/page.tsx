@@ -2,6 +2,10 @@ import { notFound } from "next/navigation";
 import fs from "fs/promises";
 import path from "path";
 import Link from "next/link";
+import ReactMarkdown from "react-markdown";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import "katex/dist/katex.min.css";
 
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "data/judge-problem");
@@ -77,7 +81,13 @@ export default async function Page({ params }: { params: Promise<{ judge: string
               {linkedLocalProblems.map((lp) => (
                 <li key={lp.id}>
                   <Link href={`/problem/${lp.id}`} className="text-blue-600 underline">
-                    {lp.title}
+                    <ReactMarkdown
+                      remarkPlugins={[remarkMath]}
+                      rehypePlugins={[rehypeKatex]}
+                      components={{ p: ({ node, ...props }) => <span {...props} /> }}
+                    >
+                      {lp.title}
+                    </ReactMarkdown>
                   </Link>
                 </li>
               ))}

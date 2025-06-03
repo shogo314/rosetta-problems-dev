@@ -1,0 +1,11 @@
+{
+  "id": "prod_n",
+  "title": "$\\prod_{i=1}^{N} A_i$",
+  "description": "$$\n\\prod_{i=1}^{N} A_i\n$$",
+  "sources": [
+    {
+      "judge": "algo-method",
+      "problem": "54"
+    }
+  ]
+}

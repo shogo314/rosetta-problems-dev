@@ -1,6 +1,6 @@
 {
-    "slug": "hackerearth",
-    "name": "HackerEarth",
-    "description": "HackerEarth は、プログラミングチャレンジやハッカソンを主催するプラットフォームです。競技プログラミングの問題も提供しており、企業が採用活動に利用することもあります。",
-    "country": "IN"
+  "slug": "hackerearth",
+  "name": "HackerEarth",
+  "description": "HackerEarth は、プログラミングチャレンジやハッカソンを主催するプラットフォームです。競技プログラミングの問題も提供しており、企業が採用活動に利用することもあります。",
+  "country": "IN"
 }

@@ -1,0 +1,27 @@
+{
+  "id": "sum_n",
+  "title": "$\\sum_{i=1}^{N} A_i$",
+  "description": "$$\n\\sum_{i=1}^{N} A_i\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc272_a"
+    },
+    {
+      "judge": "algo-method",
+      "problem": "53"
+    },
+    {
+      "judge": "pythoncode-club",
+      "problem": "sum_of_array"
+    },
+    {
+      "judge": "hackerrank",
+      "problem": "simple-array-sum"
+    },
+    {
+      "judge": "hydro",
+      "problem": "ABC272A"
+    }
+  ]
+}

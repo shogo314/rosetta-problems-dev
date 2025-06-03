@@ -1,0 +1,11 @@
+{
+  "id": "pow_x_y_p",
+  "title": "$X^Y\\mod P$",
+  "description": "$$\nX^Y\\mod P\n$$",
+  "sources": [
+    {
+      "judge": "acwing",
+      "problem": "91"
+    }
+  ]
+}

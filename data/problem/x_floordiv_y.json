@@ -1,0 +1,19 @@
+{
+  "id": "x_floordiv_y",
+  "title": "$\\left\\lfloor \\frac{X}{Y} \\right\\rfloor$",
+  "description": "$$\n\\left\\lfloor \\frac{X}{Y} \\right\\rfloor\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc005_1"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "abc186_a"
+    },
+    {
+      "judge": "codeany",
+      "problem": "53"
+    }
+  ]
+}

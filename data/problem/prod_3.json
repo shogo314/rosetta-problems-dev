@@ -1,0 +1,11 @@
+{
+  "id": "prod_3",
+  "title": "$X\\times Y\\times Z$",
+  "description": "$$\nX\\times Y\\times Z\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "math_and_algorithm_d"
+    }
+  ]
+}

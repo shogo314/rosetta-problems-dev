@@ -1,0 +1,19 @@
+{
+  "id": "max_2",
+  "title": "$\\max(X,Y)$",
+  "description": "$$\n\\max(X,Y)\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc002_1"
+    },
+    {
+      "judge": "kep",
+      "problem": "2"
+    },
+    {
+      "judge": "algo-method",
+      "problem": "27"
+    }
+  ]
+}

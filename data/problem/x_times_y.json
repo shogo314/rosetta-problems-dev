@@ -1,0 +1,27 @@
+{
+  "id": "x_times_y",
+  "title": "$X \\times Y$",
+  "description": "$$\nX \\times Y\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc169_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "joi2023_yo1a_a"
+    },
+    {
+      "judge": "codeany",
+      "problem": "49"
+    },
+    {
+      "judge": "codeany",
+      "problem": "50"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "multiplication_of_big_integers"
+    }
+  ]
+}
