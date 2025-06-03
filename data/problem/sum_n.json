@@ -8,6 +8,10 @@
       "problem": "abc272_a"
     },
     {
+      "judge": "atcoder",
+      "problem": "chokudai_S001_b"
+    },
+    {
       "judge": "algo-method",
       "problem": "53"
     },

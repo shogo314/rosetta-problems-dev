@@ -6,6 +6,10 @@
     {
       "judge": "codeany",
       "problem": "54"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "chokudai_S001_g"
     }
   ]
 }
