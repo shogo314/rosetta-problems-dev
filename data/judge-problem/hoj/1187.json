@@ -1,0 +1,11 @@
+{
+  "title": "おつかい",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/1187",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "DP",
+    "初作問",
+    "ナス"
+  ]
+}
