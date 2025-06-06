@@ -1,0 +1,10 @@
+{
+  "title": "Spicy Fruits",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/1350",
+  "time_limit": "2 s",
+  "memory_limit": "512 MB",
+  "tags": [
+    "セグメントツリー",
+    "uryo"
+  ]
+}
