@@ -1,0 +1,11 @@
+{
+  "title": "ナップザック問題(Medium)",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/239",
+  "time_limit": "1 s",
+  "memory_limit": "256 MB",
+  "tags": [
+    "DP",
+    "基本",
+    "アルゴリズムとデータ構造入門"
+  ]
+}
