@@ -2,7 +2,6 @@ import fs from "fs/promises";
 import path from "path";
 import Link from "next/link";
 
-// countryCodeToEmojiは使わず、flag-iconsのクラスを付与するだけに変更
 function FlagIcon({ code }: { code: string | null }) {
   if (!code) return null;
   const cc = code.toLowerCase();
@@ -10,15 +9,19 @@ function FlagIcon({ code }: { code: string | null }) {
 }
 
 export default async function Page() {
-  const dir = path.join(process.cwd(), "data/judge");
-  const files = await fs.readdir(dir);
+  const baseDir = path.join(process.cwd(), "data/judge");
+  const judgeDirs = await fs.readdir(baseDir, { withFileTypes: true });
 
   const judges = await Promise.all(
-    files
-      .filter((name) => name.endsWith(".json"))
-      .map(async (file) => {
-        const content = await fs.readFile(path.join(dir, file), "utf-8");
-        return JSON.parse(content);
+    judgeDirs
+      .filter((dirent) => dirent.isDirectory())
+      .map(async (dirent) => {
+        const slug = dirent.name;
+        const infoPath = path.join(baseDir, slug, "info.json");
+
+        const content = await fs.readFile(infoPath, "utf-8");
+        const data = JSON.parse(content);
+        return { ...data, slug };
       })
   );
 

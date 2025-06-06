@@ -1,9 +1,0 @@
-{
-  "title": "Human_Frog",
-  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/731",
-  "time_limit": "3 s",
-  "memory_limit": "128 MB",
-  "tags": [
-    "幅優先探索"
-  ]
-}

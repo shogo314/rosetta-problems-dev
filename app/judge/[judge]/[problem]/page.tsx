@@ -8,33 +8,43 @@ import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
 
 export async function generateStaticParams() {
-  const dir = path.join(process.cwd(), "data/judge-problem");
-  const judges = await fs.readdir(dir);
+  const judgeBaseDir = path.join(process.cwd(), "data/judge");
+  const judgeDirs = await fs.readdir(judgeBaseDir, { withFileTypes: true });
 
   const params = [];
-  for (const judge of judges) {
-    const problemsDir = path.join(dir, judge);
-    const files = await fs.readdir(problemsDir);
-    for (const file of files) {
-      if (file.endsWith(".json")) {
-        params.push({
-          judge,
-          problem: file.replace(".json", ""),
-        });
+
+  for (const dirent of judgeDirs) {
+    if (!dirent.isDirectory()) continue;
+    const judge = dirent.name;
+    const problemPath = path.join(judgeBaseDir, judge, "problem.json");
+
+    try {
+      const content = await fs.readFile(problemPath, "utf-8");
+      const problems: { id: string }[] = JSON.parse(content);
+
+      for (const p of problems) {
+        params.push({ judge, problem: p.id });
       }
+    } catch {
+      continue;
     }
   }
+
   return params;
 }
 
 export default async function Page({ params }: { params: Promise<{ judge: string; problem: string }> }) {
   const { judge, problem } = await params;
 
-  const filePath = path.join(process.cwd(), "data/judge-problem", judge, `${problem}.json`);
+  const problemPath = path.join(process.cwd(), "data/judge", judge, "problem.json");
   try {
-    const file = await fs.readFile(filePath, "utf-8");
-    const problemData = JSON.parse(file);
+    const content = await fs.readFile(problemPath, "utf-8");
+    const problems: any[] = JSON.parse(content);
+    const problemData = problems.find((p) => p.id === problem);
 
+    if (!problemData) return notFound();
+
+    // ローカル対応問題の探索
     const localProblemDir = path.join(process.cwd(), "data/problem");
     const localFiles = await fs.readdir(localProblemDir);
 

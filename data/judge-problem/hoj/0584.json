@@ -1,9 +1,0 @@
-{
-  "title": "最長の数列",
-  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/584",
-  "time_limit": "1 s",
-  "memory_limit": "256 MB",
-  "tags": [
-    "DP"
-  ]
-}
