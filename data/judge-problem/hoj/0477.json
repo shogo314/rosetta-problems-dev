@@ -1,0 +1,9 @@
+{
+  "title": "the_number_of_puddles",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/477",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "深さ優先探索"
+  ]
+}

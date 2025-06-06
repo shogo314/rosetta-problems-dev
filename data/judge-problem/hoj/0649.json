@@ -1,0 +1,12 @@
+{
+  "title": "区間和(セグ木、BIT練習)",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/649",
+  "time_limit": "4 s",
+  "memory_limit": "256 MB",
+  "tags": [
+    "セグメントツリー",
+    "基本",
+    "Binary Indexed Tree",
+    "アルゴリズムとデータ構造入門"
+  ]
+}

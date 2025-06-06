@@ -1,0 +1,10 @@
+{
+  "title": "スニーカーマン",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/462",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "ダイクストラ",
+    "経路復元"
+  ]
+}
