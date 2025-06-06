@@ -1,0 +1,15 @@
+{
+  "id": "is_leap",
+  "title": "うるう年判定",
+  "description": "うるう年かどうかの判定をする",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc365_a"
+    },
+    {
+      "judge": "algo-method",
+      "problem": "61114gB"
+    }
+  ]
+}
