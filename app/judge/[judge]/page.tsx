@@ -20,14 +20,9 @@ export default async function Page({ params }: { params: Promise<{ judge: string
     const judgeProblemDir = path.join(process.cwd(), "data/judge-problem", judge);
     const problemFiles = await fs.readdir(judgeProblemDir);
 
-    const problems = [];
-    for (const file of problemFiles) {
-      if (!file.endsWith(".json")) continue;
-      const content = await fs.readFile(path.join(judgeProblemDir, file), "utf-8");
-      const problem = JSON.parse(content);
-      const slug = file.replace(/\.json$/, "");
-      problems.push({ ...problem, slug });
-    }
+    const slugs = problemFiles
+      .filter((file) => file.endsWith(".json"))
+      .map((file) => file.replace(/\.json$/, ""));
 
     return (
       <div className="p-6">
@@ -41,14 +36,14 @@ export default async function Page({ params }: { params: Promise<{ judge: string
         <h1 className="text-2xl font-bold">{judgeData.name}</h1>
         <p className="mt-2">{judgeData.description}</p>
 
-        {problems.length > 0 && (
+        {slugs.length > 0 && (
           <>
             <h2 className="mt-8 text-xl font-semibold">問題一覧</h2>
             <ul className="list-disc ml-6 mt-2">
-              {problems.map((p) => (
-                <li key={p.slug}>
-                  <Link href={`/judge/${judge}/${p.slug}`} className="text-blue-600 underline">
-                    {p.title}
+              {slugs.map((slug) => (
+                <li key={slug}>
+                  <Link href={`/judge/${judge}/${slug}`} className="text-blue-600 underline">
+                    {slug}
                   </Link>
                 </li>
               ))}

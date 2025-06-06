@@ -71,7 +71,7 @@ export default async function Page({ params }: { params: Promise<{ judge: string
           target="_blank"
           rel="noopener noreferrer"
         >
-          オリジナルページを開く
+          {problemData.url}
         </a>
 
         {linkedLocalProblems.length > 0 && (

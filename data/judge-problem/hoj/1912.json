@@ -1,0 +1,10 @@
+{
+  "title": "RMQ2",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/1912",
+  "time_limit": "0.5 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "セグメントツリー",
+    "ei2332"
+  ]
+}
