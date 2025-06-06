@@ -1,0 +1,10 @@
+{
+  "title": "square root2",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/1781",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "二分探索",
+    "ei2332"
+  ]
+}

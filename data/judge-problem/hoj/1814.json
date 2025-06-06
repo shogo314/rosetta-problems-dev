@@ -1,0 +1,9 @@
+{
+  "title": "最長経路問題",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/1814",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "NP困難"
+  ]
+}

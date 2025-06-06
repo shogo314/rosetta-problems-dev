@@ -52,7 +52,7 @@ def fetch_problems(page=1):
 
 def download():
     d = Path().joinpath("data", "judge-problem", "hoj")
-    for page in range(1, 34):
+    for page in range(3, 34):
         problems = fetch_problems(page)
         for prob in problems:
             print(f"{prob['id']}: {prob['title']} ({prob['link']})")

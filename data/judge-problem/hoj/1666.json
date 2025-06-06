@@ -1,0 +1,12 @@
+{
+  "title": "リス地バラバラクラフト(初級編)",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/1666",
+  "time_limit": "0.5 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "UnionFind",
+    "初作問",
+    "1年作問プロコン",
+    "ei2326"
+  ]
+}
