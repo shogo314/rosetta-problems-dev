@@ -1,0 +1,11 @@
+{
+  "title": "文字列の町(The town of String)",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/807",
+  "time_limit": "8 s",
+  "memory_limit": "512 MB",
+  "tags": [
+    "DP",
+    "ナウマンゾウクレイジー",
+    "強連結成分分解"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "回れ雛月花 -Extra",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/735",
+  "time_limit": "2 s",
+  "memory_limit": "256 MB",
+  "tags": [
+    "幅優先探索",
+    "雛ちゃん",
+    "ダイクストラ",
+    "東方",
+    "bitDP",
+    "bit演算",
+    "Eraim"
+  ]
+}

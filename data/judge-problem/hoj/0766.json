@@ -1,0 +1,9 @@
+{
+  "title": "さんちゅう（たしじゃん）※算数（足し算）",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/766",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "深さ優先探索"
+  ]
+}

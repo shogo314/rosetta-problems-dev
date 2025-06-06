@@ -1,0 +1,10 @@
+{
+  "title": "School Load (much bigger!)",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/743",
+  "time_limit": "1 s",
+  "memory_limit": "64 MB",
+  "tags": [
+    "Modulo演算",
+    "繰り返し二乗法"
+  ]
+}

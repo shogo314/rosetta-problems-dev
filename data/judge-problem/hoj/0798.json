@@ -1,0 +1,17 @@
+{
+  "title": "宗教戦争",
+  "url": "https://hoj.hamako-ths.ed.jp/onlinejudge/problems/798",
+  "time_limit": "1 s",
+  "memory_limit": "256 MB",
+  "tags": [
+    "貪欲",
+    "雛ちゃん",
+    "深さ優先探索",
+    "UnionFind",
+    "ナウマンゾウクレイジー",
+    "アリス",
+    "コーヒー",
+    "凸包",
+    "Eraim"
+  ]
+}
