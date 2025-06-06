@@ -1,0 +1,31 @@
+{
+  "id": "hello_world",
+  "title": "Hello World",
+  "description": "`Hello World` といった決められた文字列を出力する",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "APG4b_a"
+    },
+    {
+      "judge": "kep",
+      "problem": "34"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP1_1_A"
+    },
+    {
+      "judge": "loj",
+      "problem": "2"
+    },
+    {
+      "judge": "hoj",
+      "problem": "0001"
+    },
+    {
+      "judge": "codeany",
+      "problem": "46"
+    }
+  ]
+}
