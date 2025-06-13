@@ -26,6 +26,10 @@
     {
       "judge": "codeany",
       "problem": "46"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "1"
     }
   ]
 }

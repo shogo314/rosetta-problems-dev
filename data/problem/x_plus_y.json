@@ -150,6 +150,10 @@
     {
       "judge": "eolymp",
       "problem": "8806"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "2"
     }
   ]
 }
