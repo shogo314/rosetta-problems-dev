@@ -1,0 +1,15 @@
+{
+  "id": "floor_square_root",
+  "title": "$\\left\\lfloor\\sqrt{X}\\right\\rfloor$",
+  "description": "$$\n\\left\\lfloor\\sqrt{X}\\right\\rfloor\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "nikkei2019ex_b"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "12"
+    }
+  ]
+}
