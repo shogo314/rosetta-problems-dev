@@ -2,26 +2,1913 @@
   {
     "id": "addition_of_big_integers",
     "title": "Addition of Big Integers",
-    "url": "https://judge.yosupo.jp/problem/addition_of_big_integers"
+    "url": "https://judge.yosupo.jp/problem/addition_of_big_integers",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "addition_of_hex_big_integers",
+    "title": "Addition of Hex Big Integers",
+    "url": "https://judge.yosupo.jp/problem/addition_of_hex_big_integers",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "adjugate_matrix",
+    "title": "Adjugate Matrix",
+    "url": "https://judge.yosupo.jp/problem/adjugate_matrix",
+    "data": {
+      "timelimit": 5.0
+    }
   },
   {
     "id": "aplusb",
     "title": "A + B",
-    "url": "https://judge.yosupo.jp/problem/aplusb"
+    "url": "https://judge.yosupo.jp/problem/aplusb",
+    "data": {
+      "timelimit": 2.0
+    }
+  },
+  {
+    "id": "area_of_union_of_rectangles",
+    "title": "Area of Union of Rectangles",
+    "url": "https://judge.yosupo.jp/problem/area_of_union_of_rectangles",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "assignment",
+    "title": "Assignment Problem",
+    "url": "https://judge.yosupo.jp/problem/assignment",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "associative_array",
+    "title": "Associative Array",
+    "url": "https://judge.yosupo.jp/problem/associative_array",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "bell_number",
+    "title": "Bell Number",
+    "url": "https://judge.yosupo.jp/problem/bell_number",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "bernoulli_number",
+    "title": "Bernoulli Number",
+    "url": "https://judge.yosupo.jp/problem/bernoulli_number",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "biconnected_components",
+    "title": "Biconnected Components",
+    "url": "https://judge.yosupo.jp/problem/biconnected_components",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "binomial_coefficient",
+    "title": "Binomial Coefficient",
+    "url": "https://judge.yosupo.jp/problem/binomial_coefficient",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "binomial_coefficient_prime_mod",
+    "title": "Binomial Coefficient (Prime Mod)",
+    "url": "https://judge.yosupo.jp/problem/binomial_coefficient_prime_mod",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "bipartite_edge_coloring",
+    "title": "Edge Coloring of Bipartite Graph",
+    "url": "https://judge.yosupo.jp/problem/bipartite_edge_coloring",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "bipartitematching",
+    "title": "Matching on Bipartite Graph",
+    "url": "https://judge.yosupo.jp/problem/bipartitematching",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "bitwise_and_convolution",
+    "title": "Bitwise And Convolution",
+    "url": "https://judge.yosupo.jp/problem/bitwise_and_convolution",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "bitwise_xor_convolution",
+    "title": "Bitwise Xor Convolution",
+    "url": "https://judge.yosupo.jp/problem/bitwise_xor_convolution",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "cartesian_tree",
+    "title": "Cartesian Tree",
+    "url": "https://judge.yosupo.jp/problem/cartesian_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "characteristic_polynomial",
+    "title": "Characteristic Polynomial",
+    "url": "https://judge.yosupo.jp/problem/characteristic_polynomial",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "chordal_graph_recognition",
+    "title": "Chordal Graph Recognition",
+    "url": "https://judge.yosupo.jp/problem/chordal_graph_recognition",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "chromatic_number",
+    "title": "Chromatic Number",
+    "url": "https://judge.yosupo.jp/problem/chromatic_number",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "chromatic_polynomial",
+    "title": "Chromatic Polynomial",
+    "url": "https://judge.yosupo.jp/problem/chromatic_polynomial",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "closest_pair",
+    "title": "Closest Pair of Points",
+    "url": "https://judge.yosupo.jp/problem/closest_pair",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "common_interval_decomposition_tree",
+    "title": "Common Interval Decomposition Tree",
+    "url": "https://judge.yosupo.jp/problem/common_interval_decomposition_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "composition_of_formal_power_series",
+    "title": "Composition of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/composition_of_formal_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "composition_of_formal_power_series_large",
+    "title": "Composition of Formal Power Series (Large)",
+    "url": "https://judge.yosupo.jp/problem/composition_of_formal_power_series_large",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "compositional_inverse_of_formal_power_series",
+    "title": "Compositional Inverse of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/compositional_inverse_of_formal_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "compositional_inverse_of_formal_power_series_large",
+    "title": "Compositional Inverse of Formal Power Series (Large)",
+    "url": "https://judge.yosupo.jp/problem/compositional_inverse_of_formal_power_series_large",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "connected_components_of_complement_graph",
+    "title": "Connected Components of Complement Graph",
+    "url": "https://judge.yosupo.jp/problem/connected_components_of_complement_graph",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "consecutive_terms_of_linear_recurrent_sequence",
+    "title": "Consecutive Terms of Linear Recurrent Sequence",
+    "url": "https://judge.yosupo.jp/problem/consecutive_terms_of_linear_recurrent_sequence",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "conversion_from_monomial_basis_to_newton_basis",
+    "title": "Conversion from Monomial Basis to Newton Basis",
+    "url": "https://judge.yosupo.jp/problem/conversion_from_monomial_basis_to_newton_basis",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "convex_layers",
+    "title": "Convex Layers",
+    "url": "https://judge.yosupo.jp/problem/convex_layers",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "convolution_mod",
+    "title": "Convolution",
+    "url": "https://judge.yosupo.jp/problem/convolution_mod",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "convolution_mod_1000000007",
+    "title": "Convolution (Mod 1,000,000,007)",
+    "url": "https://judge.yosupo.jp/problem/convolution_mod_1000000007",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "convolution_mod_2_64",
+    "title": "Convolution (Mod 2^64)",
+    "url": "https://judge.yosupo.jp/problem/convolution_mod_2_64",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "convolution_mod_large",
+    "title": "Convolution (Large)",
+    "url": "https://judge.yosupo.jp/problem/convolution_mod_large",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "count_points_in_triangle",
+    "title": "Count Points in Triangles",
+    "url": "https://judge.yosupo.jp/problem/count_points_in_triangle",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "counting_c4",
+    "title": "Counting $C _ 4$'s",
+    "url": "https://judge.yosupo.jp/problem/counting_c4",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "counting_eulerian_circuits",
+    "title": "Counting Eulerian Circuits",
+    "url": "https://judge.yosupo.jp/problem/counting_eulerian_circuits",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "counting_primes",
+    "title": "Counting Primes",
+    "url": "https://judge.yosupo.jp/problem/counting_primes",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "counting_spanning_tree_directed",
+    "title": "Counting Spanning Trees (Directed)",
+    "url": "https://judge.yosupo.jp/problem/counting_spanning_tree_directed",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "counting_spanning_tree_undirected",
+    "title": "Counting Spanning Trees (Undirected)",
+    "url": "https://judge.yosupo.jp/problem/counting_spanning_tree_undirected",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "counting_squarefrees",
+    "title": "Counting Square-free Integers",
+    "url": "https://judge.yosupo.jp/problem/counting_squarefrees",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "cycle_detection",
+    "title": "Cycle Detection (Directed)",
+    "url": "https://judge.yosupo.jp/problem/cycle_detection",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "cycle_detection_undirected",
+    "title": "Cycle Detection (Undirected)",
+    "url": "https://judge.yosupo.jp/problem/cycle_detection_undirected",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "deque_operate_all_composite",
+    "title": "Deque Operate All Composite",
+    "url": "https://judge.yosupo.jp/problem/deque_operate_all_composite",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "directedmst",
+    "title": "Directed MST",
+    "url": "https://judge.yosupo.jp/problem/directedmst",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "discrete_logarithm_mod",
+    "title": "Discrete Logarithm",
+    "url": "https://judge.yosupo.jp/problem/discrete_logarithm_mod",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "division_of_big_integers",
+    "title": "Division of Big Integers",
+    "url": "https://judge.yosupo.jp/problem/division_of_big_integers",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "division_of_hex_big_integers",
+    "title": "Division of Hex Big Integers",
+    "url": "https://judge.yosupo.jp/problem/division_of_hex_big_integers",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "division_of_polynomials",
+    "title": "Division of Polynomials",
+    "url": "https://judge.yosupo.jp/problem/division_of_polynomials",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "dominatortree",
+    "title": "Dominator Tree",
+    "url": "https://judge.yosupo.jp/problem/dominatortree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "double_ended_priority_queue",
+    "title": "Double-Ended Priority Queue",
+    "url": "https://judge.yosupo.jp/problem/double_ended_priority_queue",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "dynamic_graph_vertex_add_component_sum",
+    "title": "Dynamic Graph Vertex Add Component Sum",
+    "url": "https://judge.yosupo.jp/problem/dynamic_graph_vertex_add_component_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "dynamic_point_set_rectangle_affine_rectangle_sum",
+    "title": "Dynamic Point Rectangle Affine Rectangle Sum",
+    "url": "https://judge.yosupo.jp/problem/dynamic_point_set_rectangle_affine_rectangle_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "dynamic_sequence_range_affine_range_sum",
+    "title": "Dynamic Sequence Range Affine Range Sum",
+    "url": "https://judge.yosupo.jp/problem/dynamic_sequence_range_affine_range_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "dynamic_tree_subtree_add_subtree_sum",
+    "title": "Dynamic Tree Subtree Add Subtree Sum",
+    "url": "https://judge.yosupo.jp/problem/dynamic_tree_subtree_add_subtree_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "dynamic_tree_vertex_add_path_sum",
+    "title": "Dynamic Tree Vertex Add Path Sum",
+    "url": "https://judge.yosupo.jp/problem/dynamic_tree_vertex_add_path_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "dynamic_tree_vertex_add_subtree_sum",
+    "title": "Dynamic Tree Vertex Add Subtree Sum",
+    "url": "https://judge.yosupo.jp/problem/dynamic_tree_vertex_add_subtree_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "dynamic_tree_vertex_set_path_composite",
+    "title": "Dynamic Tree Vertex Set Path Composite",
+    "url": "https://judge.yosupo.jp/problem/dynamic_tree_vertex_set_path_composite",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "eertree",
+    "title": "Eertree",
+    "url": "https://judge.yosupo.jp/problem/eertree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "enumerate_cliques",
+    "title": "Enumerate Cliques",
+    "url": "https://judge.yosupo.jp/problem/enumerate_cliques",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "enumerate_palindromes",
+    "title": "Enumerate Palindromes",
+    "url": "https://judge.yosupo.jp/problem/enumerate_palindromes",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "enumerate_primes",
+    "title": "Enumerate Primes",
+    "url": "https://judge.yosupo.jp/problem/enumerate_primes",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "enumerate_quotients",
+    "title": "Enumerate Quotients",
+    "url": "https://judge.yosupo.jp/problem/enumerate_quotients",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "enumerate_triangles",
+    "title": "Enumerate Triangles",
+    "url": "https://judge.yosupo.jp/problem/enumerate_triangles",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "euclidean_mst",
+    "title": "Euclidean MST",
+    "url": "https://judge.yosupo.jp/problem/euclidean_mst",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "eulerian_trail_directed",
+    "title": "Eulerian Trail (Directed)",
+    "url": "https://judge.yosupo.jp/problem/eulerian_trail_directed",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "eulerian_trail_undirected",
+    "title": "Eulerian Trail (Undirected)",
+    "url": "https://judge.yosupo.jp/problem/eulerian_trail_undirected",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "exp_of_formal_power_series",
+    "title": "Exp of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/exp_of_formal_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "exp_of_formal_power_series_sparse",
+    "title": "Exp of Formal Power Series (Sparse)",
+    "url": "https://judge.yosupo.jp/problem/exp_of_formal_power_series_sparse",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "exp_of_set_power_series",
+    "title": "Exp of Set Power Series",
+    "url": "https://judge.yosupo.jp/problem/exp_of_set_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "factorial",
+    "title": "Factorial",
+    "url": "https://judge.yosupo.jp/problem/factorial",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "factorize",
+    "title": "Factorize",
+    "url": "https://judge.yosupo.jp/problem/factorize",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "find_linear_recurrence",
+    "title": "Find Linear Recurrence",
+    "url": "https://judge.yosupo.jp/problem/find_linear_recurrence",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "frequency_table_of_tree_distance",
+    "title": "Frequency Table of Tree Distance",
+    "url": "https://judge.yosupo.jp/problem/frequency_table_of_tree_distance",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "furthest_pair",
+    "title": "Furthest Pair of Points",
+    "url": "https://judge.yosupo.jp/problem/furthest_pair",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "gcd_convolution",
+    "title": "Gcd Convolution",
+    "url": "https://judge.yosupo.jp/problem/gcd_convolution",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "gcd_of_gaussian_integers",
+    "title": "Gcd of Gaussian Integers",
+    "url": "https://judge.yosupo.jp/problem/gcd_of_gaussian_integers",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "general_matching",
+    "title": "Matching on General Graph",
+    "url": "https://judge.yosupo.jp/problem/general_matching",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "general_weighted_matching",
+    "title": "General Weighted Matching",
+    "url": "https://judge.yosupo.jp/problem/general_weighted_matching",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "global_minimum_cut_of_dynamic_star_augmented_graph",
+    "title": "Global Minimum Cut of Dynamic Star Augmented Graph",
+    "url": "https://judge.yosupo.jp/problem/global_minimum_cut_of_dynamic_star_augmented_graph",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "hafnian_of_matrix",
+    "title": "Hafnian of Matrix",
+    "url": "https://judge.yosupo.jp/problem/hafnian_of_matrix",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "incremental_minimum_spanning_forest",
+    "title": "Incremental Minimum Spanning Forest",
+    "url": "https://judge.yosupo.jp/problem/incremental_minimum_spanning_forest",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "incremental_scc",
+    "title": "Strongly Connected Components (Incremental)",
+    "url": "https://judge.yosupo.jp/problem/incremental_scc",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "intersection_of_f2_vector_spaces",
+    "title": "Intersection of $\\mathbb{F}_{2}$ vector spaces",
+    "url": "https://judge.yosupo.jp/problem/intersection_of_f2_vector_spaces",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "inv_of_formal_power_series",
+    "title": "Inv of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/inv_of_formal_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "inv_of_formal_power_series_sparse",
+    "title": "Inv of Formal Power Series (Sparse)",
+    "url": "https://judge.yosupo.jp/problem/inv_of_formal_power_series_sparse",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "inv_of_polynomials",
+    "title": "Inv of Polynomials",
+    "url": "https://judge.yosupo.jp/problem/inv_of_polynomials",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "inverse_matrix",
+    "title": "Inverse Matrix",
+    "url": "https://judge.yosupo.jp/problem/inverse_matrix",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "inverse_matrix_mod_2",
+    "title": "Inverse Matrix (Mod 2)",
+    "url": "https://judge.yosupo.jp/problem/inverse_matrix_mod_2",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "jump_on_tree",
+    "title": "Jump on Tree",
+    "url": "https://judge.yosupo.jp/problem/jump_on_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "k_shortest_walk",
+    "title": "K-Shortest Walk",
+    "url": "https://judge.yosupo.jp/problem/k_shortest_walk",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "kth_root_integer",
+    "title": "Kth Root (Integer)",
+    "url": "https://judge.yosupo.jp/problem/kth_root_integer",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "kth_root_mod",
+    "title": "Kth Root (Mod)",
+    "url": "https://judge.yosupo.jp/problem/kth_root_mod",
+    "data": {
+      "timelimit": 5
+    }
+  },
+  {
+    "id": "kth_term_of_linearly_recurrent_sequence",
+    "title": "Kth term of Linearly Recurrent Sequence",
+    "url": "https://judge.yosupo.jp/problem/kth_term_of_linearly_recurrent_sequence",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "lca",
+    "title": "Lowest Common Ancestor",
+    "url": "https://judge.yosupo.jp/problem/lca",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "lcm_convolution",
+    "title": "Lcm Convolution",
+    "url": "https://judge.yosupo.jp/problem/lcm_convolution",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "line_add_get_min",
+    "title": "Line Add Get Min",
+    "url": "https://judge.yosupo.jp/problem/line_add_get_min",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "log_of_formal_power_series",
+    "title": "Log of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/log_of_formal_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "log_of_formal_power_series_sparse",
+    "title": "Log of Formal Power Series (Sparse)",
+    "url": "https://judge.yosupo.jp/problem/log_of_formal_power_series_sparse",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "longest_common_substring",
+    "title": "Longest Common Substring",
+    "url": "https://judge.yosupo.jp/problem/longest_common_substring",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "longest_increasing_subsequence",
+    "title": "Longest Increasing Subsequence",
+    "url": "https://judge.yosupo.jp/problem/longest_increasing_subsequence",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "lyndon_factorization",
+    "title": "Lyndon Factorization",
+    "url": "https://judge.yosupo.jp/problem/lyndon_factorization",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "majority_voting",
+    "title": "Majority Voting",
+    "url": "https://judge.yosupo.jp/problem/majority_voting",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "manhattanmst",
+    "title": "Manhattan MST",
+    "url": "https://judge.yosupo.jp/problem/manhattanmst",
+    "data": {
+      "timelimit": 5.0
+    }
   },
   {
     "id": "many_aplusb",
     "title": "Many A + B",
-    "url": "https://judge.yosupo.jp/problem/many_aplusb"
+    "url": "https://judge.yosupo.jp/problem/many_aplusb",
+    "data": {
+      "timelimit": 5.0
+    }
   },
   {
     "id": "many_aplusb_128bit",
     "title": "Many A + B (128 bit)",
-    "url": "https://judge.yosupo.jp/problem/many_aplusb_128bit"
+    "url": "https://judge.yosupo.jp/problem/many_aplusb_128bit",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "many_factorials",
+    "title": "Many Factorials",
+    "url": "https://judge.yosupo.jp/problem/many_factorials",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "matrix_det",
+    "title": "Determinant of Matrix",
+    "url": "https://judge.yosupo.jp/problem/matrix_det",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "matrix_det_arbitrary_mod",
+    "title": "Determinant of Matrix (Arbitrary Mod)",
+    "url": "https://judge.yosupo.jp/problem/matrix_det_arbitrary_mod",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "matrix_det_mod_2",
+    "title": "Determinant of Matrix (Mod 2)",
+    "url": "https://judge.yosupo.jp/problem/matrix_det_mod_2",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "matrix_product",
+    "title": "Matrix Product",
+    "url": "https://judge.yosupo.jp/problem/matrix_product",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "matrix_product_mod_2",
+    "title": "Matrix Product (Mod 2)",
+    "url": "https://judge.yosupo.jp/problem/matrix_product_mod_2",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "matrix_rank",
+    "title": "Rank of Matrix",
+    "url": "https://judge.yosupo.jp/problem/matrix_rank",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "matrix_rank_mod_2",
+    "title": "Rank of Matrix (Mod 2)",
+    "url": "https://judge.yosupo.jp/problem/matrix_rank_mod_2",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "maximum_independent_set",
+    "title": "Maximum Independent Set",
+    "url": "https://judge.yosupo.jp/problem/maximum_independent_set",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "min_cost_b_flow",
+    "title": "Minimum Cost b-flow",
+    "url": "https://judge.yosupo.jp/problem/min_cost_b_flow",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "min_of_mod_of_linear",
+    "title": "Min of Mod of Linear",
+    "url": "https://judge.yosupo.jp/problem/min_of_mod_of_linear",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "min_plus_convolution_concave_arbitrary",
+    "title": "Min Plus Convolution (Concave and Arbitrary)",
+    "url": "https://judge.yosupo.jp/problem/min_plus_convolution_concave_arbitrary",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "min_plus_convolution_convex_arbitrary",
+    "title": "Min Plus Convolution (Convex and Arbitrary)",
+    "url": "https://judge.yosupo.jp/problem/min_plus_convolution_convex_arbitrary",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "min_plus_convolution_convex_convex",
+    "title": "Min Plus Convolution (Convex and Convex)",
+    "url": "https://judge.yosupo.jp/problem/min_plus_convolution_convex_convex",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "minimum_diameter_spanning_tree",
+    "title": "Minimum Diameter Spanning Tree",
+    "url": "https://judge.yosupo.jp/problem/minimum_diameter_spanning_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "minimum_spanning_tree",
+    "title": "Minimum Spanning Tree",
+    "url": "https://judge.yosupo.jp/problem/minimum_spanning_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "minimum_steiner_tree",
+    "title": "Minimum Steiner Tree",
+    "url": "https://judge.yosupo.jp/problem/minimum_steiner_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "montmort_number_mod",
+    "title": "Montmort Number",
+    "url": "https://judge.yosupo.jp/problem/montmort_number_mod",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "mul_mod2n_convolution",
+    "title": "Convolution on the Multiplicative Monoid of $\\mathbb{Z} / 2^N\\mathbb{Z}$",
+    "url": "https://judge.yosupo.jp/problem/mul_mod2n_convolution",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "mul_modp_convolution",
+    "title": "Convolution on the Multiplicative Monoid of $\\mathbb{Z} / P\\mathbb{Z}$",
+    "url": "https://judge.yosupo.jp/problem/mul_modp_convolution",
+    "data": {
+      "timelimit": 5.0
+    }
   },
   {
     "id": "multiplication_of_big_integers",
     "title": "Multiplication of Big Integers",
-    "url": "https://judge.yosupo.jp/problem/multiplication_of_big_integers"
+    "url": "https://judge.yosupo.jp/problem/multiplication_of_big_integers",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "multiplication_of_hex_big_integers",
+    "title": "Multiplication of Hex Big Integers",
+    "url": "https://judge.yosupo.jp/problem/multiplication_of_hex_big_integers",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "multipoint_evaluation",
+    "title": "Multipoint Evaluation",
+    "url": "https://judge.yosupo.jp/problem/multipoint_evaluation",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "multipoint_evaluation_on_geometric_sequence",
+    "title": "Multipoint Evaluation (Geometric Sequence)",
+    "url": "https://judge.yosupo.jp/problem/multipoint_evaluation_on_geometric_sequence",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "multivariate_convolution",
+    "title": "Multidimensional Convolution (Truncated)",
+    "url": "https://judge.yosupo.jp/problem/multivariate_convolution",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "multivariate_convolution_cyclic",
+    "title": "Multidimensional Convolution (Circular)",
+    "url": "https://judge.yosupo.jp/problem/multivariate_convolution_cyclic",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "nim_product_64",
+    "title": "Nim Product ($\\mathbb{F}_{2^{64}}$)",
+    "url": "https://judge.yosupo.jp/problem/nim_product_64",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "number_of_increasing_sequences_between_two_sequences",
+    "title": "Number of Increasing Sequences Between Two Sequences",
+    "url": "https://judge.yosupo.jp/problem/number_of_increasing_sequences_between_two_sequences",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "number_of_subsequences",
+    "title": "Number of Subsequences ",
+    "url": "https://judge.yosupo.jp/problem/number_of_subsequences",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "number_of_substrings",
+    "title": "Number of Substrings",
+    "url": "https://judge.yosupo.jp/problem/number_of_substrings",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "ordered_set",
+    "title": "Ordered Set",
+    "url": "https://judge.yosupo.jp/problem/ordered_set",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "palindromes_in_deque",
+    "title": "Palindromes in Deque",
+    "url": "https://judge.yosupo.jp/problem/palindromes_in_deque",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "partition_function",
+    "title": "Partition Function",
+    "url": "https://judge.yosupo.jp/problem/partition_function",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "persistent_queue",
+    "title": "Persistent Queue",
+    "url": "https://judge.yosupo.jp/problem/persistent_queue",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "persistent_range_affine_range_sum",
+    "title": "Persistent Range Affine Range Sum",
+    "url": "https://judge.yosupo.jp/problem/persistent_range_affine_range_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "persistent_unionfind",
+    "title": "Persistent Unionfind",
+    "url": "https://judge.yosupo.jp/problem/persistent_unionfind",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "pfaffian_of_matrix",
+    "title": "Pfaffian of Matrix",
+    "url": "https://judge.yosupo.jp/problem/pfaffian_of_matrix",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "point_add_range_sum",
+    "title": "Point Add Range Sum",
+    "url": "https://judge.yosupo.jp/problem/point_add_range_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "point_add_rectangle_sum",
+    "title": "Point Add Rectangle Sum",
+    "url": "https://judge.yosupo.jp/problem/point_add_rectangle_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "point_set_range_composite",
+    "title": "Point Set Range Composite",
+    "url": "https://judge.yosupo.jp/problem/point_set_range_composite",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "point_set_range_composite_large_array",
+    "title": "Point Set Range Composite (Large Array)",
+    "url": "https://judge.yosupo.jp/problem/point_set_range_composite_large_array",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "point_set_range_frequency",
+    "title": "Point Set Range Frequency",
+    "url": "https://judge.yosupo.jp/problem/point_set_range_frequency",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "point_set_range_sort_range_composite",
+    "title": "Point Set Range Sort Range Composite",
+    "url": "https://judge.yosupo.jp/problem/point_set_range_sort_range_composite",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "point_set_tree_path_composite_sum",
+    "title": "Point Set Tree Path Composite Sum",
+    "url": "https://judge.yosupo.jp/problem/point_set_tree_path_composite_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "point_set_tree_path_composite_sum_fixed_root",
+    "title": "Point Set Tree Path Composite Sum (Fixed Root)",
+    "url": "https://judge.yosupo.jp/problem/point_set_tree_path_composite_sum_fixed_root",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "polynomial_composite_set_power_series",
+    "title": "Polynomial Composite Set Power Series",
+    "url": "https://judge.yosupo.jp/problem/polynomial_composite_set_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "polynomial_interpolation",
+    "title": "Polynomial Interpolation",
+    "url": "https://judge.yosupo.jp/problem/polynomial_interpolation",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "polynomial_interpolation_on_geometric_sequence",
+    "title": "Polynomial Interpolation (Geometric Sequence)",
+    "url": "https://judge.yosupo.jp/problem/polynomial_interpolation_on_geometric_sequence",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "polynomial_root_finding",
+    "title": "Polynomial Root Finding (Mod 998244353)",
+    "url": "https://judge.yosupo.jp/problem/polynomial_root_finding",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "polynomial_taylor_shift",
+    "title": "Polynomial Taylor Shift",
+    "url": "https://judge.yosupo.jp/problem/polynomial_taylor_shift",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "pow_of_formal_power_series",
+    "title": "Pow of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/pow_of_formal_power_series",
+    "data": {
+      "timelimit": 10
+    }
+  },
+  {
+    "id": "pow_of_formal_power_series_sparse",
+    "title": "Pow of Formal Power Series (Sparse)",
+    "url": "https://judge.yosupo.jp/problem/pow_of_formal_power_series_sparse",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "pow_of_matrix",
+    "title": "Pow of Matrix",
+    "url": "https://judge.yosupo.jp/problem/pow_of_matrix",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "power_projection_of_set_power_series",
+    "title": "Power Projection of Set Power Series",
+    "url": "https://judge.yosupo.jp/problem/power_projection_of_set_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "predecessor_problem",
+    "title": "Predecessor Problem",
+    "url": "https://judge.yosupo.jp/problem/predecessor_problem",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "prefix_substring_lcs",
+    "title": "Prefix-Substring LCS",
+    "url": "https://judge.yosupo.jp/problem/prefix_substring_lcs",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "primality_test",
+    "title": "Primality Test",
+    "url": "https://judge.yosupo.jp/problem/primality_test",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "primitive_root",
+    "title": "Primitive Root",
+    "url": "https://judge.yosupo.jp/problem/primitive_root",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "product_of_polynomial_sequence",
+    "title": "Product of Polynomial Sequence",
+    "url": "https://judge.yosupo.jp/problem/product_of_polynomial_sequence",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "q_binomial_coefficient_prime_mod",
+    "title": "$q$-Binomial Coefficient (Prime Mod)",
+    "url": "https://judge.yosupo.jp/problem/q_binomial_coefficient_prime_mod",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "queue_operate_all_composite",
+    "title": "Queue Operate All Composite",
+    "url": "https://judge.yosupo.jp/problem/queue_operate_all_composite",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "range_affine_point_get",
+    "title": "Range Affine Point Get",
+    "url": "https://judge.yosupo.jp/problem/range_affine_point_get",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "range_affine_range_sum",
+    "title": "Range Affine Range Sum",
+    "url": "https://judge.yosupo.jp/problem/range_affine_range_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "range_affine_range_sum_large_array",
+    "title": "Range Affine Range Sum (Large Array)",
+    "url": "https://judge.yosupo.jp/problem/range_affine_range_sum_large_array",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "range_chmin_chmax_add_range_sum",
+    "title": "Range Chmin Chmax Add Range Sum",
+    "url": "https://judge.yosupo.jp/problem/range_chmin_chmax_add_range_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "range_kth_smallest",
+    "title": "Range Kth Smallest",
+    "url": "https://judge.yosupo.jp/problem/range_kth_smallest",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "range_linear_add_range_min",
+    "title": "Range Linear Add Range Min",
+    "url": "https://judge.yosupo.jp/problem/range_linear_add_range_min",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "range_parallel_unionfind",
+    "title": "Range Parallel Unionfind",
+    "url": "https://judge.yosupo.jp/problem/range_parallel_unionfind",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "range_reverse_range_sum",
+    "title": "Range Reverse Range Sum",
+    "url": "https://judge.yosupo.jp/problem/range_reverse_range_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "range_set_range_composite",
+    "title": "Range Set Range Composite",
+    "url": "https://judge.yosupo.jp/problem/range_set_range_composite",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "rational_approximation",
+    "title": "Rational Approximation",
+    "url": "https://judge.yosupo.jp/problem/rational_approximation",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "rectangle_add_point_get",
+    "title": "Rectangle Add Point Get",
+    "url": "https://judge.yosupo.jp/problem/rectangle_add_point_get",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "rectangle_sum",
+    "title": "Rectangle Sum",
+    "url": "https://judge.yosupo.jp/problem/rectangle_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "rooted_tree_isomorphism_classification",
+    "title": "Rooted Tree Isomorphism Classification",
+    "url": "https://judge.yosupo.jp/problem/rooted_tree_isomorphism_classification",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "rooted_tree_topological_order_with_minimum_inversions",
+    "title": "Rooted Tree Topological Order with Minimum Inversions",
+    "url": "https://judge.yosupo.jp/problem/rooted_tree_topological_order_with_minimum_inversions",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "runenumerate",
+    "title": "Run Enumerate",
+    "url": "https://judge.yosupo.jp/problem/runenumerate",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "scc",
+    "title": "Strongly Connected Components",
+    "url": "https://judge.yosupo.jp/problem/scc",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "segment_add_get_min",
+    "title": "Segment Add Get Min",
+    "url": "https://judge.yosupo.jp/problem/segment_add_get_min",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "set_xor_min",
+    "title": "Set Xor-Min",
+    "url": "https://judge.yosupo.jp/problem/set_xor_min",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sharp_p_subset_sum",
+    "title": "$\\#_p$ Subset Sum",
+    "url": "https://judge.yosupo.jp/problem/sharp_p_subset_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "shift_of_sampling_points_of_polynomial",
+    "title": "Shift of Sampling Points of Polynomial",
+    "url": "https://judge.yosupo.jp/problem/shift_of_sampling_points_of_polynomial",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "shortest_path",
+    "title": "Shortest Path",
+    "url": "https://judge.yosupo.jp/problem/shortest_path",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sort_points_by_argument",
+    "title": "Sort Points by Argument",
+    "url": "https://judge.yosupo.jp/problem/sort_points_by_argument",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sparse_matrix_det",
+    "title": "Determinant of Sparse Matrix",
+    "url": "https://judge.yosupo.jp/problem/sparse_matrix_det",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sqrt_mod",
+    "title": "Sqrt Mod",
+    "url": "https://judge.yosupo.jp/problem/sqrt_mod",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "sqrt_of_formal_power_series",
+    "title": "Sqrt of Formal Power Series",
+    "url": "https://judge.yosupo.jp/problem/sqrt_of_formal_power_series",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "sqrt_of_formal_power_series_sparse",
+    "title": "Sqrt of Formal Power Series (Sparse)",
+    "url": "https://judge.yosupo.jp/problem/sqrt_of_formal_power_series_sparse",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "st_numbering",
+    "title": "st-Numbering",
+    "url": "https://judge.yosupo.jp/problem/st_numbering",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_convex_hull",
+    "title": "Static Convex Hull",
+    "url": "https://judge.yosupo.jp/problem/static_convex_hull",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_range_count_distinct",
+    "title": "Static Range Count Distinct",
+    "url": "https://judge.yosupo.jp/problem/static_range_count_distinct",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_range_frequency",
+    "title": "Static Range Frequency",
+    "url": "https://judge.yosupo.jp/problem/static_range_frequency",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_range_inversions_query",
+    "title": "Static Range Inversions Query",
+    "url": "https://judge.yosupo.jp/problem/static_range_inversions_query",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_range_lis_query",
+    "title": "Static Range LIS Query",
+    "url": "https://judge.yosupo.jp/problem/static_range_lis_query",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_range_mode_query",
+    "title": "Static Range Mode Query",
+    "url": "https://judge.yosupo.jp/problem/static_range_mode_query",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_range_sum",
+    "title": "Static Range Sum",
+    "url": "https://judge.yosupo.jp/problem/static_range_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "static_rectangle_add_rectangle_sum",
+    "title": "Static Rectangle Add Rectangle Sum",
+    "url": "https://judge.yosupo.jp/problem/static_rectangle_add_rectangle_sum",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "staticrmq",
+    "title": "Static RMQ",
+    "url": "https://judge.yosupo.jp/problem/staticrmq",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "stern_brocot_tree",
+    "title": "Stern–Brocot Tree",
+    "url": "https://judge.yosupo.jp/problem/stern_brocot_tree",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "stirling_number_of_the_first_kind",
+    "title": "Stirling Number of the First Kind",
+    "url": "https://judge.yosupo.jp/problem/stirling_number_of_the_first_kind",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "stirling_number_of_the_first_kind_fixed_k",
+    "title": "Stirling Number of the First Kind (Fixed K)",
+    "url": "https://judge.yosupo.jp/problem/stirling_number_of_the_first_kind_fixed_k",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "stirling_number_of_the_first_kind_small_p_large_n",
+    "title": "Stirling Number of the First Kind (Small p, Large n)",
+    "url": "https://judge.yosupo.jp/problem/stirling_number_of_the_first_kind_small_p_large_n",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "stirling_number_of_the_second_kind",
+    "title": "Stirling Number of the Second Kind",
+    "url": "https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "stirling_number_of_the_second_kind_fixed_k",
+    "title": "Stirling Number of the Second Kind (Fixed K)",
+    "url": "https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind_fixed_k",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "stirling_number_of_the_second_kind_small_p_large_n",
+    "title": "Stirling Number of the Second Kind (Small p, Large n)",
+    "url": "https://judge.yosupo.jp/problem/stirling_number_of_the_second_kind_small_p_large_n",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "subset_convolution",
+    "title": "Subset Convolution",
+    "url": "https://judge.yosupo.jp/problem/subset_convolution",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "suffixarray",
+    "title": "Suffix Array",
+    "url": "https://judge.yosupo.jp/problem/suffixarray",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sum_of_exponential_times_polynomial",
+    "title": "$\\sum_{i=0}^{n-1} r^i i^d$",
+    "url": "https://judge.yosupo.jp/problem/sum_of_exponential_times_polynomial",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sum_of_exponential_times_polynomial_limit",
+    "title": "$\\sum_{i=0}^{\\infty} r^i i^d$",
+    "url": "https://judge.yosupo.jp/problem/sum_of_exponential_times_polynomial_limit",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sum_of_floor_of_linear",
+    "title": "Sum of Floor of Linear",
+    "url": "https://judge.yosupo.jp/problem/sum_of_floor_of_linear",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "sum_of_multiplicative_function",
+    "title": "Sum of Multiplicative Function",
+    "url": "https://judge.yosupo.jp/problem/sum_of_multiplicative_function",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "sum_of_multiplicative_function_large",
+    "title": "Sum of Multiplicative Function(Large)",
+    "url": "https://judge.yosupo.jp/problem/sum_of_multiplicative_function_large",
+    "data": {
+      "timelimit": 30.0
+    }
+  },
+  {
+    "id": "sum_of_totient_function",
+    "title": "Sum of Totient Function",
+    "url": "https://judge.yosupo.jp/problem/sum_of_totient_function",
+    "data": {
+      "timelimit": 5
+    }
+  },
+  {
+    "id": "system_of_linear_equations",
+    "title": "System of Linear Equations",
+    "url": "https://judge.yosupo.jp/problem/system_of_linear_equations",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "system_of_linear_equations_mod_2",
+    "title": "System of Linear Equations (Mod 2)",
+    "url": "https://judge.yosupo.jp/problem/system_of_linear_equations_mod_2",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "tetration_mod",
+    "title": "Tetration Mod",
+    "url": "https://judge.yosupo.jp/problem/tetration_mod",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "three_edge_connected_components",
+    "title": "Three-Edge-Connected Components",
+    "url": "https://judge.yosupo.jp/problem/three_edge_connected_components",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "tree_decomposition_width_2",
+    "title": "Tree Decomposition (Width 2)",
+    "url": "https://judge.yosupo.jp/problem/tree_decomposition_width_2",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "tree_diameter",
+    "title": "Tree Diameter",
+    "url": "https://judge.yosupo.jp/problem/tree_diameter",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "tree_path_composite_sum",
+    "title": "Tree Path Composite Sum",
+    "url": "https://judge.yosupo.jp/problem/tree_path_composite_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "two_edge_connected_components",
+    "title": "Two-Edge-Connected Components",
+    "url": "https://judge.yosupo.jp/problem/two_edge_connected_components",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "two_sat",
+    "title": "2 Sat",
+    "url": "https://judge.yosupo.jp/problem/two_sat",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "two_square_sum",
+    "title": "Represent A Number As Two Square Sum",
+    "url": "https://judge.yosupo.jp/problem/two_square_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "unionfind",
+    "title": "Unionfind",
+    "url": "https://judge.yosupo.jp/problem/unionfind",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "unionfind_with_potential",
+    "title": "Unionfind with Potential",
+    "url": "https://judge.yosupo.jp/problem/unionfind_with_potential",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "unionfind_with_potential_non_commutative_group",
+    "title": "Unionfind with Potential (Non-Commutative Group)",
+    "url": "https://judge.yosupo.jp/problem/unionfind_with_potential_non_commutative_group",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "vertex_add_path_sum",
+    "title": "Vertex Add Path Sum",
+    "url": "https://judge.yosupo.jp/problem/vertex_add_path_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "vertex_add_range_contour_sum_on_tree",
+    "title": "Vertex Add Range Contour Sum on Tree",
+    "url": "https://judge.yosupo.jp/problem/vertex_add_range_contour_sum_on_tree",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "vertex_add_subtree_sum",
+    "title": "Vertex Add Subtree Sum",
+    "url": "https://judge.yosupo.jp/problem/vertex_add_subtree_sum",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "vertex_get_range_contour_add_on_tree",
+    "title": "Vertex Get Range Contour Add on Tree",
+    "url": "https://judge.yosupo.jp/problem/vertex_get_range_contour_add_on_tree",
+    "data": {
+      "timelimit": 10.0
+    }
+  },
+  {
+    "id": "vertex_set_path_composite",
+    "title": "Vertex Set Path Composite",
+    "url": "https://judge.yosupo.jp/problem/vertex_set_path_composite",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "wildcard_pattern_matching",
+    "title": "Wildcard Pattern Matching",
+    "url": "https://judge.yosupo.jp/problem/wildcard_pattern_matching",
+    "data": {
+      "timelimit": 5.0
+    }
+  },
+  {
+    "id": "zalgorithm",
+    "title": "Z Algorithm",
+    "url": "https://judge.yosupo.jp/problem/zalgorithm",
+    "data": {
+      "timelimit": 5.0
+    }
   }
 ]
