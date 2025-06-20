@@ -1,4 +1,4 @@
-export const dynamic = "force-dynamic";
+export const dynamicParams = true;
 
 import { notFound } from "next/navigation";
 import fs from "fs/promises";
@@ -10,25 +10,29 @@ import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
 
 export async function generateStaticParams() {
-  const judgeBaseDir = path.join(process.cwd(), "data/judge");
-  const judgeDirs = await fs.readdir(judgeBaseDir, { withFileTypes: true });
+  const problemDir = path.join(process.cwd(), "data/problem");
+  const problemFiles = await fs.readdir(problemDir);
 
-  const params = [];
+  const seen = new Set<string>();
+  const params: { judge: string; problem: string }[] = [];
 
-  for (const dirent of judgeDirs) {
-    if (!dirent.isDirectory()) continue;
-    const judge = dirent.name;
-    const problemPath = path.join(judgeBaseDir, judge, "problem.json");
+  for (const filename of problemFiles) {
+    if (!filename.endsWith(".json")) continue;
 
-    try {
-      const content = await fs.readFile(problemPath, "utf-8");
-      const problems: { id: string }[] = JSON.parse(content);
+    const filePath = path.join(problemDir, filename);
+    const content = await fs.readFile(filePath, "utf-8");
+    const problem = JSON.parse(content);
 
-      for (const p of problems) {
-        params.push({ judge, problem: p.id });
+    if (!Array.isArray(problem.sources)) continue;
+
+    for (const s of problem.sources) {
+      if (s.judge && s.problem) {
+        const key = `${s.judge}/${s.problem}`;
+        if (!seen.has(key)) {
+          seen.add(key);
+          params.push({ judge: s.judge, problem: s.problem });
+        }
       }
-    } catch {
-      continue;
     }
   }
 
