@@ -1,0 +1,15 @@
+{
+  "id": "knapsack_limit",
+  "title": "個数制限付きナップサック",
+  "description": "個数制限付きナップサック",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_G"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_I"
+    }
+  ]
+}

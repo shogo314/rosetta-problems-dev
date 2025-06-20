@@ -1,0 +1,31 @@
+{
+  "id": "01knapsack",
+  "title": "0-1 ナップサック問題",
+  "description": "0-1 ナップサック問題 それぞれ最大1個まで使える",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "abc032_d"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_B"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_F"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_H"
+    },
+    {
+      "judge": "acwing",
+      "problem": "2"
+    },
+    {
+      "judge": "cses",
+      "problem": "1158"
+    }
+  ]
+}

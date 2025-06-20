@@ -1,0 +1,15 @@
+{
+  "id": "knapsack",
+  "title": "ナップサック問題",
+  "description": "ナップサック問題 個数制限はない",
+  "sources": [
+    {
+      "judge": "acwing",
+      "problem": "3"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_C"
+    }
+  ]
+}
