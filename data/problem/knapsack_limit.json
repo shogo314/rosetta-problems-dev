@@ -10,6 +10,10 @@
     {
       "judge": "aoj",
       "problem": "DPL_1_I"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "dttui2"
     }
   ]
 }

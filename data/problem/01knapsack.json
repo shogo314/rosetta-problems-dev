@@ -26,6 +26,14 @@
     {
       "judge": "cses",
       "problem": "1158"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "dttui1"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "hugeknap"
     }
   ]
 }
