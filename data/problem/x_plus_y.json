@@ -154,6 +154,10 @@
     {
       "judge": "marisaoj",
       "problem": "2"
+    },
+    {
+      "judge": "kilonova",
+      "problem": "1"
     }
   ]
 }
