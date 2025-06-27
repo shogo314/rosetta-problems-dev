@@ -1,0 +1,11 @@
+{
+  "id": "x_ceildiv_y",
+  "title": "$\\frac{X}{Y}$",
+  "description": "$$\n\\frac{X}{Y}\n$$",
+  "sources": [
+    {
+      "judge": "boj",
+      "problem": "1008"
+    }
+  ]
+}

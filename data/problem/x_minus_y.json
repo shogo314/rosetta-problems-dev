@@ -6,6 +6,10 @@
     {
       "judge": "atcoder",
       "problem": "abc001_1"
+    },
+    {
+      "judge": "boj",
+      "problem": "1001"
     }
   ]
 }
