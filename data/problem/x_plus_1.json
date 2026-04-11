@@ -6,6 +6,10 @@
     {
       "judge": "codeany",
       "problem": "48"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0001_a"
     }
   ]
 }

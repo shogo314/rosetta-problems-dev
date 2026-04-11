@@ -1,0 +1,11 @@
+{
+  "id": "inversion_number",
+  "title": "転倒数",
+  "description": "転倒数",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0008_e"
+    }
+  ]
+}

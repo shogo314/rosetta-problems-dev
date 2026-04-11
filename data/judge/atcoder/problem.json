@@ -35991,6 +35991,24 @@
     }
   },
   {
+    "id": "awc0001_a",
+    "title": "バクテリアの増殖実験",
+    "url": "https://atcoder.jp/contests/awc0001/tasks/awc0001_a",
+    "data": {
+      "contest_id": "awc0001",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "awc0008_e",
+    "title": "本棚の整理",
+    "url": "https://atcoder.jp/contests/awc0008/tasks/awc0008_e",
+    "data": {
+      "contest_id": "awc0008",
+      "problem_index": "E"
+    }
+  },
+  {
     "id": "awtf2024_a",
     "title": "Moving Slimes",
     "url": "https://atcoder.jp/contests/awtf2024-open/tasks/awtf2024_a",
