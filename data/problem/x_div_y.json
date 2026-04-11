@@ -1,5 +1,5 @@
 {
-  "id": "x_ceildiv_y",
+  "id": "x_div_y",
   "title": "$\\frac{X}{Y}$",
   "description": "$$\n\\frac{X}{Y}\n$$",
   "sources": [
