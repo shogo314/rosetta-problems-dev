@@ -1,0 +1,35 @@
+{
+  "id": "max_subarray_sum",
+  "title": "最大部分配列和",
+  "description": "長さ $N$ の整数列 $A$ が与えられ、空でない連続部分列の和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "samcoding",
+      "problem": "16_A"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "maximum-subarray"
+    },
+    {
+      "judge": "acwing",
+      "problem": "50"
+    },
+    {
+      "judge": "aoj",
+      "problem": "0022"
+    },
+    {
+      "judge": "geeksforgeeks",
+      "problem": "kadanes-algorithm-1587115620"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "donuts_live2014_3"
+    },
+    {
+      "judge": "pythoncode-club",
+      "problem": "find_max_altitude_gain"
+    }
+  ]
+}
