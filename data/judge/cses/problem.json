@@ -3,5 +3,10 @@
     "id": "1158",
     "title": "Book Shop",
     "url": "https://cses.fi/problemset/task/1158"
+  },
+  {
+    "id": "1145",
+    "title": "Increasing Subsequence",
+    "url": "https://cses.fi/problemset/task/1145"
   }
 ]

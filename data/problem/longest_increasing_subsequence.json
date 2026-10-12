@@ -1,0 +1,59 @@
+{
+  "id": "longest_increasing_subsequence",
+  "title": "最長増加部分列 (LIS)",
+  "description": "長さ $N$ の数列 $A$ が与えられ、単調増加な部分列のうち最長のものを求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "longest-increasing-subsequence"
+    },
+    {
+      "judge": "cses",
+      "problem": "1145"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_D"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "liq"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "lis"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "longest_increasing_subsequence"
+    },
+    {
+      "judge": "algotester",
+      "problem": "40782"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "chokudai_S001_h"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "tessoku_book_x"
+    },
+    {
+      "judge": "nbut",
+      "problem": "1697"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "joisc2007_buildi"
+    },
+    {
+      "judge": "luogu",
+      "problem": "T285012"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "143"
+    }
+  ]
+}
