@@ -1,0 +1,47 @@
+{
+  "id": "longest_common_subsequence",
+  "title": "最長共通部分列 (LCS)",
+  "description": "$2$ つの列 $S, T$ が与えられ、$S$ と $T$ の共通部分列のうち最長のものを求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "longest-common-subsequence"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_f"
+    },
+    {
+      "judge": "vnoj",
+      "problem": "atcoder_dp_f"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "tessoku_book_t"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_10_C"
+    },
+    {
+      "judge": "acwing",
+      "problem": "899"
+    },
+    {
+      "judge": "acwing",
+      "problem": "6020"
+    },
+    {
+      "judge": "acwing",
+      "problem": "4558"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "144"
+    },
+    {
+      "judge": "acwing",
+      "problem": "3513"
+    }
+  ]
+}
