@@ -1,0 +1,15 @@
+{
+  "id": "edit_distance_at_most_1",
+  "title": "編集距離が $1$ 以下か判定",
+  "description": "$2$ つの文字列 $S, T$ が与えられ、$1$ 文字の挿入・削除・置換を高々 $1$ 回行って $S$ を $T$ にできるかを判定する。",
+  "sources": [
+    {
+      "judge": "luogu",
+      "problem": "B3958"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "one-edit-distance"
+    }
+  ]
+}

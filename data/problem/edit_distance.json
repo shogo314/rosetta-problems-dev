@@ -1,0 +1,27 @@
+{
+  "id": "edit_distance",
+  "title": "編集距離",
+  "description": "$2$ つの文字列 $S, T$ が与えられ、$1$ 文字の挿入・削除・置換を繰り返して $S$ を $T$ にするための最小操作回数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_E"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "edit-distance"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "tessoku_book_cs"
+    },
+    {
+      "judge": "acwing",
+      "problem": "904"
+    },
+    {
+      "judge": "acwing",
+      "problem": "6027"
+    }
+  ]
+}
