@@ -1,0 +1,15 @@
+{
+  "id": "weighted_interval_scheduling",
+  "title": "重み付き区間スケジューリング",
+  "description": "重み付きの区間が $N$ 個与えられ、互いに重ならないように選んだ区間の重みの和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0133_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "maximum-profit-in-job-scheduling"
+    }
+  ]
+}

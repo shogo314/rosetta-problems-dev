@@ -1,0 +1,15 @@
+{
+  "id": "connected_component_size",
+  "title": "連結成分の大きさ",
+  "description": "無向グラフ（または辺の追加クエリ）が与えられ、指定された頂点を含む連結成分の頂点数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0150_f"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0100_g"
+    }
+  ]
+}

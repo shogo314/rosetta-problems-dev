@@ -1,0 +1,31 @@
+{
+  "id": "max_sum_of_k_consecutive",
+  "title": "長さ $K$ の連続部分列の和の最大値",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、長さ $K$ の連続部分列の和の最大値（または最小値）を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0062_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0085_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0075_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0097_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0128_b"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "maximum-average-subarray-i"
+    }
+  ]
+}

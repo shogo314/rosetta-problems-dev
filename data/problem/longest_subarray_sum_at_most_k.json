@@ -1,0 +1,11 @@
+{
+  "id": "longest_subarray_sum_at_most_k",
+  "title": "和が $K$ 以下の最長の連続部分列",
+  "description": "長さ $N$ の正整数列 $A$ と $K$ が与えられ、和が $K$ 以下の連続部分列のうち最長のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0056_c"
+    }
+  ]
+}

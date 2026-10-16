@@ -1,0 +1,11 @@
+{
+  "id": "bipartite_matching",
+  "title": "二部グラフの最大マッチング",
+  "description": "二部グラフが与えられ、最大マッチングの大きさを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0013_e"
+    }
+  ]
+}

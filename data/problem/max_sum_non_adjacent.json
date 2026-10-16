@@ -1,0 +1,15 @@
+{
+  "id": "max_sum_non_adjacent",
+  "title": "隣り合わない要素の和の最大値",
+  "description": "長さ $N$ の数列 $A$ から隣り合わないように要素を選んだときの和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0065_c"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "house-robber"
+    }
+  ]
+}

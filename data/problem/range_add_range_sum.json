@@ -1,0 +1,11 @@
+{
+  "id": "range_add_range_sum",
+  "title": "区間加算・区間和クエリ",
+  "description": "長さ $N$ の数列に対し、区間への一様な加算と区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0014_e"
+    }
+  ]
+}

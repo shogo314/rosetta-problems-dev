@@ -1,0 +1,15 @@
+{
+  "id": "interval_covering",
+  "title": "区間被覆",
+  "description": "区間 $[1, N]$ と $M$ 個の区間が与えられ、和集合が $[1, N]$ を覆うように選ぶ区間の最小個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0006_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "video-stitching"
+    }
+  ]
+}

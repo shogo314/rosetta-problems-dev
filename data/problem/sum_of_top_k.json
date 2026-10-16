@@ -1,0 +1,19 @@
+{
+  "id": "sum_of_top_k",
+  "title": "大きい方から $K$ 個の和",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、大きい方から $K$ 個の要素の和を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0143_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0107_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0069_b"
+    }
+  ]
+}

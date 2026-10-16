@@ -1,0 +1,27 @@
+{
+  "id": "range_add",
+  "title": "区間加算",
+  "description": "長さ $N$ の数列に「区間 $[L, R]$ の各要素に $x$ を加える」操作を繰り返し行ったあとの数列を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0024_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0044_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0045_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0093_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0154_c"
+    }
+  ]
+}

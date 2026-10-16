@@ -1,0 +1,11 @@
+{
+  "id": "chinese_postman",
+  "title": "中国人郵便配達問題",
+  "description": "連結な重み付き無向グラフが与えられ、すべての辺を少なくとも $1$ 回通って始点に戻る閉路の長さの最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0073_e"
+    }
+  ]
+}

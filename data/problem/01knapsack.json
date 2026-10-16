@@ -34,6 +34,34 @@
     {
       "judge": "vnoj",
       "problem": "hugeknap"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0064_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0075_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0085_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0110_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0148_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0052_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0018_d"
     }
   ]
 }

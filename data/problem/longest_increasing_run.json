@@ -10,6 +10,10 @@
     {
       "judge": "leetcode",
       "problem": "longest-continuous-increasing-subsequence"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0165_b"
     }
   ]
 }

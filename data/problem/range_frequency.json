@@ -1,0 +1,11 @@
+{
+  "id": "range_frequency",
+  "title": "区間内の特定の値の出現回数",
+  "description": "長さ $N$ の列 $A$ と $Q$ 個のクエリ $(L, R, x)$ が与えられ、$A_L, \\ldots, A_R$ のうち $x$ に等しいものの個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0131_b"
+    }
+  ]
+}

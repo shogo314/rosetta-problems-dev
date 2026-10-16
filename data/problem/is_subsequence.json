@@ -1,0 +1,15 @@
+{
+  "id": "is_subsequence",
+  "title": "部分列判定",
+  "description": "$2$ つの文字列 $S, T$ が与えられ、$T$ が $S$ の部分列であるかを判定する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0108_b"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "is-subsequence"
+    }
+  ]
+}

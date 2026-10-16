@@ -1,0 +1,19 @@
+{
+  "id": "count_subarrays_sum_k",
+  "title": "和が $K$ の連続部分列の個数",
+  "description": "長さ $N$ の整数列 $A$ と $K$ が与えられ、$\\sum_{i=l}^{r} A_i = K$ となる $(l, r)$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0004_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0059_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "subarray-sum-equals-k"
+    }
+  ]
+}

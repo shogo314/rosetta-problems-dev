@@ -1,0 +1,15 @@
+{
+  "id": "minimum_refueling_stops",
+  "title": "最小給油回数",
+  "description": "初期燃料 $F$ で地点 $G$ を目指し、途中の給油所で燃料を補給できるとき、必要な給油回数の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0040_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "minimum-number-of-refueling-stops"
+    }
+  ]
+}

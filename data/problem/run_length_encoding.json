@@ -1,0 +1,11 @@
+{
+  "id": "run_length_encoding",
+  "title": "ランレングス圧縮",
+  "description": "文字列 $S$ をランレングス圧縮した結果を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0051_b"
+    }
+  ]
+}

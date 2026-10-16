@@ -1,0 +1,19 @@
+{
+  "id": "deque_game",
+  "title": "両端から取るゲーム",
+  "description": "数列の左端または右端から $2$ 人が交互に $1$ つずつ取るとき、双方が最適に行動したときの得点（の差）を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0054_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0063_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_l"
+    }
+  ]
+}

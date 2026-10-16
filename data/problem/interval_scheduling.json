@@ -1,0 +1,11 @@
+{
+  "id": "interval_scheduling",
+  "title": "区間スケジューリング",
+  "description": "$N$ 個の区間が与えられ、互いに重ならないように選べる区間の最大個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0034_d"
+    }
+  ]
+}

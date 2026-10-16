@@ -1,0 +1,15 @@
+{
+  "id": "minimum_spanning_tree",
+  "title": "最小全域木",
+  "description": "重み付き無向グラフが与えられ、最小全域木の重みの総和を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0064_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0178_d"
+    }
+  ]
+}

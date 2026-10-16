@@ -1,0 +1,11 @@
+{
+  "id": "split_array_smallest_sum",
+  "title": "区間和の最小値を最大化する分割",
+  "description": "長さ $N$ の正整数列を $K$ 個の連続区間に分割するとき、区間和の最小値の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0005_d"
+    }
+  ]
+}

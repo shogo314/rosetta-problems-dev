@@ -1,0 +1,31 @@
+{
+  "id": "range_sum_query",
+  "title": "区間和クエリ",
+  "description": "長さ $N$ の数列 $A$ と $Q$ 個の区間 $[L, R]$ が与えられ、各区間の和 $\\sum_{i=L}^{R} A_i$ を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0044_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0023_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0022_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0140_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0150_e"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "range-sum-query-immutable"
+    }
+  ]
+}

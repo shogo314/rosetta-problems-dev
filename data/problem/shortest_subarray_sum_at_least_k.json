@@ -1,0 +1,15 @@
+{
+  "id": "shortest_subarray_sum_at_least_k",
+  "title": "和が $K$ 以上の最短の連続部分列",
+  "description": "長さ $N$ の非負整数列 $A$ と $K$ が与えられ、和が $K$ 以上の連続部分列のうち最短のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0087_c"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "minimum-size-subarray-sum"
+    }
+  ]
+}

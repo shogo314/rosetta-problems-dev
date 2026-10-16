@@ -1,0 +1,11 @@
+{
+  "id": "convex_hull_area",
+  "title": "凸包の面積",
+  "description": "平面上の $N$ 点が与えられ、その凸包の面積を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0103_e"
+    }
+  ]
+}

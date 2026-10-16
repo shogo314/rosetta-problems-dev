@@ -1,0 +1,11 @@
+{
+  "id": "max_weight_closure",
+  "title": "最大重み閉包",
+  "description": "頂点に重みのある有向グラフが与えられ、「$u$ を選ぶなら $v$ も選ぶ」という制約を満たす頂点集合の重みの和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0102_d"
+    }
+  ]
+}

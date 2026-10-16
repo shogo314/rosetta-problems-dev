@@ -1,0 +1,15 @@
+{
+  "id": "pattern_matching",
+  "title": "連続部分列の検索",
+  "description": "$2$ つの列 $A, B$ が与えられ、$B$ が $A$ の連続部分列として現れる位置を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0045_b"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "find-the-index-of-the-first-occurrence-in-a-string"
+    }
+  ]
+}

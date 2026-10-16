@@ -1,0 +1,11 @@
+{
+  "id": "lowest_common_ancestor",
+  "title": "最小共通祖先 (LCA)",
+  "description": "根付き木と頂点の組 $(u, v)$ が与えられ、$u$ と $v$ の最小共通祖先を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0059_e"
+    }
+  ]
+}

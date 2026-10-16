@@ -1,0 +1,11 @@
+{
+  "id": "range_distinct_count",
+  "title": "区間内の異なる値の個数",
+  "description": "長さ $N$ の数列 $A$ と $Q$ 個の区間が与えられ、各区間に含まれる異なる値の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0015_e"
+    }
+  ]
+}

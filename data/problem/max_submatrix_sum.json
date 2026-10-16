@@ -1,0 +1,11 @@
+{
+  "id": "max_submatrix_sum",
+  "title": "最大部分長方形和",
+  "description": "$N \\times M$ の整数行列が与えられ、空でない長方形領域の要素の和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0097_d"
+    }
+  ]
+}

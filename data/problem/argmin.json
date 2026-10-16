@@ -1,0 +1,11 @@
+{
+  "id": "argmin",
+  "title": "最小値の位置",
+  "description": "長さ $N$ の数列 $A$ が与えられ、$A_i$ が最小となる $i$ のうち最小のものを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0179_b"
+    }
+  ]
+}

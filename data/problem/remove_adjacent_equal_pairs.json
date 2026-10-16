@@ -1,0 +1,15 @@
+{
+  "id": "remove_adjacent_equal_pairs",
+  "title": "隣り合う同じ文字の対の除去",
+  "description": "文字列 $S$ から隣り合う同じ $2$ 文字を取り除く操作を繰り返したあとの文字列を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0109_b"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "remove-all-adjacent-duplicates-in-string"
+    }
+  ]
+}

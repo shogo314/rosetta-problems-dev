@@ -1,0 +1,19 @@
+{
+  "id": "count_stair_climbing",
+  "title": "階段の上り方の数",
+  "description": "一度に上れる段数と上れない段が与えられ、$0$ 段目から $N$ 段目まで上る方法の数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0070_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0095_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "abc129_c"
+    }
+  ]
+}

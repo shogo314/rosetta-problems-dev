@@ -1,0 +1,15 @@
+{
+  "id": "count_subsequence_occurrences",
+  "title": "部分列としての出現回数",
+  "description": "$2$ つの列 $S, T$ が与えられ、$S$ の部分列として $T$ が現れる添字の選び方の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0028_e"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "distinct-subsequences"
+    }
+  ]
+}

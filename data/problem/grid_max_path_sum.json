@@ -1,0 +1,11 @@
+{
+  "id": "grid_max_path_sum",
+  "title": "グリッドの最大経路和",
+  "description": "$N \\times M$ のグリッドを左上から右下まで右か下にだけ進むとき、通ったマスの値の和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0135_c"
+    }
+  ]
+}

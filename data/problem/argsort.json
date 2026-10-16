@@ -1,0 +1,11 @@
+{
+  "id": "argsort",
+  "title": "ソート後の添字の列",
+  "description": "長さ $N$ の数列 $A$ が与えられ、値の順（同じ値なら添字の昇順）に並べたときの添字の列を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0180_c"
+    }
+  ]
+}

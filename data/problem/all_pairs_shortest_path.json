@@ -1,0 +1,11 @@
+{
+  "id": "all_pairs_shortest_path",
+  "title": "全点対最短経路",
+  "description": "重み付きグラフが与えられ、すべての頂点の組の間の最短距離を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0073_d"
+    }
+  ]
+}

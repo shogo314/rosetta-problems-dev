@@ -1,0 +1,19 @@
+{
+  "id": "partition_min_difference",
+  "title": "$2$ グループの和の差の最小化",
+  "description": "$N$ 個の整数を $2$ つのグループに分けるとき、グループの和の差の絶対値の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0156_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0170_c"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "last-stone-weight-ii"
+    }
+  ]
+}

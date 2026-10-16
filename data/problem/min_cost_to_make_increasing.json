@@ -1,0 +1,11 @@
+{
+  "id": "min_cost_to_make_increasing",
+  "title": "単調増加にする最小コスト",
+  "description": "長さ $N$ の数列 $A$ を単調増加な整数列 $B$ に変えるとき、$\\sum |A_i - B_i|$ の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0100_n"
+    }
+  ]
+}

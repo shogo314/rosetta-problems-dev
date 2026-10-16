@@ -1,0 +1,15 @@
+{
+  "id": "bin_packing",
+  "title": "ビンパッキング問題",
+  "description": "重さ $W_i$ の $N$ 個の荷物を容量 $C$ の箱に詰めるとき、必要な箱の個数の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0023_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0142_e"
+    }
+  ]
+}

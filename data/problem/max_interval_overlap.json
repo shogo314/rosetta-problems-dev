@@ -1,0 +1,19 @@
+{
+  "id": "max_interval_overlap",
+  "title": "区間の最大重なり数",
+  "description": "$N$ 個の区間が与えられ、ある点を同時に含む区間の個数の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0137_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0117_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0036_d"
+    }
+  ]
+}

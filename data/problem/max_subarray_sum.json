@@ -30,6 +30,14 @@
     {
       "judge": "pythoncode-club",
       "problem": "find_max_altitude_gain"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0074_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0160_b"
     }
   ]
 }

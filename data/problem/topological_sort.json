@@ -1,0 +1,19 @@
+{
+  "id": "topological_sort",
+  "title": "トポロジカルソート",
+  "description": "有向グラフが与えられ、すべての辺 $u \\to v$ について $u$ が $v$ より前に来るような頂点の並べ方を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0028_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0123_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "course-schedule-ii"
+    }
+  ]
+}

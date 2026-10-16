@@ -1,0 +1,15 @@
+{
+  "id": "merge_stones",
+  "title": "石の併合（区間 DP）",
+  "description": "一列（または円環）に並んだ $N$ 個の重みを、隣り合う $2$ つを合わせる（コストは重みの和）操作で $1$ つにするときの総コストの最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0100_o"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_n"
+    }
+  ]
+}

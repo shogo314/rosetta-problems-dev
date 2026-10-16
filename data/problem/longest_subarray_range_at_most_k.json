@@ -1,0 +1,19 @@
+{
+  "id": "longest_subarray_range_at_most_k",
+  "title": "最大値と最小値の差が $K$ 以下の最長区間",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、区間内の最大値と最小値の差が $K$ 以下である連続部分列のうち最長のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0058_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0065_e"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+    }
+  ]
+}

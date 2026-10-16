@@ -1,0 +1,15 @@
+{
+  "id": "count_subarrays_sum_divisible_by_k",
+  "title": "和が $K$ の倍数の連続部分列の個数",
+  "description": "長さ $N$ の整数列 $A$ と $K$ が与えられ、$\\sum_{i=l}^{r} A_i$ が $K$ の倍数となる $(l, r)$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0042_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "subarray-sums-divisible-by-k"
+    }
+  ]
+}

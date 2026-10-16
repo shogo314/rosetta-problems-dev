@@ -1,0 +1,15 @@
+{
+  "id": "min_hamming_distance_substring",
+  "title": "部分文字列とのハミング距離の最小値",
+  "description": "文字列 $S, T$ が与えられ、$S$ の長さ $|T|$ の連続部分文字列と $T$ のハミング距離の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0180_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "abc177_b"
+    }
+  ]
+}

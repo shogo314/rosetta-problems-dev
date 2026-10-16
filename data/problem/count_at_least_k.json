@@ -1,7 +1,7 @@
 {
   "id": "count_at_least_k",
   "title": "$K$ 以上の要素の個数",
-  "description": "長さ $N$ の整数列 $A$ と整数 $K$ が与えられ、$A_i \\geq K$ を満たす要素の個数を求める。",
+  "description": "長さ $N$ の整数列 $A$ と整数 $K$ が与えられ、$A_i \\geq K$（または $K$ 以下・$K$ 未満など）を満たす要素の個数を求める。",
   "sources": [
     {
       "judge": "atcoder",
@@ -14,6 +14,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0025_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0098_b"
     }
   ]
 }

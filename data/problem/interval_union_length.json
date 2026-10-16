@@ -1,0 +1,11 @@
+{
+  "id": "interval_union_length",
+  "title": "区間の和集合の長さ",
+  "description": "$N$ 個の区間が与えられ、それらの和集合の長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0054_b"
+    }
+  ]
+}

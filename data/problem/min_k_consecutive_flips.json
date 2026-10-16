@@ -1,0 +1,15 @@
+{
+  "id": "min_k_consecutive_flips",
+  "title": "連続 $K$ 個の反転",
+  "description": "$0/1$ 列に対し連続する $K$ 個を反転する操作で、すべてを同じ値にするための最小操作回数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0022_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "minimum-number-of-k-consecutive-bit-flips"
+    }
+  ]
+}

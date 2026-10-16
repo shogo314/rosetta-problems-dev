@@ -1,0 +1,19 @@
+{
+  "id": "count_subset_sum",
+  "title": "和が $S$ になる部分集合の個数",
+  "description": "$N$ 個の整数と $S$ が与えられ、和がちょうど $S$ になる部分集合の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0002_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0112_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0152_d"
+    }
+  ]
+}

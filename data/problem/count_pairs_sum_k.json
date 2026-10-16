@@ -1,0 +1,11 @@
+{
+  "id": "count_pairs_sum_k",
+  "title": "和が $K$ のペアの個数",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、$i < j$ かつ $A_i + A_j = K$ を満たす組の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0174_c"
+    }
+  ]
+}

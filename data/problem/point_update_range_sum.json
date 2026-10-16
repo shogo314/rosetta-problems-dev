@@ -1,0 +1,19 @@
+{
+  "id": "point_update_range_sum",
+  "title": "一点更新・区間和クエリ",
+  "description": "長さ $N$ の数列に対し、一点の値の更新と区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0006_e"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "range-sum-query-mutable"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "practice2_b"
+    }
+  ]
+}

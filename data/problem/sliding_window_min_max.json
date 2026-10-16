@@ -1,0 +1,11 @@
+{
+  "id": "sliding_window_min_max",
+  "title": "スライド最大値・最小値",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、長さ $K$ の各連続区間の最大値と最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0001_e"
+    }
+  ]
+}

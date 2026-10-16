@@ -1,0 +1,19 @@
+{
+  "id": "count_subarrays_sum_at_most_k",
+  "title": "和が $K$ 以下の連続部分列の個数",
+  "description": "長さ $N$ の正整数列 $A$ と $K$ が与えられ、$\\sum_{i=l}^{r} A_i \\leq K$（または $\\geq K$）となる $(l, r)$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0049_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0128_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0100_f"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "min_cost_set_cover",
+  "title": "最小コスト集合被覆",
+  "description": "コスト付きの集合が $N$ 個与えられ、和集合が全体を覆うように選ぶときのコストの合計の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0050_e"
+    }
+  ]
+}

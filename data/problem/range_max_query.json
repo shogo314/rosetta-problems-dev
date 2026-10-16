@@ -1,0 +1,15 @@
+{
+  "id": "range_max_query",
+  "title": "区間最大値・最小値クエリ",
+  "description": "長さ $N$ の数列 $A$ と $Q$ 個の区間 $[L, R]$ が与えられ、各区間の最大値（または最小値）を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0005_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0009_e"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "single_source_shortest_path",
+  "title": "単一始点最短経路",
+  "description": "グラフと始点 $s$ が与えられ、$s$ から各頂点（または特定の頂点）への最短距離を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0039_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0033_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0086_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0044_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0014_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0153_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0120_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0126_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0029_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0081_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0145_c"
+    }
+  ]
+}

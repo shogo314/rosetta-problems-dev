@@ -54,6 +54,10 @@
     {
       "judge": "marisaoj",
       "problem": "143"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0179_e"
     }
   ]
 }

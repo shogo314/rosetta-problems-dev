@@ -1,0 +1,23 @@
+{
+  "id": "grid_shortest_path",
+  "title": "グリッド上の最短経路",
+  "description": "障害物などのあるグリッドが与えられ、スタートからゴールまで上下左右に移動するときの最短距離（または最小コスト）を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0084_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0129_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0012_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "abc007_3"
+    }
+  ]
+}

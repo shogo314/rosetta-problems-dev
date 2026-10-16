@@ -1,0 +1,19 @@
+{
+  "id": "min_sum_abs_distance",
+  "title": "距離の総和の最小化（中央値）",
+  "description": "数直線上の $N$ 点 $X_i$（と重み $w_i$）が与えられ、$\\sum w_i |X_i - P|$ の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0053_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0105_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "minimum-moves-to-equal-array-elements-ii"
+    }
+  ]
+}

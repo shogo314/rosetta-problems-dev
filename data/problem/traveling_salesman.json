@@ -1,0 +1,15 @@
+{
+  "id": "traveling_salesman",
+  "title": "巡回セールスマン問題",
+  "description": "$N$ 頂点の間の移動コストが与えられ、すべての頂点をちょうど $1$ 回ずつ訪れる経路（または巡回路）のコストの最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0017_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0049_e"
+    }
+  ]
+}

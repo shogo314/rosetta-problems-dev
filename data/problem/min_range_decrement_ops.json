@@ -1,0 +1,15 @@
+{
+  "id": "min_range_decrement_ops",
+  "title": "区間を $1$ ずつ減らす操作の最小回数",
+  "description": "非負整数列 $A$ を「区間の各要素を $1$ 減らす」操作ですべて $0$ にするための最小操作回数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0078_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "abc116_c"
+    }
+  ]
+}

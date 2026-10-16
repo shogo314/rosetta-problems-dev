@@ -1,0 +1,15 @@
+{
+  "id": "sum_pairwise_abs_diff",
+  "title": "全ペアの差の絶対値の和",
+  "description": "$\\sum_{1 \\leq i < j \\leq N} |A_i - A_j|$ を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0043_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0013_d"
+    }
+  ]
+}

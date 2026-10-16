@@ -6,6 +6,10 @@
     {
       "judge": "algo-method",
       "problem": "54"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0150_b"
     }
   ]
 }
