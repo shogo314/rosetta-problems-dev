@@ -1,0 +1,15 @@
+{
+  "id": "parentheses_max_depth",
+  "title": "括弧列の最大の深さ",
+  "description": "正しく対応のとれた括弧列 $S$ が与えられ、括弧の入れ子の深さの最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0071_a"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "maximum-nesting-depth-of-the-parentheses"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "longest_increasing_run",
+  "title": "最長の連続する増加区間",
+  "description": "長さ $N$ の数列 $A$ が与えられ、狭義単調増加な連続部分列のうち最長のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0052_a"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "longest-continuous-increasing-subsequence"
+    }
+  ]
+}

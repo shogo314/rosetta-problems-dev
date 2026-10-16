@@ -1,0 +1,15 @@
+{
+  "id": "longest_run_of_char",
+  "title": "特定の文字の最長連続長",
+  "description": "文字列 $S$ と文字 $c$ が与えられ、$S$ の中で $c$ が連続して並ぶ部分の最大の長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0124_a"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "max-consecutive-ones"
+    }
+  ]
+}

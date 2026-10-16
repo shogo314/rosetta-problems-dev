@@ -1,0 +1,15 @@
+{
+  "id": "dot_product",
+  "title": "$\\sum_{i=1}^{N} A_i B_i$",
+  "description": "$$\n\\sum_{i=1}^{N} A_i B_i\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0015_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0100_a"
+    }
+  ]
+}

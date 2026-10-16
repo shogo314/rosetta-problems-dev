@@ -1,0 +1,15 @@
+{
+  "id": "set_intersection",
+  "title": "$2$ つの集合の共通部分",
+  "description": "$2$ つの数列 $A, B$ が与えられ、両方に現れる値の集合（またはその大きさ）を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0073_a"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "intersection-of-two-arrays"
+    }
+  ]
+}

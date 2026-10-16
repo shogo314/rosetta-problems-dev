@@ -1,0 +1,19 @@
+{
+  "id": "count_in_range",
+  "title": "区間内の要素の個数",
+  "description": "長さ $N$ の整数列 $A$ と整数 $L, R$ が与えられ、$L \\leq A_i \\leq R$ を満たす要素の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0068_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0006_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0027_a"
+    }
+  ]
+}

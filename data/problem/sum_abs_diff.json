@@ -1,0 +1,11 @@
+{
+  "id": "sum_abs_diff",
+  "title": "$\\sum_{i=1}^{N} |A_i - B_i|$",
+  "description": "$$\n\\sum_{i=1}^{N} |A_i - B_i|\n$$",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0050_a"
+    }
+  ]
+}

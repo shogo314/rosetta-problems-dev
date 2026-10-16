@@ -1,0 +1,15 @@
+{
+  "id": "remove_adjacent_duplicates",
+  "title": "隣接する重複の除去",
+  "description": "長さ $N$ の数列 $A$ が与えられ、隣り合う等しい要素を $1$ つにまとめた列を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0136_a"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "remove-duplicates-from-sorted-array"
+    }
+  ]
+}

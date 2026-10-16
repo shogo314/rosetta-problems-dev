@@ -1,0 +1,11 @@
+{
+  "id": "linear_search",
+  "title": "値が最初に現れる位置",
+  "description": "長さ $N$ の数列 $A$ と値 $K$ が与えられ、$A_i = K$ となる最小の $i$ を求める。存在しない場合はそのことを報告する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0002_a"
+    }
+  ]
+}
