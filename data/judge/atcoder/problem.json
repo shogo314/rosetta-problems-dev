@@ -44262,6 +44262,96 @@
     }
   },
   {
+    "id": "awc0181_a",
+    "title": "Preparing for the Snow Festival",
+    "url": "https://atcoder.jp/contests/awc0181/tasks/awc0181_a",
+    "data": {
+      "contest_id": "awc0181",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "awc0181_b",
+    "title": "Perfect Attendance",
+    "url": "https://atcoder.jp/contests/awc0181/tasks/awc0181_b",
+    "data": {
+      "contest_id": "awc0181",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "awc0181_c",
+    "title": "Carrying Luggage",
+    "url": "https://atcoder.jp/contests/awc0181/tasks/awc0181_c",
+    "data": {
+      "contest_id": "awc0181",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "awc0181_d",
+    "title": "Lighting the Decorations",
+    "url": "https://atcoder.jp/contests/awc0181/tasks/awc0181_d",
+    "data": {
+      "contest_id": "awc0181",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "awc0181_e",
+    "title": "Library Seating Guide",
+    "url": "https://atcoder.jp/contests/awc0181/tasks/awc0181_e",
+    "data": {
+      "contest_id": "awc0181",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "awc0182_a",
+    "title": "Balance Scale",
+    "url": "https://atcoder.jp/contests/awc0182/tasks/awc0182_a",
+    "data": {
+      "contest_id": "awc0182",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "awc0182_b",
+    "title": "Consecutive Correct Answers",
+    "url": "https://atcoder.jp/contests/awc0182/tasks/awc0182_b",
+    "data": {
+      "contest_id": "awc0182",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "awc0182_c",
+    "title": "Buying Sweets",
+    "url": "https://atcoder.jp/contests/awc0182/tasks/awc0182_c",
+    "data": {
+      "contest_id": "awc0182",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "awc0182_d",
+    "title": "Sweeping Out Monsters",
+    "url": "https://atcoder.jp/contests/awc0182/tasks/awc0182_d",
+    "data": {
+      "contest_id": "awc0182",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "awc0182_e",
+    "title": "Cargo Accumulation Work",
+    "url": "https://atcoder.jp/contests/awc0182/tasks/awc0182_e",
+    "data": {
+      "contest_id": "awc0182",
+      "problem_index": "E"
+    }
+  },
+  {
     "id": "awtf2024_a",
     "title": "Moving Slimes",
     "url": "https://atcoder.jp/contests/awtf2024-open/tasks/awtf2024_a",
