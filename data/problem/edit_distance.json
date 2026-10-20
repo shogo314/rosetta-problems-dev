@@ -22,6 +22,10 @@
     {
       "judge": "acwing",
       "problem": "6027"
+    },
+    {
+      "judge": "share-oj",
+      "problem": "5d07401b-2bf7-48a4-a78a-804b0f5edd1e"
     }
   ]
 }

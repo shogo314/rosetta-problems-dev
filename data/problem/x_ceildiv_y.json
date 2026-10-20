@@ -10,6 +10,10 @@
     {
       "judge": "kep",
       "problem": "33"
+    },
+    {
+      "judge": "share-oj",
+      "problem": "51dab45a-3022-4c89-b155-3ca6383da685"
     }
   ]
 }

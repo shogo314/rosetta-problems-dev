@@ -1,0 +1,15 @@
+{
+  "id": "primality_test",
+  "title": "素数判定",
+  "description": "非負整数 $N$ が与えられ、$N$ が素数かどうかを判定する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "primality_test"
+    },
+    {
+      "judge": "share-oj",
+      "problem": "c9279d48-88d6-41b3-b759-e997d6928ccd"
+    }
+  ]
+}

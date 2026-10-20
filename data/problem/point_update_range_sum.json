@@ -14,6 +14,10 @@
     {
       "judge": "atcoder",
       "problem": "practice2_b"
+    },
+    {
+      "judge": "share-oj",
+      "problem": "f4863a1e-cd92-4798-9d73-7e7bab0f8311"
     }
   ]
 }

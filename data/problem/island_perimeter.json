@@ -1,0 +1,15 @@
+{
+  "id": "island_perimeter",
+  "title": "島の周長",
+  "description": "陸地と水面からなる $H \\times W$ のグリッドが与えられ、陸地と水面(グリッドの外側を含む)が接する辺の長さの合計を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "island-perimeter"
+    },
+    {
+      "judge": "share-oj",
+      "problem": "a0ca5b03-bf80-4711-b544-4e6d3f9f01ce"
+    }
+  ]
+}

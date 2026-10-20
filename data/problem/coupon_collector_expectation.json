@@ -1,0 +1,11 @@
+{
+  "id": "coupon_collector_expectation",
+  "title": "クーポンコレクター問題",
+  "description": "$1$ 以上 $N$ 以下の整数が一様ランダムに出るとき、すべての整数が $1$ 回以上出るまでの試行回数の期待値を求める。",
+  "sources": [
+    {
+      "judge": "share-oj",
+      "problem": "08606361-117d-4b6b-b280-4655d9643f3c"
+    }
+  ]
+}
