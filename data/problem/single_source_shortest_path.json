@@ -50,6 +50,10 @@
     {
       "judge": "samcoding",
       "problem": "16_F"
+    },
+    {
+      "judge": "doj",
+      "problem": "321"
     }
   ]
 }

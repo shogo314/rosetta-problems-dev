@@ -1,0 +1,15 @@
+{
+  "id": "segment_add_get_min",
+  "title": "線分追加・最小値クエリ",
+  "description": "区間 $[l, r)$ 上の線分 $y = ax + b$ の追加と、点 $x$ における最小値(または最大値)の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "segment_add_get_min"
+    },
+    {
+      "judge": "doj",
+      "problem": "333"
+    }
+  ]
+}

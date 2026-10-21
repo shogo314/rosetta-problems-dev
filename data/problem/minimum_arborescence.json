@@ -1,0 +1,19 @@
+{
+  "id": "minimum_arborescence",
+  "title": "最小全域有向木",
+  "description": "重み付き有向グラフと根 $r$ が与えられ、$r$ を根とする全域有向木の重みの総和の最小値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "directedmst"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_2_B"
+    },
+    {
+      "judge": "doj",
+      "problem": "320"
+    }
+  ]
+}

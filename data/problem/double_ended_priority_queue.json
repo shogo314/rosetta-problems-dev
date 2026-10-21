@@ -1,0 +1,15 @@
+{
+  "id": "double_ended_priority_queue",
+  "title": "両端優先度付きキュー",
+  "description": "多重集合に対し、値の挿入と最小値・最大値の取得・削除を処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "double_ended_priority_queue"
+    },
+    {
+      "judge": "doj",
+      "problem": "329"
+    }
+  ]
+}

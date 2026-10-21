@@ -1,0 +1,11 @@
+{
+  "id": "ordered_set_kth",
+  "title": "順序付き集合の $K$ 番目",
+  "description": "集合に対し、値の挿入・削除と $k$ 番目に小さい値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "doj",
+      "problem": "638"
+    }
+  ]
+}

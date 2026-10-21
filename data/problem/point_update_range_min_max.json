@@ -1,0 +1,15 @@
+{
+  "id": "point_update_range_min_max",
+  "title": "一点更新・区間最小値(最大値)クエリ",
+  "description": "長さ $N$ の数列に対し、一点の値の更新と区間の最小値(または最大値)の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_A"
+    },
+    {
+      "judge": "doj",
+      "problem": "308"
+    }
+  ]
+}

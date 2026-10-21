@@ -10,6 +10,10 @@
     {
       "judge": "leetcode",
       "problem": "find-the-index-of-the-first-occurrence-in-a-string"
+    },
+    {
+      "judge": "doj",
+      "problem": "340"
     }
   ]
 }

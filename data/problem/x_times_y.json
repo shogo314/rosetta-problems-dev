@@ -22,6 +22,10 @@
     {
       "judge": "yosupo",
       "problem": "multiplication_of_big_integers"
+    },
+    {
+      "judge": "doj",
+      "problem": "224"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "range_kth_smallest",
+  "title": "区間 $K$ 番目の値",
+  "description": "長さ $N$ の数列と $Q$ 個のクエリ $(l, r, k)$ が与えられ、区間 $[l, r]$ で $k$ 番目に小さい値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_kth_smallest"
+    },
+    {
+      "judge": "doj",
+      "problem": "330"
+    }
+  ]
+}

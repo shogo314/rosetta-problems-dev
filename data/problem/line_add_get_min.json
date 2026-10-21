@@ -1,0 +1,15 @@
+{
+  "id": "line_add_get_min",
+  "title": "直線追加・最小値クエリ",
+  "description": "直線 $y = ax + b$ の追加と、点 $x$ における最小値(または最大値)の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "line_add_get_min"
+    },
+    {
+      "judge": "doj",
+      "problem": "332"
+    }
+  ]
+}

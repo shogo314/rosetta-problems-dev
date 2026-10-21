@@ -1,0 +1,23 @@
+{
+  "id": "eulerian_trail",
+  "title": "オイラー路",
+  "description": "グラフが与えられ、すべての辺をちょうど $1$ 回ずつ通る路が存在するか判定し、存在すれば $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "eulerian_trail_directed"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "eulerian_trail_undirected"
+    },
+    {
+      "judge": "doj",
+      "problem": "314"
+    },
+    {
+      "judge": "doj",
+      "problem": "315"
+    }
+  ]
+}

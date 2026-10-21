@@ -6,6 +6,10 @@
     {
       "judge": "boj",
       "problem": "1008"
+    },
+    {
+      "judge": "doj",
+      "problem": "110"
     }
   ]
 }

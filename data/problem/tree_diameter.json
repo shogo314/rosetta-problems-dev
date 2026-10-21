@@ -1,0 +1,19 @@
+{
+  "id": "tree_diameter",
+  "title": "木の直径",
+  "description": "重み付き木が与えられ、$2$ 頂点間の距離の最大値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "tree_diameter"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_5_A"
+    },
+    {
+      "judge": "doj",
+      "problem": "325"
+    }
+  ]
+}

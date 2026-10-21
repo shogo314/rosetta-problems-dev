@@ -1,0 +1,19 @@
+{
+  "id": "general_matching",
+  "title": "一般グラフの最大マッチング",
+  "description": "無向グラフが与えられ、最大マッチングの大きさを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "general_matching"
+    },
+    {
+      "judge": "doj",
+      "problem": "318"
+    },
+    {
+      "judge": "doj",
+      "problem": "51"
+    }
+  ]
+}

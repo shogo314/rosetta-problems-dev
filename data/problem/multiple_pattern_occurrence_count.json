@@ -1,0 +1,11 @@
+{
+  "id": "multiple_pattern_occurrence_count",
+  "title": "複数パターンの出現回数",
+  "description": "テキスト $S$ と複数のパターン $W_1, \\ldots, W_P$ が与えられ、各パターンが $S$ に現れる回数を求める。",
+  "sources": [
+    {
+      "judge": "doj",
+      "problem": "339"
+    }
+  ]
+}

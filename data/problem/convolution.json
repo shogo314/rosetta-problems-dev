@@ -1,0 +1,15 @@
+{
+  "id": "convolution",
+  "title": "畳み込み",
+  "description": "$2$ つの数列 $a, b$ が与えられ、$c_k = \\sum_{i+j=k} a_i b_j$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "convolution_mod"
+    },
+    {
+      "judge": "doj",
+      "problem": "331"
+    }
+  ]
+}

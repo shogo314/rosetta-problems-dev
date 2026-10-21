@@ -1,0 +1,11 @@
+{
+  "id": "min_cost_max_flow",
+  "title": "最小費用最大流",
+  "description": "容量と費用付きの有向グラフが与えられ、$s$ から $t$ への最大流量と、それを流すときの費用の最小値を求める。",
+  "sources": [
+    {
+      "judge": "doj",
+      "problem": "322"
+    }
+  ]
+}

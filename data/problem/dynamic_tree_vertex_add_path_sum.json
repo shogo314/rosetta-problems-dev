@@ -1,0 +1,15 @@
+{
+  "id": "dynamic_tree_vertex_add_path_sum",
+  "title": "動的木の頂点加算・パス和",
+  "description": "辺の削除・追加で形が変わる木に対し、頂点の値の加算とパス上の値の和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "dynamic_tree_vertex_add_path_sum"
+    },
+    {
+      "judge": "doj",
+      "problem": "326"
+    }
+  ]
+}

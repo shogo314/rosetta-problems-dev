@@ -1,0 +1,19 @@
+{
+  "id": "union_find",
+  "title": "Union-Find",
+  "description": "$N$ 個の要素に対し、$2$ つの集合の併合と、$2$ 要素が同じ集合に属するかの判定を処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "unionfind"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DSL_1_A"
+    },
+    {
+      "judge": "doj",
+      "problem": "307"
+    }
+  ]
+}

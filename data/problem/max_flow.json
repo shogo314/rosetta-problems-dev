@@ -1,0 +1,15 @@
+{
+  "id": "max_flow",
+  "title": "最大流",
+  "description": "容量付き有向グラフと $2$ 頂点 $s, t$ が与えられ、$s$ から $t$ への最大流量を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_6_A"
+    },
+    {
+      "judge": "doj",
+      "problem": "319"
+    }
+  ]
+}

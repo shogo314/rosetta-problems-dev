@@ -10,6 +10,10 @@
     {
       "judge": "atcoder",
       "problem": "chokudai_S001_g"
+    },
+    {
+      "judge": "doj",
+      "problem": "109"
     }
   ]
 }

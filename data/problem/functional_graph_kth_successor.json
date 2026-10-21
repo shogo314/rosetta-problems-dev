@@ -1,0 +1,11 @@
+{
+  "id": "functional_graph_kth_successor",
+  "title": "Functional グラフの $K$ 個先",
+  "description": "各頂点から出る辺がちょうど $1$ 本の有向グラフが与えられ、頂点 $x$ から $k$ 回辺をたどった先の頂点を求める。",
+  "sources": [
+    {
+      "judge": "doj",
+      "problem": "323"
+    }
+  ]
+}

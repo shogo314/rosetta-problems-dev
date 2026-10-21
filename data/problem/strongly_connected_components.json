@@ -1,0 +1,19 @@
+{
+  "id": "strongly_connected_components",
+  "title": "強連結成分分解",
+  "description": "有向グラフが与えられ、強連結成分に分解する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "scc"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_3_C"
+    },
+    {
+      "judge": "doj",
+      "problem": "312"
+    }
+  ]
+}

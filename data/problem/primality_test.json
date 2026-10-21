@@ -10,6 +10,10 @@
     {
       "judge": "share-oj",
       "problem": "c9279d48-88d6-41b3-b759-e997d6928ccd"
+    },
+    {
+      "judge": "doj",
+      "problem": "338"
     }
   ]
 }

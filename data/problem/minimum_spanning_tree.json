@@ -10,6 +10,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0178_d"
+    },
+    {
+      "judge": "doj",
+      "problem": "316"
     }
   ]
 }
