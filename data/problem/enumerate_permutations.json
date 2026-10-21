@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_permutations",
+  "title": "順列の列挙",
+  "description": "$N$ が与えられ、$(1, \\ldots, N)$ の順列をすべて辞書順に列挙する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_5_D"
+    }
+  ]
+}

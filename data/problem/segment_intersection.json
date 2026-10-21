@@ -1,0 +1,11 @@
+{
+  "id": "segment_intersection",
+  "title": "線分の交差判定",
+  "description": "$2$ 本の線分が与えられ、交差するかを判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_2_B"
+    }
+  ]
+}

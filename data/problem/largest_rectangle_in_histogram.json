@@ -1,0 +1,11 @@
+{
+  "id": "largest_rectangle_in_histogram",
+  "title": "ヒストグラム中の最大長方形",
+  "description": "幅 $1$、高さ $h_i$ の $N$ 本の棒からなるヒストグラムが与えられ、その中に含まれる長方形の面積の最大値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_3_C"
+    }
+  ]
+}

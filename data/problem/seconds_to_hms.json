@@ -1,0 +1,11 @@
+{
+  "id": "seconds_to_hms",
+  "title": "秒数を時・分・秒に変換",
+  "description": "秒単位の時間 $S$ が与えられ、何時間何分何秒かを求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_1_D"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "convex_hull",
+  "title": "凸包",
+  "description": "平面上の $N$ 点が与えられ、その凸包を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_4_A"
+    }
+  ]
+}

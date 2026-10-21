@@ -1,0 +1,15 @@
+{
+  "id": "enumerate_subsets",
+  "title": "部分集合の列挙",
+  "description": "集合が与えられ、その部分集合をすべて列挙する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_11_A"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP2_11_C"
+    }
+  ]
+}

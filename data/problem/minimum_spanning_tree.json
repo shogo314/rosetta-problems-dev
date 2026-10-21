@@ -14,6 +14,14 @@
     {
       "judge": "doj",
       "problem": "316"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_12_A"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_2_A"
     }
   ]
 }

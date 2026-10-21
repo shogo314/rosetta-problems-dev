@@ -1,0 +1,11 @@
+{
+  "id": "range_update_point_get",
+  "title": "区間更新・一点取得クエリ",
+  "description": "長さ $N$ の数列に対し、区間の値の一様な変更と一点の値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_D"
+    }
+  ]
+}

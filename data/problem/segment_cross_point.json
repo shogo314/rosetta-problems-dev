@@ -1,0 +1,11 @@
+{
+  "id": "segment_cross_point",
+  "title": "線分の交点",
+  "description": "交差する $2$ 本の線分が与えられ、交点の座標を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_2_C"
+    }
+  ]
+}

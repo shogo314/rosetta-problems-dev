@@ -1,0 +1,11 @@
+{
+  "id": "directed_cycle_detection",
+  "title": "有向グラフの閉路判定",
+  "description": "有向グラフが与えられ、閉路が存在するか判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_4_A"
+    }
+  ]
+}

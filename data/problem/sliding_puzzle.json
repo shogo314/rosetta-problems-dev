@@ -1,0 +1,15 @@
+{
+  "id": "sliding_puzzle",
+  "title": "スライディングパズル",
+  "description": "空白を $1$ つ含む盤面が与えられ、空白と隣のパネルを入れ替える操作で目標の配置にするための最小手数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_13_B"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_13_C"
+    }
+  ]
+}

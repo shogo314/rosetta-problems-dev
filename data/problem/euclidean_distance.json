@@ -1,0 +1,11 @@
+{
+  "id": "euclidean_distance",
+  "title": "$2$ 点間の距離",
+  "description": "平面上の $2$ 点が与えられ、その間のユークリッド距離を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_10_A"
+    }
+  ]
+}

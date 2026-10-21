@@ -1,0 +1,11 @@
+{
+  "id": "point_projection",
+  "title": "点の射影",
+  "description": "直線と点 $p$ が与えられ、$p$ から直線に下ろした垂線の足を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_1_A"
+    }
+  ]
+}

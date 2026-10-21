@@ -1,0 +1,11 @@
+{
+  "id": "weighted_union_find",
+  "title": "重み付き Union-Find",
+  "description": "$N$ 個の値に対し、$2$ 値の差の情報の追加と、$2$ 値の差の問い合わせ(定まらない場合はそのことを報告)を処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_1_B"
+    }
+  ]
+}

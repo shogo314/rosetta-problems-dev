@@ -1,0 +1,11 @@
+{
+  "id": "stirling_number_second_kind",
+  "title": "第 $2$ 種スターリング数",
+  "description": "$N, K$ が与えられ、$N$ 要素の集合を $K$ 個の空でない部分集合に分割する方法の数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_I"
+    }
+  ]
+}

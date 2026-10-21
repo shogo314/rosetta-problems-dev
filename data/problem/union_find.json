@@ -18,6 +18,10 @@
     {
       "judge": "atcoder",
       "problem": "unionfind_a"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_11_D"
     }
   ]
 }

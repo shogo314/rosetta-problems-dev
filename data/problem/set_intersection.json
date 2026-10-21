@@ -10,6 +10,18 @@
     {
       "judge": "leetcode",
       "problem": "intersection-of-two-arrays"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_4_A"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_4_B"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP2_9_B"
     }
   ]
 }

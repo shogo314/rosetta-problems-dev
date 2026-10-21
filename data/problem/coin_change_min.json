@@ -1,0 +1,15 @@
+{
+  "id": "coin_change_min",
+  "title": "硬貨の最小枚数",
+  "description": "硬貨の額面の種類と金額 $N$ が与えられ、各硬貨を何枚でも使って $N$ を支払うときの枚数の最小値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_15_A"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_1_A"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "orthogonal_range_search",
+  "title": "長方形領域内の点の列挙",
+  "description": "平面上の $N$ 点と $Q$ 個の軸に平行な長方形が与えられ、各長方形に含まれる点を列挙する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_C"
+    }
+  ]
+}

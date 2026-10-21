@@ -1,0 +1,11 @@
+{
+  "id": "parallel_orthogonal",
+  "title": "$2$ 直線の平行・垂直判定",
+  "description": "$2$ 本の直線が与えられ、平行か、直交するか、どちらでもないかを判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_2_A"
+    }
+  ]
+}

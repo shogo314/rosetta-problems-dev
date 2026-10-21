@@ -166,6 +166,10 @@
     {
       "judge": "doj",
       "problem": "107"
+    },
+    {
+      "judge": "aoj",
+      "problem": "NTL_2_A"
     }
   ]
 }

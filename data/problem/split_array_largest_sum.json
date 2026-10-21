@@ -30,6 +30,10 @@
     {
       "judge": "samcoding",
       "problem": "12_G"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_4_D"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "subset_sum",
+  "title": "部分和問題",
+  "description": "$N$ 個の整数と $S$ が与えられ、和がちょうど $S$ になる部分集合が存在するか判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_5_A"
+    }
+  ]
+}

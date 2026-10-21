@@ -1,0 +1,11 @@
+{
+  "id": "vertex_add_path_sum",
+  "title": "木の頂点加算・パス和",
+  "description": "木に対し、頂点(または辺)の値の加算とパス上の値の和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_5_D"
+    }
+  ]
+}

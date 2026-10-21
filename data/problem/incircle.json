@@ -1,0 +1,11 @@
+{
+  "id": "incircle",
+  "title": "三角形の内接円",
+  "description": "三角形の $3$ 頂点が与えられ、内接円の中心と半径を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_B"
+    }
+  ]
+}

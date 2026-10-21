@@ -1,0 +1,11 @@
+{
+  "id": "point_reflection",
+  "title": "点の反射",
+  "description": "直線と点 $p$ が与えられ、直線に関して $p$ と対称な点を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_1_B"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "is_subset",
+  "title": "部分集合の判定",
+  "description": "$2$ つの集合 $A, B$ が与えられ、$B$ が $A$ の部分集合であるかを判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_6_B"
+    }
+  ]
+}

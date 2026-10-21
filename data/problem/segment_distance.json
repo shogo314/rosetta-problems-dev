@@ -1,0 +1,11 @@
+{
+  "id": "segment_distance",
+  "title": "線分間の距離",
+  "description": "$2$ 本の線分が与えられ、その間の距離を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_2_D"
+    }
+  ]
+}

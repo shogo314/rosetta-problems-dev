@@ -1,0 +1,11 @@
+{
+  "id": "lower_bound",
+  "title": "lower bound",
+  "description": "昇順に並んだ数列 $A$ と値 $K$ が与えられ、$A_i \\geq K$ となる最小の $i$ を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_6_C"
+    }
+  ]
+}

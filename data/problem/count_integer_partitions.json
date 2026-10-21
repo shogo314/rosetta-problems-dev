@@ -1,0 +1,15 @@
+{
+  "id": "count_integer_partitions",
+  "title": "分割数",
+  "description": "$N, K$ が与えられ、$N$ を $K$ 個以下(またはちょうど $K$ 個)の正整数の和で表す方法(順序は区別しない)の数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_J"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_L"
+    }
+  ]
+}

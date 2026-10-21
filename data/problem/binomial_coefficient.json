@@ -1,0 +1,11 @@
+{
+  "id": "binomial_coefficient",
+  "title": "二項係数",
+  "description": "$N, K$ が与えられ、二項係数 $\\binom{N}{K}$ を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_E"
+    }
+  ]
+}

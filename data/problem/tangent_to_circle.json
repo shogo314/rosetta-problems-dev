@@ -1,0 +1,11 @@
+{
+  "id": "tangent_to_circle",
+  "title": "点を通る円の接線",
+  "description": "円と円の外部の点 $p$ が与えられ、$p$ を通る円の接線の接点を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_F"
+    }
+  ]
+}

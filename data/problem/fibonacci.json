@@ -1,0 +1,11 @@
+{
+  "id": "fibonacci",
+  "title": "フィボナッチ数",
+  "description": "$N$ が与えられ、フィボナッチ数列の第 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_10_A"
+    }
+  ]
+}

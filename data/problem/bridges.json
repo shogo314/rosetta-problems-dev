@@ -1,0 +1,11 @@
+{
+  "id": "bridges",
+  "title": "橋",
+  "description": "無向グラフが与えられ、取り除くと連結成分が増える辺をすべて求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_3_B"
+    }
+  ]
+}

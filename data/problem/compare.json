@@ -1,0 +1,11 @@
+{
+  "id": "compare",
+  "title": "$2$ 数の大小比較",
+  "description": "整数 $X, Y$ が与えられ、$X < Y$、$X = Y$、$X > Y$ のいずれであるかを判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_2_A"
+    }
+  ]
+}

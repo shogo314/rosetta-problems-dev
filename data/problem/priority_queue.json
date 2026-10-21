@@ -1,0 +1,15 @@
+{
+  "id": "priority_queue",
+  "title": "優先度付きキュー",
+  "description": "多重集合に対し、値の挿入と最大値(または最小値)の取得・削除を処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_9_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP2_2_C"
+    }
+  ]
+}

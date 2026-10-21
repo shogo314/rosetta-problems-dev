@@ -10,6 +10,10 @@
     {
       "judge": "doj",
       "problem": "317"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_7_A"
     }
   ]
 }

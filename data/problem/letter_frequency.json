@@ -1,0 +1,11 @@
+{
+  "id": "letter_frequency",
+  "title": "各文字の出現回数",
+  "description": "文字列 $S$ が与えられ、各文字が $S$ に現れる回数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_8_C"
+    }
+  ]
+}

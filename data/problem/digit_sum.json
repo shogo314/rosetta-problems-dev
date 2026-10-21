@@ -1,0 +1,11 @@
+{
+  "id": "digit_sum",
+  "title": "各桁の和",
+  "description": "非負整数 $N$ が与えられ、十進表記の各桁の和を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_8_B"
+    }
+  ]
+}

@@ -6,6 +6,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0047_c"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_E"
     }
   ]
 }

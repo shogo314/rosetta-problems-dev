@@ -1,0 +1,11 @@
+{
+  "id": "largest_rectangle_in_grid",
+  "title": "最大長方形",
+  "description": "$H \\times W$ の $0/1$ のグリッドが与えられ、$0$ のマスだけからなる長方形の面積の最大値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_3_B"
+    }
+  ]
+}

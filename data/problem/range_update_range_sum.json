@@ -1,0 +1,11 @@
+{
+  "id": "range_update_range_sum",
+  "title": "区間更新・区間和クエリ",
+  "description": "長さ $N$ の数列に対し、区間の値の一様な変更と区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_I"
+    }
+  ]
+}

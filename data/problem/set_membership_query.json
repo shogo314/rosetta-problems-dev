@@ -1,0 +1,15 @@
+{
+  "id": "set_membership_query",
+  "title": "集合の要素判定",
+  "description": "集合に対し、値の挿入(ない場合もある)と、値が含まれるかの問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_4_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP2_6_A"
+    }
+  ]
+}

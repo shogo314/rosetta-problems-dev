@@ -1,0 +1,15 @@
+{
+  "id": "count_compositions",
+  "title": "非負整数の和への分け方",
+  "description": "$N, K$ が与えられ、$N$ を $K$ 個の非負整数(または正整数)の順序付きの和で表す方法の数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_D"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_F"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "pattern_matching_2d",
+  "title": "$2$ 次元パターン検索",
+  "description": "$H \\times W$ の文字の盤面と $R \\times C$ のパターンが与えられ、パターンが現れる位置をすべて求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_14_C"
+    }
+  ]
+}

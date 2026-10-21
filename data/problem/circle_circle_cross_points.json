@@ -1,0 +1,11 @@
+{
+  "id": "circle_circle_cross_points",
+  "title": "$2$ 円の交点",
+  "description": "$2$ つの円が与えられ、それらの交点を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_E"
+    }
+  ]
+}

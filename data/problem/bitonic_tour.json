@@ -6,6 +6,10 @@
     {
       "judge": "doj",
       "problem": "604"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DPL_2_C"
     }
   ]
 }

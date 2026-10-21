@@ -1,0 +1,11 @@
+{
+  "id": "closest_pair",
+  "title": "最近点対",
+  "description": "平面上の $N$ 点が与えられ、最も近い $2$ 点間の距離を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_5_A"
+    }
+  ]
+}

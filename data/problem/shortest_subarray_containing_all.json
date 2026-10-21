@@ -1,0 +1,11 @@
+{
+  "id": "shortest_subarray_containing_all",
+  "title": "$1$ から $K$ をすべて含む最短の連続部分列",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、$1, \\ldots, K$ をすべて含む連続部分列のうち最短のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_3_B"
+    }
+  ]
+}

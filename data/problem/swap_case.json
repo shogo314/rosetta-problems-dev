@@ -1,0 +1,11 @@
+{
+  "id": "swap_case",
+  "title": "大文字と小文字の入れ替え",
+  "description": "文字列 $S$ が与えられ、英大文字を小文字に、英小文字を大文字にした文字列を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_8_A"
+    }
+  ]
+}

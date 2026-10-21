@@ -1,0 +1,11 @@
+{
+  "id": "is_convex_polygon",
+  "title": "凸性判定",
+  "description": "多角形の頂点列が与えられ、凸多角形であるかを判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_3_B"
+    }
+  ]
+}

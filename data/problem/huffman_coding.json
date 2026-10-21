@@ -1,0 +1,11 @@
+{
+  "id": "huffman_coding",
+  "title": "ハフマン符号",
+  "description": "文字列 $S$ が与えられ、$S$ をハフマン符号で符号化したときのビット列の長さを求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_15_D"
+    }
+  ]
+}

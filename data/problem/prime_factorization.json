@@ -1,0 +1,11 @@
+{
+  "id": "prime_factorization",
+  "title": "素因数分解",
+  "description": "正整数 $N$ が与えられ、$N$ を素因数分解する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "NTL_1_A"
+    }
+  ]
+}

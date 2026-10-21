@@ -1,0 +1,11 @@
+{
+  "id": "standard_deviation",
+  "title": "標準偏差",
+  "description": "長さ $N$ の数列 $A$ が与えられ、その標準偏差を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_10_C"
+    }
+  ]
+}

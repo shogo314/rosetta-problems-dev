@@ -54,6 +54,26 @@
     {
       "judge": "doj",
       "problem": "321"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_11_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_12_B"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_12_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_1_A"
+    },
+    {
+      "judge": "aoj",
+      "problem": "GRL_1_B"
     }
   ]
 }

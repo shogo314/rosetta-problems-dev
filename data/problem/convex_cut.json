@@ -1,0 +1,11 @@
+{
+  "id": "convex_cut",
+  "title": "凸多角形の切断",
+  "description": "凸多角形と直線が与えられ、凸多角形のうち直線の左側にある部分の面積を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_4_C"
+    }
+  ]
+}

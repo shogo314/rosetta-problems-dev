@@ -1,0 +1,11 @@
+{
+  "id": "reverse",
+  "title": "数列の反転",
+  "description": "長さ $N$ の数列 $A$ が与えられ、逆順に並べた列を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_6_A"
+    }
+  ]
+}

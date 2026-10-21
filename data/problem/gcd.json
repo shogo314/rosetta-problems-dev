@@ -1,0 +1,11 @@
+{
+  "id": "gcd",
+  "title": "最大公約数",
+  "description": "整数 $X, Y$ が与えられ、最大公約数 $\\gcd(X, Y)$ を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_1_B"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "evaluate_rpn",
+  "title": "逆ポーランド記法の計算",
+  "description": "逆ポーランド記法で書かれた数式が与えられ、その値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_3_A"
+    }
+  ]
+}

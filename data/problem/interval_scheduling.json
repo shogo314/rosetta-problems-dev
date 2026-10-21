@@ -10,6 +10,10 @@
     {
       "judge": "samcoding",
       "problem": "16_B"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_15_C"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_combinations",
+  "title": "組合せの列挙",
+  "description": "$N, K$ が与えられ、$N$ 個から $K$ 個を選ぶ組合せをすべて列挙する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_11_D"
+    }
+  ]
+}

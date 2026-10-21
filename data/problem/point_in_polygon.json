@@ -1,0 +1,11 @@
+{
+  "id": "point_in_polygon",
+  "title": "多角形と点の包含判定",
+  "description": "多角形と点 $p$ が与えられ、$p$ が多角形の内部・辺上・外部のどこにあるかを判定する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_3_C"
+    }
+  ]
+}

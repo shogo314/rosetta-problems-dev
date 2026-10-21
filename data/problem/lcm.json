@@ -1,0 +1,11 @@
+{
+  "id": "lcm",
+  "title": "最小公倍数",
+  "description": "$N$ 個の正整数が与えられ、それらの最小公倍数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "NTL_1_C"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "path_add_path_sum",
+  "title": "木のパス加算・パス和",
+  "description": "木に対し、パス上の値への一様な加算とパス上の値の和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_5_E"
+    }
+  ]
+}

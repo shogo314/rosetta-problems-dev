@@ -1,0 +1,11 @@
+{
+  "id": "set_union",
+  "title": "$2$ つの集合の和集合",
+  "description": "$2$ つの集合 $A, B$ が与えられ、和集合 $A \\cup B$ を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_9_A"
+    }
+  ]
+}

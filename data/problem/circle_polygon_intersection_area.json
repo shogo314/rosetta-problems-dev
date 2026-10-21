@@ -1,0 +1,11 @@
+{
+  "id": "circle_polygon_intersection_area",
+  "title": "円と多角形の共通部分の面積",
+  "description": "円と多角形が与えられ、それらの共通部分の面積を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_H"
+    }
+  ]
+}

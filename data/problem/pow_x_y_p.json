@@ -10,6 +10,10 @@
     {
       "judge": "atcoder",
       "problem": "atc002_b"
+    },
+    {
+      "judge": "aoj",
+      "problem": "NTL_1_B"
     }
   ]
 }

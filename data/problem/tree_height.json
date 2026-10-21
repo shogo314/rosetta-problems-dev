@@ -1,0 +1,11 @@
+{
+  "id": "tree_height",
+  "title": "木の各頂点からの最遠距離",
+  "description": "重み付き木が与えられ、各頂点について最も遠い頂点までの距離を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_5_B"
+    }
+  ]
+}

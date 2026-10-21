@@ -1,0 +1,11 @@
+{
+  "id": "rectangle_union_area",
+  "title": "長方形の和集合の面積",
+  "description": "軸に平行な $N$ 個の長方形が与えられ、それらの和集合の面積を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_4_A"
+    }
+  ]
+}

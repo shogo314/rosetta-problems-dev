@@ -1,0 +1,11 @@
+{
+  "id": "circle_circle_intersection_area",
+  "title": "$2$ 円の共通部分の面積",
+  "description": "$2$ つの円が与えられ、それらの共通部分の面積を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_I"
+    }
+  ]
+}

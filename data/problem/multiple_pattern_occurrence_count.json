@@ -6,6 +6,10 @@
     {
       "judge": "doj",
       "problem": "339"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_14_D"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "circle_line_cross_points",
+  "title": "円と直線の交点",
+  "description": "円と直線が与えられ、それらの交点を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_D"
+    }
+  ]
+}

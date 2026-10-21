@@ -1,0 +1,11 @@
+{
+  "id": "set_difference",
+  "title": "$2$ つの集合の差集合",
+  "description": "$2$ つの集合 $A, B$ が与えられ、差集合 $A \\setminus B$ を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP2_9_C"
+    }
+  ]
+}

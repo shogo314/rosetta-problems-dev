@@ -1,0 +1,11 @@
+{
+  "id": "farthest_pair",
+  "title": "最遠点対",
+  "description": "平面上の $N$ 点が与えられ、最も遠い $2$ 点間の距離を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_4_B"
+    }
+  ]
+}

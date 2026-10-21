@@ -1,0 +1,11 @@
+{
+  "id": "max_profit",
+  "title": "売買の最大利益",
+  "description": "長さ $N$ の数列 $A$ が与えられ、$i < j$ における $A_j - A_i$ の最大値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_1_D"
+    }
+  ]
+}

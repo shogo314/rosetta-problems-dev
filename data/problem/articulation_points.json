@@ -1,0 +1,11 @@
+{
+  "id": "articulation_points",
+  "title": "関節点",
+  "description": "無向グラフが与えられ、取り除くと連結成分が増える頂点をすべて求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "GRL_3_A"
+    }
+  ]
+}

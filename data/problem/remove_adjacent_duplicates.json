@@ -10,6 +10,10 @@
     {
       "judge": "leetcode",
       "problem": "remove-duplicates-from-sorted-array"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP2_4_D"
     }
   ]
 }

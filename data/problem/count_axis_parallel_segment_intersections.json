@@ -1,0 +1,11 @@
+{
+  "id": "count_axis_parallel_segment_intersections",
+  "title": "軸に平行な線分の交点の個数",
+  "description": "$x$ 軸または $y$ 軸に平行な $N$ 本の線分が与えられ、交点の個数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_6_A"
+    }
+  ]
+}

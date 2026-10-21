@@ -1,0 +1,11 @@
+{
+  "id": "matrix_chain_multiplication",
+  "title": "連鎖行列積",
+  "description": "$N$ 個の行列の大きさが与えられ、積 $M_1 M_2 \\cdots M_N$ の計算に必要なスカラー乗算の回数の最小値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_10_B"
+    }
+  ]
+}

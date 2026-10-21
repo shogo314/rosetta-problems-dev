@@ -1,0 +1,11 @@
+{
+  "id": "count_surjections",
+  "title": "全射の個数",
+  "description": "$N, K$ が与えられ、$N$ 要素の集合から $K$ 要素の集合への全射の個数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_5_C"
+    }
+  ]
+}

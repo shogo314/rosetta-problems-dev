@@ -1,0 +1,23 @@
+{
+  "id": "sort",
+  "title": "ソート",
+  "description": "長さ $N$ の数列 $A$ が与えられ、昇順に並べ替えた列を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_2_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP1_3_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_6_A"
+    },
+    {
+      "judge": "aoj",
+      "problem": "ITP2_5_A"
+    }
+  ]
+}

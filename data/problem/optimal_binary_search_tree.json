@@ -1,0 +1,11 @@
+{
+  "id": "optimal_binary_search_tree",
+  "title": "最適二分探索木",
+  "description": "キーとダミーキーの探索確率が与えられ、二分探索木における探索コストの期待値の最小値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_10_D"
+    }
+  ]
+}

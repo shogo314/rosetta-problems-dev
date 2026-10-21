@@ -1,0 +1,11 @@
+{
+  "id": "extended_gcd",
+  "title": "拡張ユークリッドの互除法",
+  "description": "整数 $a, b$ が与えられ、$ax + by = \\gcd(a, b)$ を満たす整数 $(x, y)$ を $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "NTL_1_E"
+    }
+  ]
+}

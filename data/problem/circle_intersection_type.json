@@ -1,0 +1,11 @@
+{
+  "id": "circle_intersection_type",
+  "title": "$2$ 円の位置関係",
+  "description": "$2$ つの円が与えられ、その位置関係(共通接線の本数)を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_A"
+    }
+  ]
+}

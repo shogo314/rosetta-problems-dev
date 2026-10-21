@@ -1,0 +1,11 @@
+{
+  "id": "common_tangents",
+  "title": "$2$ 円の共通接線",
+  "description": "$2$ つの円が与えられ、共通接線の接点を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "CGL_7_G"
+    }
+  ]
+}

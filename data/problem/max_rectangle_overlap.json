@@ -1,0 +1,11 @@
+{
+  "id": "max_rectangle_overlap",
+  "title": "長方形の最大重なり数",
+  "description": "軸に平行な $N$ 個の長方形が与えられ、ある点を同時に含む長方形の個数の最大値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_5_B"
+    }
+  ]
+}

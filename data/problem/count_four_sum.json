@@ -1,0 +1,11 @@
+{
+  "id": "count_four_sum",
+  "title": "$4$ つの数列から選んだ和が $V$ になる組の個数",
+  "description": "長さ $N$ の数列 $A, B, C, D$ と $V$ が与えられ、$A_i + B_j + C_k + D_l = V$ となる $(i, j, k, l)$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DPL_4_A"
+    }
+  ]
+}

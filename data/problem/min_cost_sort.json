@@ -1,0 +1,11 @@
+{
+  "id": "min_cost_sort",
+  "title": "最小コストソート",
+  "description": "相異なる要素からなる数列 $A$ が与えられ、$A_i$ と $A_j$ の交換にコスト $A_i + A_j$ がかかるとき、昇順に並べ替えるコストの総和の最小値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_6_D"
+    }
+  ]
+}

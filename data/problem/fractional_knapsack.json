@@ -1,0 +1,11 @@
+{
+  "id": "fractional_knapsack",
+  "title": "有理ナップサック問題",
+  "description": "価値と重さが与えられた $N$ 個の品物を、好きな量だけ容量 $W$ のナップサックに入れるときの価値の合計の最大値を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_15_B"
+    }
+  ]
+}

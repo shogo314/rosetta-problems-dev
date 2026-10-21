@@ -18,6 +18,10 @@
     {
       "judge": "share-oj",
       "problem": "f4863a1e-cd92-4798-9d73-7e7bab0f8311"
+    },
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_B"
     }
   ]
 }

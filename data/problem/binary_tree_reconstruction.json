@@ -1,0 +1,11 @@
+{
+  "id": "binary_tree_reconstruction",
+  "title": "二分木の復元",
+  "description": "二分木の先行順巡回と中間順巡回の頂点列が与えられ、後行順巡回の頂点列を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ALDS1_7_D"
+    }
+  ]
+}

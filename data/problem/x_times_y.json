@@ -26,6 +26,14 @@
     {
       "judge": "doj",
       "problem": "224"
+    },
+    {
+      "judge": "aoj",
+      "problem": "NTL_2_C"
+    },
+    {
+      "judge": "aoj",
+      "problem": "NTL_2_F"
     }
   ]
 }

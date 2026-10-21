@@ -1,0 +1,11 @@
+{
+  "id": "euler_phi",
+  "title": "オイラーの $\\varphi$ 関数",
+  "description": "正整数 $N$ が与えられ、$1$ 以上 $N$ 以下で $N$ と互いに素な整数の個数を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "NTL_1_D"
+    }
+  ]
+}
