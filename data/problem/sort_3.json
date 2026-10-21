@@ -1,0 +1,15 @@
+{
+  "id": "sort_3",
+  "title": "$3$ 数のソート",
+  "description": "整数が $3$ つ与えられ、昇順に並べ替えた列を求める。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "ITP1_2_C"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "6"
+    }
+  ]
+}

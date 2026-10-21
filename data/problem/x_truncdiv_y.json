@@ -1,0 +1,11 @@
+{
+  "id": "x_truncdiv_y",
+  "title": "$\\operatorname{trunc}\\left(\\frac{X}{Y}\\right)$",
+  "description": "$$\n\\operatorname{trunc}\\left(\\frac{X}{Y}\\right)\n$$",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "NTL_2_D"
+    }
+  ]
+}
