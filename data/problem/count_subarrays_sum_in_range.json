@@ -1,0 +1,15 @@
+{
+  "id": "count_subarrays_sum_in_range",
+  "title": "和が $[L, R]$ に入る連続部分列の個数",
+  "description": "長さ $N$ の整数列 $A$ と $L, R$ が与えられ、$L \\leq \\sum_{i=l}^{r} A_i \\leq R$ となる $(l, r)$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "count-of-range-sum"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "22_I"
+    }
+  ]
+}

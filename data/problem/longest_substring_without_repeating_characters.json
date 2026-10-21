@@ -1,0 +1,15 @@
+{
+  "id": "longest_substring_without_repeating_characters",
+  "title": "同じ文字を含まない最長の部分文字列",
+  "description": "文字列 $S$ が与えられ、同じ文字を $2$ 回以上含まない連続部分文字列のうち最長のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "longest-substring-without-repeating-characters"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "12_F"
+    }
+  ]
+}

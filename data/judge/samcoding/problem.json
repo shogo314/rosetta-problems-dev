@@ -1,11 +1,596 @@
 [
   {
+    "id": "1_A",
+    "title": "Qadimiy soat",
+    "url": "https://samcoding.uz/problems/1/A",
+    "data": {
+      "contest_id": "1",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "1_B",
+    "title": "Raqamli parol shifrlari",
+    "url": "https://samcoding.uz/problems/1/B",
+    "data": {
+      "contest_id": "1",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "1_C",
+    "title": "Sehrli juftliklar",
+    "url": "https://samcoding.uz/problems/1/C",
+    "data": {
+      "contest_id": "1",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "1_D",
+    "title": "Kristallar va portal siri",
+    "url": "https://samcoding.uz/problems/1/D",
+    "data": {
+      "contest_id": "1",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "1_E",
+    "title": "Devorbuzar",
+    "url": "https://samcoding.uz/problems/1/E",
+    "data": {
+      "contest_id": "1",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "1_F",
+    "title": "Alkimyogar yordamchilari",
+    "url": "https://samcoding.uz/problems/1/F",
+    "data": {
+      "contest_id": "1",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "2_A",
+    "title": "Do'kondagi chegirma",
+    "url": "https://samcoding.uz/problems/2/A",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "2_B",
+    "title": "Chorsu Bozori Maydoni",
+    "url": "https://samcoding.uz/problems/2/B",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "2_C",
+    "title": "Kirito",
+    "url": "https://samcoding.uz/problems/2/C",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "2_D",
+    "title": "CS2: Tutun bilan to'sish",
+    "url": "https://samcoding.uz/problems/2/D",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "2_E",
+    "title": "CS2: T-spawn'ni to'sish",
+    "url": "https://samcoding.uz/problems/2/E",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "2_F",
+    "title": "Kage Bunshin va dushman ninjalar",
+    "url": "https://samcoding.uz/problems/2/F",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "2_G",
+    "title": "Chakra rezonansi",
+    "url": "https://samcoding.uz/problems/2/G",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "2_H",
+    "title": "O'rgimchak odam Erangelda",
+    "url": "https://samcoding.uz/problems/2/H",
+    "data": {
+      "contest_id": "2",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "7_A",
+    "title": "Takroriy elementlar",
+    "url": "https://samcoding.uz/problems/7/A",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "7_B",
+    "title": "Goldbach juftligi",
+    "url": "https://samcoding.uz/problems/7/B",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "7_C",
+    "title": "Labirint",
+    "url": "https://samcoding.uz/problems/7/C",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "7_D",
+    "title": "Token o'yini",
+    "url": "https://samcoding.uz/problems/7/D",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "7_E",
+    "title": "Mandat",
+    "url": "https://samcoding.uz/problems/7/E",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "7_F",
+    "title": "Xavfsiz parol",
+    "url": "https://samcoding.uz/problems/7/F",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "7_G",
+    "title": "Avtoturargoh",
+    "url": "https://samcoding.uz/problems/7/G",
+    "data": {
+      "contest_id": "7",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "12_A",
+    "title": "Maxfiy bunker",
+    "url": "https://samcoding.uz/problems/12/A",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "12_B",
+    "title": "Maxfiy baza: lazer himoyasi",
+    "url": "https://samcoding.uz/problems/12/B",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "12_C",
+    "title": "Energiya minorasi",
+    "url": "https://samcoding.uz/problems/12/C",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "12_D",
+    "title": "Eng uzun segment",
+    "url": "https://samcoding.uz/problems/12/D",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "12_E",
+    "title": "Minimal enirgiya",
+    "url": "https://samcoding.uz/problems/12/E",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "12_F",
+    "title": "Takrorlanmas belgilar",
+    "url": "https://samcoding.uz/problems/12/F",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "12_G",
+    "title": "Yuk tashish jadvali",
+    "url": "https://samcoding.uz/problems/12/G",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "12_H",
+    "title": "Eng uzun segment #2",
+    "url": "https://samcoding.uz/problems/12/H",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "12_I",
+    "title": "Shaxmat: ♞ Otning yurishi",
+    "url": "https://samcoding.uz/problems/12/I",
+    "data": {
+      "contest_id": "12",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "15_A",
+    "title": "Halqa o'yini",
+    "url": "https://samcoding.uz/problems/15/A",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "15_B",
+    "title": "Kutilgan fragging",
+    "url": "https://samcoding.uz/problems/15/B",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "15_C",
+    "title": "Dam olish bekatlari",
+    "url": "https://samcoding.uz/problems/15/C",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "15_D",
+    "title": "Ikkilik qidiruv",
+    "url": "https://samcoding.uz/problems/15/D",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "15_E",
+    "title": "Feruz ustaning munchoqlari",
+    "url": "https://samcoding.uz/problems/15/E",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "15_F",
+    "title": "Uch hunar",
+    "url": "https://samcoding.uz/problems/15/F",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "15_G",
+    "title": "Beshtosh o'yini",
+    "url": "https://samcoding.uz/problems/15/G",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "15_H",
+    "title": "Shaxmat",
+    "url": "https://samcoding.uz/problems/15/H",
+    "data": {
+      "contest_id": "15",
+      "problem_index": "H"
+    }
+  },
+  {
     "id": "16_A",
     "title": "Maksimal bo'lak yig'indisi",
     "url": "https://samcoding.uz/problems/16/A",
     "data": {
       "contest_id": "16",
       "problem_index": "A"
+    }
+  },
+  {
+    "id": "16_B",
+    "title": "Ishlarni rejalashtirish",
+    "url": "https://samcoding.uz/problems/16/B",
+    "data": {
+      "contest_id": "16",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "16_C",
+    "title": "Panelni domino bilan qoplash",
+    "url": "https://samcoding.uz/problems/16/C",
+    "data": {
+      "contest_id": "16",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "16_D",
+    "title": "Ikki qadimiy bitik",
+    "url": "https://samcoding.uz/problems/16/D",
+    "data": {
+      "contest_id": "16",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "16_E",
+    "title": "0/1 Yukxalta",
+    "url": "https://samcoding.uz/problems/16/E",
+    "data": {
+      "contest_id": "16",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "16_F",
+    "title": "Chopar yetkazuvchi",
+    "url": "https://samcoding.uz/problems/16/F",
+    "data": {
+      "contest_id": "16",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "16_G",
+    "title": "Massivni guruhlarga bo'lish",
+    "url": "https://samcoding.uz/problems/16/G",
+    "data": {
+      "contest_id": "16",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "22_A",
+    "title": "Foiz hisoblash",
+    "url": "https://samcoding.uz/problems/22/A",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "22_B",
+    "title": "Kalkulyator",
+    "url": "https://samcoding.uz/problems/22/B",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "22_C",
+    "title": "Raqamsiz klaviatura",
+    "url": "https://samcoding.uz/problems/22/C",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "22_D",
+    "title": "Mukammal son",
+    "url": "https://samcoding.uz/problems/22/D",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "22_E",
+    "title": "Park lampalari",
+    "url": "https://samcoding.uz/problems/22/E",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "22_F",
+    "title": "K ga bo'linadigan qism massivlar",
+    "url": "https://samcoding.uz/problems/22/F",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "22_G",
+    "title": "Shokolad fabrikasi",
+    "url": "https://samcoding.uz/problems/22/G",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "22_H",
+    "title": "Sirli vodiy",
+    "url": "https://samcoding.uz/problems/22/H",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "22_I",
+    "title": "L-R oralig'idagi qism massivlar",
+    "url": "https://samcoding.uz/problems/22/I",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "22_J",
+    "title": "Yolg'onchi qorovul",
+    "url": "https://samcoding.uz/problems/22/J",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "J"
+    }
+  },
+  {
+    "id": "22_K",
+    "title": "Yomg'irda yuvilgan chizmalar",
+    "url": "https://samcoding.uz/problems/22/K",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "K"
+    }
+  },
+  {
+    "id": "22_L",
+    "title": "Signal tarmog'i",
+    "url": "https://samcoding.uz/problems/22/L",
+    "data": {
+      "contest_id": "22",
+      "problem_index": "L"
+    }
+  },
+  {
+    "id": "37_A",
+    "title": "Shokolad bo'lagi",
+    "url": "https://samcoding.uz/problems/37/A",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "37_B",
+    "title": "Elektron soat",
+    "url": "https://samcoding.uz/problems/37/B",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "37_C",
+    "title": "Don miqdorlarini saralash",
+    "url": "https://samcoding.uz/problems/37/C",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "37_D",
+    "title": "Qog’oz buklash",
+    "url": "https://samcoding.uz/problems/37/D",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "37_E",
+    "title": "Minimal almashtirishlar soni",
+    "url": "https://samcoding.uz/problems/37/E",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "37_F",
+    "title": "Tog' sayohati",
+    "url": "https://samcoding.uz/problems/37/F",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "37_G",
+    "title": "Bayram chiroqlari",
+    "url": "https://samcoding.uz/problems/37/G",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "37_H",
+    "title": "Sehrli gulzor",
+    "url": "https://samcoding.uz/problems/37/H",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "37_I",
+    "title": "Sonni teskari qilish",
+    "url": "https://samcoding.uz/problems/37/I",
+    "data": {
+      "contest_id": "37",
+      "problem_index": "I"
     }
   }
 ]

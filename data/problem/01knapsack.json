@@ -62,6 +62,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0018_d"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "16_E"
     }
   ]
 }

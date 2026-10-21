@@ -1,0 +1,15 @@
+{
+  "id": "maximize_min_distance",
+  "title": "最小間隔の最大化",
+  "description": "数直線上の $N$ 個の位置から $M$ 個を選ぶとき、選んだ位置どうしの距離の最小値の最大値を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "magnetic-force-between-two-balls"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "15_C"
+    }
+  ]
+}

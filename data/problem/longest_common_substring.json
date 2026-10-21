@@ -1,0 +1,15 @@
+{
+  "id": "longest_common_substring",
+  "title": "最長共通部分文字列",
+  "description": "$2$ つの文字列 $S, T$ が与えられ、両方に連続部分文字列として現れる文字列のうち最長のものを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "longest_common_substring"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "16_D"
+    }
+  ]
+}

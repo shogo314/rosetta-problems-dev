@@ -1,0 +1,15 @@
+{
+  "id": "josephus_problem",
+  "title": "ヨセフスの問題",
+  "description": "$N$ 人が円形に並び、$K$ 人目ごとに取り除いていくとき、最後に残る人の番号を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "find-the-winner-of-the-circular-game"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "15_A"
+    }
+  ]
+}

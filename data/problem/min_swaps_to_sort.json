@@ -1,0 +1,11 @@
+{
+  "id": "min_swaps_to_sort",
+  "title": "ソートに必要な最小スワップ回数",
+  "description": "相異なる要素からなる長さ $N$ の数列 $A$ が与えられ、任意の $2$ 要素の交換を繰り返して昇順にするための最小回数を求める。",
+  "sources": [
+    {
+      "judge": "samcoding",
+      "problem": "37_E"
+    }
+  ]
+}

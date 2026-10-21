@@ -10,6 +10,10 @@
     {
       "judge": "leetcode",
       "problem": "subarray-sums-divisible-by-k"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "22_F"
     }
   ]
 }

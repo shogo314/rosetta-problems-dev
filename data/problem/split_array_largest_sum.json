@@ -22,6 +22,14 @@
     {
       "judge": "leetcode",
       "problem": "split-array-largest-sum"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "1_F"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "12_G"
     }
   ]
 }

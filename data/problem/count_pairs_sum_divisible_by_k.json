@@ -1,0 +1,19 @@
+{
+  "id": "count_pairs_sum_divisible_by_k",
+  "title": "和が $K$ の倍数になるペアの個数",
+  "description": "長さ $N$ の整数列 $A$ と $K$ が与えられ、$i < j$ かつ $A_i + A_j$ が $K$ の倍数となる $(i, j)$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "pairs-of-songs-with-total-durations-divisible-by-60"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "1_C"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "1_D"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "contains_duplicate",
+  "title": "重複要素の判定",
+  "description": "長さ $N$ の数列 $A$ が与えられ、同じ値の要素が $2$ つ以上存在するか判定する。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "contains-duplicate"
+    },
+    {
+      "judge": "samcoding",
+      "problem": "7_A"
+    }
+  ]
+}
