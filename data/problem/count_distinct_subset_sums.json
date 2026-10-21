@@ -1,0 +1,11 @@
+{
+  "id": "count_distinct_subset_sums",
+  "title": "部分和としてあり得る値の個数",
+  "description": "$N$ 個の整数が与えられ、部分集合の和としてあり得る値の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "tdpc_contest"
+    }
+  ]
+}

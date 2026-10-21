@@ -1,0 +1,11 @@
+{
+  "id": "count_labeled_connected_graphs",
+  "title": "ラベル付き連結グラフの数え上げ",
+  "description": "頂点に $1$ から $N$ の番号がついた $N$ 頂点の単純連結無向グラフの個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "fps_24_m"
+    }
+  ]
+}

@@ -6,6 +6,10 @@
     {
       "judge": "acwing",
       "problem": "91"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "atc002_b"
     }
   ]
 }

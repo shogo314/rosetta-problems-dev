@@ -66,6 +66,14 @@
     {
       "judge": "samcoding",
       "problem": "16_E"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_d"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_e"
     }
   ]
 }

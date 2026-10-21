@@ -1,11 +1,15 @@
 {
   "id": "count_walks_length_k",
   "title": "長さ $K$ のウォークの数え上げ",
-  "description": "有向グラフが与えられ、頂点 $s$ から $t$ への長さちょうど $K$ のウォークの個数（重み付きの場合は重みの積の総和）を求める。",
+  "description": "有向グラフが与えられ、長さちょうど $K$ のウォーク(頂点 $s$ から $t$ へのもの、またはすべて)の個数（重み付きの場合は重みの積の総和）を求める。",
   "sources": [
     {
       "judge": "atcoder",
       "problem": "awc0053_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_r"
     }
   ]
 }

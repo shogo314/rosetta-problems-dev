@@ -1,0 +1,15 @@
+{
+  "id": "frog_jump_min_cost",
+  "title": "カエルのジャンプ",
+  "description": "$N$ 個の足場の高さが与えられ、足場 $i$ から $i+1, \\ldots, i+K$ のいずれかへ高さの差の絶対値のコストで跳ぶとき、足場 $1$ から $N$ までのコストの総和の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_a"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_b"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "count_bounded_compositions",
+  "title": "上限付きの和の分け方",
+  "description": "$N$ 個の非負整数 $x_i$ を $0 \\leq x_i \\leq a_i$ かつ総和が $K$ になるように選ぶ方法の数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_m"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "fps_24_c"
+    }
+  ]
+}

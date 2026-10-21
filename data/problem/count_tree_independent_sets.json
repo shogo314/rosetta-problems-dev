@@ -1,0 +1,11 @@
+{
+  "id": "count_tree_independent_sets",
+  "title": "木の独立集合の数え上げ",
+  "description": "木が与えられ、隣り合う頂点を同時に選ばない頂点集合の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_p"
+    }
+  ]
+}

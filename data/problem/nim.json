@@ -6,6 +6,10 @@
     {
       "judge": "samcoding",
       "problem": "15_G"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "game_a"
     }
   ]
 }

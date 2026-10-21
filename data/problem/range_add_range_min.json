@@ -1,0 +1,15 @@
+{
+  "id": "range_add_range_min",
+  "title": "区間加算・区間最小値クエリ",
+  "description": "長さ $N$ の数列に対し、区間への一様な加算と区間の最小値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "aoj",
+      "problem": "DSL_2_H"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "aalc001_b"
+    }
+  ]
+}

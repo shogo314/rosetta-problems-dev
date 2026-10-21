@@ -1,0 +1,15 @@
+{
+  "id": "paint_house",
+  "title": "隣り合う家を異なる色で塗る",
+  "description": "$N$ 軒の家を $3$ 色のいずれかで塗るときの各家・各色のコスト(または得点)が与えられ、隣り合う家が同じ色にならないように塗るときの総和の最小値(または最大値)を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "paint-house"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_c"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dag_longest_path",
+  "title": "DAG の最長路",
+  "description": "有向非巡回グラフが与えられ、最長の有向パスの長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_g"
+    }
+  ]
+}

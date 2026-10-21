@@ -14,6 +14,10 @@
     {
       "judge": "doj",
       "problem": "307"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "unionfind_a"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "subtraction_game",
+  "title": "取れる個数が決まった石取りゲーム",
+  "description": "$K$ 個の石の山と集合 $A$ が与えられ、交互に $A$ の要素の個数だけ石を取り、取れなくなった方が負けとなるとき、両者最善の場合の勝者を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_k"
+    }
+  ]
+}

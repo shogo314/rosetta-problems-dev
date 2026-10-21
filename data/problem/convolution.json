@@ -10,6 +10,10 @@
     {
       "judge": "doj",
       "problem": "331"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "fft_c"
     }
   ]
 }

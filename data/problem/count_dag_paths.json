@@ -1,0 +1,11 @@
+{
+  "id": "count_dag_paths",
+  "title": "DAG のパスの数え上げ",
+  "description": "有向非巡回グラフと $2$ 頂点 $s, t$ が与えられ、$s$ から $t$ へのパスの個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "ndpc2026_b"
+    }
+  ]
+}

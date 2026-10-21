@@ -1,0 +1,15 @@
+{
+  "id": "count_permutations_di_sequence",
+  "title": "大小関係を満たす順列の数え上げ",
+  "description": "< と > からなる長さ $N-1$ の文字列が与えられ、隣り合う要素の大小関係がそれに従う $(1, \\ldots, N)$ の順列の個数を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "valid-permutations-for-di-sequence"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_t"
+    }
+  ]
+}

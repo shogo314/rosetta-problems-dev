@@ -10,6 +10,10 @@
     {
       "judge": "atcoder",
       "problem": "dp_n"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "atc002_c"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "count_bipartite_perfect_matchings",
+  "title": "二部グラフの完全マッチングの数え上げ",
+  "description": "$N$ 対 $N$ の二部グラフが与えられ、完全マッチングの個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_o"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "grid_reachability",
+  "title": "グリッド上の到達判定",
+  "description": "障害物のあるグリッドが与えられ、スタートからゴールまで上下左右に移動して到達できるか判定する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dfs_a"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "max_sum_increasing_subsequence",
+  "title": "重み付き最長増加部分列",
+  "description": "各要素に値と重みが与えられ、値が狭義単調増加となる部分列のうち重みの総和の最大値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "dp_q"
+    }
+  ]
+}

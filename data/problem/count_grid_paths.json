@@ -1,0 +1,19 @@
+{
+  "id": "count_grid_paths",
+  "title": "グリッドの経路数え上げ",
+  "description": "障害物のあるグリッドが与えられ、左上から右下まで右または下に移動する経路の数を求める。",
+  "sources": [
+    {
+      "judge": "leetcode",
+      "problem": "unique-paths-ii"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_h"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "dp_y"
+    }
+  ]
+}

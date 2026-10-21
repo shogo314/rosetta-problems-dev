@@ -1,0 +1,11 @@
+{
+  "id": "k_bonacci",
+  "title": "K-bonacci 数列",
+  "description": "$a_1 = \\cdots = a_K = 1$、$a_i = a_{i-1} + \\cdots + a_{i-K}$ で定まる数列の第 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "tdpc_fibonacci"
+    }
+  ]
+}
