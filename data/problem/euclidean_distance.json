@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "ITP1_10_A"
+    },
+    {
+      "judge": "marisaoj",
+      "problem": "10"
     }
   ]
 }
