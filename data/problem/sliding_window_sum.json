@@ -1,0 +1,11 @@
+{
+  "id": "sliding_window_sum",
+  "title": "長さ $K$ の各連続部分列の和",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、長さ $K$ の各連続部分列の和を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202104_d"
+    }
+  ]
+}

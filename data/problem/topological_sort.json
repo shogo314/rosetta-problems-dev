@@ -18,6 +18,10 @@
     {
       "judge": "aoj",
       "problem": "GRL_4_B"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past202303_l"
     }
   ]
 }

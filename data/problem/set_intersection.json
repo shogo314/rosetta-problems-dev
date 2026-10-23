@@ -22,6 +22,10 @@
     {
       "judge": "aoj",
       "problem": "ITP2_9_B"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past202109_b"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "find_duplicate_and_missing",
+  "title": "重複した値と欠けた値",
+  "description": "$1$ から $N$ までの整数のうち $1$ つが別の値に書き換えられた（またはそのままの）長さ $N$ の数列が与えられ、重複している値と欠けている値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past201912_d"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "set-mismatch"
+    }
+  ]
+}

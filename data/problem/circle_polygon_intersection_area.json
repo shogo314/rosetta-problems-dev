@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "CGL_7_H"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past202209_j"
     }
   ]
 }

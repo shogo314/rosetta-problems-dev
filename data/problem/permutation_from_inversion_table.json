@@ -1,0 +1,15 @@
+{
+  "id": "permutation_from_inversion_table",
+  "title": "転倒表からの順列の復元",
+  "description": "各 $x$ について「$x$ より前にある $x$ より大きい要素の個数」が与えられ、それを満たす $(1, \\ldots, N)$ の順列を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0184_e"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "queue-reconstruction-by-height"
+    }
+  ]
+}

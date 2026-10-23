@@ -22,6 +22,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0154_c"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past22_h"
     }
   ]
 }

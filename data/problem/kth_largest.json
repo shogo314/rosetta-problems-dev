@@ -1,0 +1,15 @@
+{
+  "id": "kth_largest",
+  "title": "$K$ 番目に大きい値",
+  "description": "長さ $N$ の数列 $A$ と $K$ が与えられ、$A$ の要素のうち $K$ 番目に大きい値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past201912_c"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "kth-largest-element-in-an-array"
+    }
+  ]
+}

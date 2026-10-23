@@ -1,0 +1,15 @@
+{
+  "id": "base_conversion",
+  "title": "$B$ 進表記への変換",
+  "description": "非負整数 $N$ と $B$ が与えられ、$N$ を $B$ 進表記で表した文字列を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202012_c"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "base-7"
+    }
+  ]
+}

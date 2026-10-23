@@ -1,0 +1,15 @@
+{
+  "id": "is_tree",
+  "title": "木であるかの判定",
+  "description": "無向グラフが与えられ、木であるか判定する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202206_g"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "graph-valid-tree"
+    }
+  ]
+}

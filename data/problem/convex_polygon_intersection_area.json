@@ -1,0 +1,11 @@
+{
+  "id": "convex_polygon_intersection_area",
+  "title": "$2$ つの凸多角形の共通部分の面積",
+  "description": "$2$ つの凸多角形が与えられ、それらの共通部分の面積を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202112_n"
+    }
+  ]
+}

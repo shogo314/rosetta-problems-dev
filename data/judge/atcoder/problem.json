@@ -44568,6 +44568,141 @@
     }
   },
   {
+    "id": "awc0183_a",
+    "title": "Climbing Up and Down the Ladder",
+    "url": "https://atcoder.jp/contests/awc0183/tasks/awc0183_a",
+    "data": {
+      "contest_id": "awc0183",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "awc0183_b",
+    "title": "Dangerous Areas",
+    "url": "https://atcoder.jp/contests/awc0183/tasks/awc0183_b",
+    "data": {
+      "contest_id": "awc0183",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "awc0183_c",
+    "title": "Detection of Similar Tags",
+    "url": "https://atcoder.jp/contests/awc0183/tasks/awc0183_c",
+    "data": {
+      "contest_id": "awc0183",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "awc0183_d",
+    "title": "Card Battle",
+    "url": "https://atcoder.jp/contests/awc0183/tasks/awc0183_d",
+    "data": {
+      "contest_id": "awc0183",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "awc0183_e",
+    "title": "Disrupted Power Grid",
+    "url": "https://atcoder.jp/contests/awc0183/tasks/awc0183_e",
+    "data": {
+      "contest_id": "awc0183",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "awc0184_a",
+    "title": "Excess Baggage",
+    "url": "https://atcoder.jp/contests/awc0184/tasks/awc0184_a",
+    "data": {
+      "contest_id": "awc0184",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "awc0184_b",
+    "title": "Paving Stone Path",
+    "url": "https://atcoder.jp/contests/awc0184/tasks/awc0184_b",
+    "data": {
+      "contest_id": "awc0184",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "awc0184_c",
+    "title": "Number of Readable Books",
+    "url": "https://atcoder.jp/contests/awc0184/tasks/awc0184_c",
+    "data": {
+      "contest_id": "awc0184",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "awc0184_d",
+    "title": "Snow Plow Deployment Plan",
+    "url": "https://atcoder.jp/contests/awc0184/tasks/awc0184_d",
+    "data": {
+      "contest_id": "awc0184",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "awc0184_e",
+    "title": "Restoring the Sequence",
+    "url": "https://atcoder.jp/contests/awc0184/tasks/awc0184_e",
+    "data": {
+      "contest_id": "awc0184",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "awc0185_a",
+    "title": "Musical Vote",
+    "url": "https://atcoder.jp/contests/awc0185/tasks/awc0185_a",
+    "data": {
+      "contest_id": "awc0185",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "awc0185_b",
+    "title": "Vacant Rooms in a Rental Apartment Building",
+    "url": "https://atcoder.jp/contests/awc0185/tasks/awc0185_b",
+    "data": {
+      "contest_id": "awc0185",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "awc0185_c",
+    "title": "Treasure Chests and Gold Coins",
+    "url": "https://atcoder.jp/contests/awc0185/tasks/awc0185_c",
+    "data": {
+      "contest_id": "awc0185",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "awc0185_d",
+    "title": "Packing a Knapsack",
+    "url": "https://atcoder.jp/contests/awc0185/tasks/awc0185_d",
+    "data": {
+      "contest_id": "awc0185",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "awc0185_e",
+    "title": "Period of a Gear Train",
+    "url": "https://atcoder.jp/contests/awc0185/tasks/awc0185_e",
+    "data": {
+      "contest_id": "awc0185",
+      "problem_index": "E"
+    }
+  },
+  {
     "id": "awtf2024_a",
     "title": "Moving Slimes",
     "url": "https://atcoder.jp/contests/awtf2024-open/tasks/awtf2024_a",
@@ -68315,6 +68450,681 @@
     "url": "https://atcoder.jp/contests/past16-open/tasks/past202309_o",
     "data": {
       "contest_id": "past16-open",
+      "problem_index": "O"
+    }
+  },
+  {
+    "id": "past20_a",
+    "title": "ドルと円の比較",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_a",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "past20_b",
+    "title": "電車の乗り換え",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_b",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "past20_c",
+    "title": "XX反転",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_c",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "past20_d",
+    "title": "回転した v",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_d",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "past20_e",
+    "title": "リンゴ集め",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_e",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "past20_f",
+    "title": "試験の結果",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_f",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "past20_g",
+    "title": "ご飯とパン",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_g",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "past20_h",
+    "title": "温度管理",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_h",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "past20_i",
+    "title": "入れ替えパズル",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_i",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "past20_j",
+    "title": "グリッドの禁止パターン",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_j",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "J"
+    }
+  },
+  {
+    "id": "past20_k",
+    "title": "良いグリッド",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_k",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "K"
+    }
+  },
+  {
+    "id": "past20_l",
+    "title": "直径のペア",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_l",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "L"
+    }
+  },
+  {
+    "id": "past20_m",
+    "title": "結合の中央値",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_m",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "M"
+    }
+  },
+  {
+    "id": "past20_n",
+    "title": "パワーアップ",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_n",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "N"
+    }
+  },
+  {
+    "id": "past20_o",
+    "title": "超過クエリ",
+    "url": "https://atcoder.jp/contests/past20-open/tasks/past20_o",
+    "data": {
+      "contest_id": "past20-open",
+      "problem_index": "O"
+    }
+  },
+  {
+    "id": "past21_a",
+    "title": "Clock",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_a",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "past21_b",
+    "title": "Separation",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_b",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "past21_c",
+    "title": "Spring Thief",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_c",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "past21_d",
+    "title": "Remove Duplicated",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_d",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "past21_e",
+    "title": "Broken Computer",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_e",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "past21_f",
+    "title": "Maximum Concatenation",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_f",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "past21_g",
+    "title": "Car Safety",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_g",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "past21_h",
+    "title": "Cleaning Service",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_h",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "past21_i",
+    "title": "Find Permutations",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_i",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "past21_j",
+    "title": "Turn Right",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_j",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "J"
+    }
+  },
+  {
+    "id": "past21_k",
+    "title": "Strange Equation",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_k",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "K"
+    }
+  },
+  {
+    "id": "past21_l",
+    "title": "Power Station",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_l",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "L"
+    }
+  },
+  {
+    "id": "past21_m",
+    "title": "Difference Restricted Sequence",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_m",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "M"
+    }
+  },
+  {
+    "id": "past21_n",
+    "title": "Maximum Subarray Sum",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_n",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "N"
+    }
+  },
+  {
+    "id": "past21_o",
+    "title": "Manhattan Rope",
+    "url": "https://atcoder.jp/contests/past21-open/tasks/past21_o",
+    "data": {
+      "contest_id": "past21-open",
+      "problem_index": "O"
+    }
+  },
+  {
+    "id": "past22_a",
+    "title": "Orange",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_a",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "past22_b",
+    "title": "Southern Island",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_b",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "past22_c",
+    "title": "AEIOU",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_c",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "past22_d",
+    "title": "S+ring Cards",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_d",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "past22_e",
+    "title": "Piano",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_e",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "past22_f",
+    "title": "Subsequence",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_f",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "past22_g",
+    "title": "Level Up",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_g",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "past22_h",
+    "title": "Bus Line",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_h",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "past22_i",
+    "title": "Big X",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_i",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "past22_j",
+    "title": "XOR of XOR",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_j",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "J"
+    }
+  },
+  {
+    "id": "past22_k",
+    "title": "Otemae",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_k",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "K"
+    }
+  },
+  {
+    "id": "past22_l",
+    "title": "Deterministic League",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_l",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "L"
+    }
+  },
+  {
+    "id": "past22_m",
+    "title": "Inversion Number of Large Sequence",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_m",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "M"
+    }
+  },
+  {
+    "id": "past22_n",
+    "title": "Shortest Container",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_n",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "N"
+    }
+  },
+  {
+    "id": "past22_o",
+    "title": "Maximum Range Sum",
+    "url": "https://atcoder.jp/contests/past22-open/tasks/past22_o",
+    "data": {
+      "contest_id": "past22-open",
+      "problem_index": "O"
+    }
+  },
+  {
+    "id": "past23_a",
+    "title": "Thoughtful Shopping",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_a",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "past23_b",
+    "title": "Before After",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_b",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "past23_c",
+    "title": "Postponement of meetings",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_c",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "past23_d",
+    "title": "Character Adjacent",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_d",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "past23_e",
+    "title": "Sort Fractions",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_e",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "past23_f",
+    "title": "Love Triangle",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_f",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "past23_g",
+    "title": "Long Sum",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_g",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "past23_h",
+    "title": "Sandwich triplet",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_h",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "past23_i",
+    "title": "Num of Unique Characters",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_i",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "past23_j",
+    "title": "Office",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_j",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "J"
+    }
+  },
+  {
+    "id": "past23_k",
+    "title": "Most Frequent Character Query",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_k",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "K"
+    }
+  },
+  {
+    "id": "past23_l",
+    "title": "Sushi-Go-Round",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_l",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "L"
+    }
+  },
+  {
+    "id": "past23_m",
+    "title": "Boost Takahashi",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_m",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "M"
+    }
+  },
+  {
+    "id": "past23_n",
+    "title": "Sorting Substrings",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_n",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "N"
+    }
+  },
+  {
+    "id": "past23_o",
+    "title": "Grid Maximize",
+    "url": "https://atcoder.jp/contests/past23-open/tasks/past23_o",
+    "data": {
+      "contest_id": "past23-open",
+      "problem_index": "O"
+    }
+  },
+  {
+    "id": "past24_a",
+    "title": "Centroid",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_a",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "A"
+    }
+  },
+  {
+    "id": "past24_b",
+    "title": "Candy distribution",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_b",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "B"
+    }
+  },
+  {
+    "id": "past24_c",
+    "title": "Complete",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_c",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "C"
+    }
+  },
+  {
+    "id": "past24_d",
+    "title": "Scale Image",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_d",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "D"
+    }
+  },
+  {
+    "id": "past24_e",
+    "title": "Unique Value",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_e",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "E"
+    }
+  },
+  {
+    "id": "past24_f",
+    "title": "Cumulative Number",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_f",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "F"
+    }
+  },
+  {
+    "id": "past24_g",
+    "title": "Swap Rows and Columns",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_g",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "G"
+    }
+  },
+  {
+    "id": "past24_h",
+    "title": "Cluster of Squares",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_h",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "H"
+    }
+  },
+  {
+    "id": "past24_i",
+    "title": "Cut off",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_i",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "I"
+    }
+  },
+  {
+    "id": "past24_j",
+    "title": "Equilateral Triangle on Graph",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_j",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "J"
+    }
+  },
+  {
+    "id": "past24_k",
+    "title": "Serial Collect",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_k",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "K"
+    }
+  },
+  {
+    "id": "past24_l",
+    "title": "Minimum Spanning Tree",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_l",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "L"
+    }
+  },
+  {
+    "id": "past24_m",
+    "title": "Insertion and Deletion",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_m",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "M"
+    }
+  },
+  {
+    "id": "past24_n",
+    "title": "Sum of Number of Connected Component",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_n",
+    "data": {
+      "contest_id": "past24-open",
+      "problem_index": "N"
+    }
+  },
+  {
+    "id": "past24_o",
+    "title": "Longest Increasing Subsequence",
+    "url": "https://atcoder.jp/contests/past24-open/tasks/past24_o",
+    "data": {
+      "contest_id": "past24-open",
       "problem_index": "O"
     }
   },

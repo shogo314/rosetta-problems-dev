@@ -1,0 +1,15 @@
+{
+  "id": "interval_point_cover",
+  "title": "区間を刺す最小の点の個数",
+  "description": "$N$ 個の区間が与えられ、すべての区間がいずれかの点を含むように選ぶ点の個数の最小値を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past20_h"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "minimum-number-of-arrows-to-burst-balloons"
+    }
+  ]
+}

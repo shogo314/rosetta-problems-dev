@@ -1,0 +1,11 @@
+{
+  "id": "inverse_permutation",
+  "title": "逆順列",
+  "description": "$(1, \\ldots, N)$ の順列 $P$ が与えられ、各 $K$ について $P_i = K$ となる $i$ を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202303_c"
+    }
+  ]
+}

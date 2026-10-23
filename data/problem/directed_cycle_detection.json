@@ -6,6 +6,14 @@
     {
       "judge": "aoj",
       "problem": "GRL_4_A"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past202107_j"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past202212_i"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "argmax",
+  "title": "最大値の位置",
+  "description": "長さ $N$ の数列 $A$ が与えられ、$A_i$ が最大となる $i$ のうち最小のものを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "awc0185_a"
+    }
+  ]
+}

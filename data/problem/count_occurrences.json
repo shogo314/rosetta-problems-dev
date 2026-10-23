@@ -1,0 +1,11 @@
+{
+  "id": "count_occurrences",
+  "title": "値の出現回数",
+  "description": "長さ $N$ の数列 $A$ と値 $X$ が与えられ、$A_i = X$ を満たす要素の個数を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202109_c"
+    }
+  ]
+}

@@ -18,6 +18,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0098_b"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "awc0184_c"
     }
   ]
 }

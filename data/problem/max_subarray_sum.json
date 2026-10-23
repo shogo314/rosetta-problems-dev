@@ -42,6 +42,10 @@
     {
       "judge": "doj",
       "problem": "599"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past202212_g"
     }
   ]
 }

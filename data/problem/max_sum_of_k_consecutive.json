@@ -26,6 +26,10 @@
     {
       "judge": "leetcode",
       "problem": "maximum-average-subarray-i"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past20_e"
     }
   ]
 }

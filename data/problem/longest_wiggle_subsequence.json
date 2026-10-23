@@ -1,0 +1,15 @@
+{
+  "id": "longest_wiggle_subsequence",
+  "title": "最長ジグザグ部分列",
+  "description": "長さ $N$ の数列 $A$ が与えられ、隣り合う要素の差の符号が交互に入れ替わる部分列のうち最長のものの長さを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past19_l"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "wiggle-subsequence"
+    }
+  ]
+}

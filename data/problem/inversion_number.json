@@ -18,6 +18,10 @@
     {
       "judge": "aoj",
       "problem": "ALDS1_5_D"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past22_m"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "previous_greater_element",
+  "title": "直前のより大きい要素",
+  "description": "長さ $N$ の数列 $A$ が与えられ、各 $i$ について $j < i$ かつ $A_j > A_i$ を満たす最大の $j$ を求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past22_k"
+    }
+  ]
+}

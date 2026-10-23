@@ -1,0 +1,15 @@
+{
+  "id": "array_rank",
+  "title": "各要素の順位",
+  "description": "長さ $N$ の数列 $A$ が与えられ、各要素が小さい方から何番目かを求める。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202306_f"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "rank-transform-of-an-array"
+    }
+  ]
+}

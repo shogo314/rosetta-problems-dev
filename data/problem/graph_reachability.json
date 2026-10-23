@@ -1,0 +1,15 @@
+{
+  "id": "graph_reachability",
+  "title": "グラフ上の到達判定",
+  "description": "グラフと $2$ 頂点 $s, t$ が与えられ、$s$ から $t$ へ辺をたどって到達できるか判定する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past19_f"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "find-if-path-exists-in-graph"
+    }
+  ]
+}

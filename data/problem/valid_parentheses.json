@@ -1,0 +1,15 @@
+{
+  "id": "valid_parentheses",
+  "title": "括弧列の判定",
+  "description": "括弧からなる文字列 $S$ が与えられ、正しく対応のとれた括弧列であるか判定する。",
+  "sources": [
+    {
+      "judge": "atcoder",
+      "problem": "past202212_e"
+    },
+    {
+      "judge": "leetcode",
+      "problem": "valid-parentheses"
+    }
+  ]
+}

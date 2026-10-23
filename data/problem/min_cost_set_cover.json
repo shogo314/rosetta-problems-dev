@@ -6,6 +6,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0050_e"
+    },
+    {
+      "judge": "atcoder",
+      "problem": "past201912_i"
     }
   ]
 }
