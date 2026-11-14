@@ -1,0 +1,11 @@
+{
+  "id": "range_lis_query",
+  "title": "区間 LIS クエリ",
+  "description": "順列 $P$ と $Q$ 個の区間が与えられ、各区間の最長増加部分列の長さを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "static_range_lis_query"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "tree_distance_frequency",
+  "title": "木の距離の頻度表",
+  "description": "木が与えられ、各 $d$ について距離が $d$ である頂点対の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "frequency_table_of_tree_distance"
+    }
+  ]
+}

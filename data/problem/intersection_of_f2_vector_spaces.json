@@ -1,0 +1,11 @@
+{
+  "id": "intersection_of_f2_vector_spaces",
+  "title": "$\\mathbb{F}_2$ 線形空間の共通部分",
+  "description": "$\\mathbb{F}_2$ 上の $2$ つの線形空間の生成系が与えられ、共通部分の基底を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "intersection_of_f2_vector_spaces"
+    }
+  ]
+}

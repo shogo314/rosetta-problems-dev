@@ -10,6 +10,10 @@
     {
       "judge": "aoj",
       "problem": "ITP2_3_C"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "static_range_frequency"
     }
   ]
 }

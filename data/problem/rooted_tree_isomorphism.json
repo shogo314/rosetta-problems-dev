@@ -1,0 +1,11 @@
+{
+  "id": "rooted_tree_isomorphism",
+  "title": "根付き木の同型性による分類",
+  "description": "根付き木が与えられ、各頂点を根とする部分木を同型性で分類する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "rooted_tree_isomorphism_classification"
+    }
+  ]
+}

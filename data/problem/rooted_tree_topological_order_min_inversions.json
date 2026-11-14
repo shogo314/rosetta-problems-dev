@@ -1,0 +1,11 @@
+{
+  "id": "rooted_tree_topological_order_min_inversions",
+  "title": "転倒数最小の根付き木のトポロジカル順序",
+  "description": "各頂点に $c_i, d_i$ が書かれた根付き木が与えられ、親が子より先に来る順列のうち、重み付きの転倒数が最小のものを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "rooted_tree_topological_order_with_minimum_inversions"
+    }
+  ]
+}

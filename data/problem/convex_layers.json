@@ -1,0 +1,11 @@
+{
+  "id": "convex_layers",
+  "title": "凸包の層",
+  "description": "平面上の $N$ 点が与えられ、凸包の境界上の点を繰り返し取り除くとき、各点が何回目に取り除かれるかを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "convex_layers"
+    }
+  ]
+}

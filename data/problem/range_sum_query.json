@@ -26,6 +26,10 @@
     {
       "judge": "leetcode",
       "problem": "range-sum-query-immutable"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "static_range_sum"
     }
   ]
 }

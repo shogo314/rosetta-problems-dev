@@ -1,0 +1,11 @@
+{
+  "id": "power_projection_of_set_power_series",
+  "title": "集合冪級数の power projection",
+  "description": "集合冪級数 $s$、重み $w$ と $M$ が与えられ、各 $k < M$ について $s^k$ と $w$ の内積を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "power_projection_of_set_power_series"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dynamic_connectivity_component_sum",
+  "title": "辺の追加・削除がある連結成分の和",
+  "description": "頂点に値のあるグラフに対し、辺の追加・削除、頂点の値の加算と、頂点を含む連結成分の値の和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "dynamic_graph_vertex_add_component_sum"
+    }
+  ]
+}

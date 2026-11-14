@@ -1,0 +1,11 @@
+{
+  "id": "bipartite_edge_coloring",
+  "title": "二部グラフの辺彩色",
+  "description": "二部グラフが与えられ、最小の色数で隣り合う辺が異なる色になるように辺を塗る。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "bipartite_edge_coloring"
+    }
+  ]
+}

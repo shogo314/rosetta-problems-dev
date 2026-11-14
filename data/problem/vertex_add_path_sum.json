@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "GRL_5_D"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "vertex_add_path_sum"
     }
   ]
 }

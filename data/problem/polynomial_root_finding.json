@@ -1,0 +1,11 @@
+{
+  "id": "polynomial_root_finding",
+  "title": "多項式の根",
+  "description": "$\\mathbb{F}_p$ 上の多項式が与えられ、その根をすべて求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "polynomial_root_finding"
+    }
+  ]
+}

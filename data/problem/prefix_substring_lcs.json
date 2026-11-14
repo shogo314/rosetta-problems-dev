@@ -1,0 +1,11 @@
+{
+  "id": "prefix_substring_lcs",
+  "title": "接頭辞と部分文字列の LCS クエリ",
+  "description": "文字列 $S, T$ と $Q$ 個のクエリが与えられ、$S$ の接頭辞と $T$ の連続部分文字列の最長共通部分列の長さを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "prefix_substring_lcs"
+    }
+  ]
+}

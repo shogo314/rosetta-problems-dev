@@ -1,0 +1,11 @@
+{
+  "id": "shift_of_sampling_points_of_polynomial",
+  "title": "標本点のシフト",
+  "description": "次数 $N$ 未満の多項式の $f(0), \\ldots, f(N-1)$ が与えられ、$f(c), \\ldots, f(c + M - 1)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "shift_of_sampling_points_of_polynomial"
+    }
+  ]
+}

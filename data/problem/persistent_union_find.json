@@ -1,0 +1,11 @@
+{
+  "id": "persistent_union_find",
+  "title": "永続 Union-Find",
+  "description": "過去の任意の版のグラフに辺を追加した新しい版の作成と、指定した版で $2$ 頂点が連結かの問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "persistent_unionfind"
+    }
+  ]
+}

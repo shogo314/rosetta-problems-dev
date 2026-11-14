@@ -1,0 +1,15 @@
+{
+  "id": "sqrt_of_formal_power_series",
+  "title": "形式的冪級数の平方根",
+  "description": "形式的冪級数 $f$ が与えられ、$g^2 = f$ を満たす $g$ の先頭 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sqrt_of_formal_power_series"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "sqrt_of_formal_power_series_sparse"
+    }
+  ]
+}

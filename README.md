@@ -1,67 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rosetta Problems
 
-## Getting Started
+競技プログラミングの同じテーマの問題を、複数のオンラインジャッジにまたがって探せる Next.js サイトです。
 
-First, run the development server:
+## ローカル開発
+
+Node.js 24 を使用します。
 
 ```bash
+npm ci
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+http://localhost:3000 を開いて確認できます。問題データの構成と更新手順は [AGENTS.md](AGENTS.md) を参照してください。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Cloudflare Pages へのデプロイ
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+icpc-replay と同じく、Next.js の静的出力を Cloudflare Pages に配信します。`npm run build` で `out/` に全ページを生成するため、本番環境に Next.js サーバーは不要です。データの更新は再ビルド時に反映されます。テーマに対応するジャッジの問題はサイト内ページを生成し、対応テーマがない問題はジャッジの一覧から公式ページへ直接リンクします。
 
-## Learn More
+Cloudflare ダッシュボードの **Workers & Pages → Create application → Pages → Import an existing Git repository** から `shogo314/rosetta-problems-dev` を接続します。
 
-To learn more about Next.js, take a look at the following resources:
+| 設定 | 値 |
+| --- | --- |
+| Production branch | `main` |
+| Framework preset | `Next.js (Static HTML Export)` |
+| Build command | `npm run build` |
+| Build output directory | `out` |
+| Root directory | リポジトリのルート |
+| Environment variable | `NODE_VERSION=24` |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+接続後は `main` ブランチへの push で自動デプロイされます。[Cloudflare 公式ガイド](https://developers.cloudflare.com/pages/framework-guides/nextjs/deploy-a-static-nextjs-site/)も参照してください。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+移行時は、発行された `*.pages.dev` の URL で次を確認します。
 
-## Deploy on Vercel
+- `/`、`/problem`、`/judge` が表示されること。
+- `/problem/x_plus_y` などのテーマ別ページが数式も含めて表示されること。
+- ジャッジ一覧から個別問題へ移動でき、テーマ別ページとの相互リンクが動作すること。
+- 存在しない URL が 404 になること。
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-# note
-## プロジェクトをローカルで作成
-```
-npx create-next-app@latest my-next-app
-cd my-next-app
-
-```
-## GitHub リポジトリを作成 & Push
-```
-git init
-git remote add origin https://github.com/あなたのユーザ名/my-next-app.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
-
-```
-
-## Vercelにデプロイ
-1. https://vercel.com にアクセス
-1. GitHubアカウントでログイン
-1. 「Add New Project」 → 作成したGitHubリポジトリを選択
-1. Next.js と自動で認識されるので、そのままデプロイ
-
-## KaTeXを使う
-```
-npm install katex react-katex
-npm install react-markdown remark-math rehype-katex
-npm install flag-icons
-
-```
+必要なカスタムドメインを Pages に設定し、公開を確認してから Vercel 側の自動デプロイを停止してください。

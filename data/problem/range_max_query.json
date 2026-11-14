@@ -18,6 +18,10 @@
     {
       "judge": "aoj",
       "problem": "ITP2_3_B"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "staticrmq"
     }
   ]
 }

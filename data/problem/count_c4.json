@@ -1,0 +1,11 @@
+{
+  "id": "count_c4",
+  "title": "長さ $4$ の閉路の数え上げ",
+  "description": "無向グラフが与えられ、各辺について、その辺を含む長さ $4$ の閉路の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "counting_c4"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "set_xor_min",
+  "title": "集合との XOR の最小値",
+  "description": "整数の集合に対し、値の挿入・削除と、$x$ との XOR が最小となる値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "set_xor_min"
+    }
+  ]
+}

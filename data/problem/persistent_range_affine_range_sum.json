@@ -1,0 +1,11 @@
+{
+  "id": "persistent_range_affine_range_sum",
+  "title": "永続区間アフィン変換・区間和クエリ",
+  "description": "数列の過去の任意の版に対し、区間アフィン変換や別の版からの区間のコピーで新しい版を作る操作と、区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "persistent_range_affine_range_sum"
+    }
+  ]
+}

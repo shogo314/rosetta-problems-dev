@@ -1,0 +1,19 @@
+{
+  "id": "stirling_number_first_kind",
+  "title": "第 $1$ 種スターリング数",
+  "description": "$n, k$ が与えられ、第 $1$ 種スターリング数 $s(n, k)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "stirling_number_of_the_first_kind"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "stirling_number_of_the_first_kind_fixed_k"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "stirling_number_of_the_first_kind_small_p_large_n"
+    }
+  ]
+}

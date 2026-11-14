@@ -1,0 +1,11 @@
+{
+  "id": "sum_of_totient",
+  "title": "オイラーの $\\varphi$ 関数の和",
+  "description": "$N$ が与えられ、$\\sum_{i=1}^{N} \\varphi(i)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sum_of_totient_function"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "primitive_root",
+  "title": "原始根",
+  "description": "素数 $P$ が与えられ、$\\bmod P$ の原始根を $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "primitive_root"
+    }
+  ]
+}

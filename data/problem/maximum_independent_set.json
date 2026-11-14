@@ -1,0 +1,11 @@
+{
+  "id": "maximum_independent_set",
+  "title": "最大独立集合",
+  "description": "無向グラフが与えられ、最大独立集合を $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "maximum_independent_set"
+    }
+  ]
+}

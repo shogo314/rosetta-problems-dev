@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_palindromes",
+  "title": "各位置を中心とする最長回文",
+  "description": "文字列 $S$ が与えられ、各文字・各文字間を中心とする最長の回文の長さを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "enumerate_palindromes"
+    }
+  ]
+}

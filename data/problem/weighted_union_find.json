@@ -6,6 +6,14 @@
     {
       "judge": "aoj",
       "problem": "DSL_1_B"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "unionfind_with_potential"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "unionfind_with_potential_non_commutative_group"
     }
   ]
 }

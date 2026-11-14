@@ -1,0 +1,15 @@
+{
+  "id": "range_affine_range_sum",
+  "title": "区間アフィン変換・区間和クエリ",
+  "description": "長さ $N$ の数列に対し、区間の各要素 $a_i$ を $b a_i + c$ に変える操作と、区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_affine_range_sum"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "range_affine_range_sum_large_array"
+    }
+  ]
+}

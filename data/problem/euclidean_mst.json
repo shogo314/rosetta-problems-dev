@@ -1,0 +1,11 @@
+{
+  "id": "euclidean_mst",
+  "title": "ユークリッド最小全域木",
+  "description": "平面上の $N$ 点が与えられ、ユークリッド距離を辺の重みとする完全グラフの最小全域木を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "euclidean_mst"
+    }
+  ]
+}

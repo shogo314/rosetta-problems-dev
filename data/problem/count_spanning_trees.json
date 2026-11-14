@@ -1,0 +1,11 @@
+{
+  "id": "count_spanning_trees",
+  "title": "全域木の数え上げ",
+  "description": "無向グラフが与えられ、全域木の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "counting_spanning_tree_undirected"
+    }
+  ]
+}

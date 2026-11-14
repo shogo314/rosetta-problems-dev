@@ -1,0 +1,11 @@
+{
+  "id": "cartesian_tree",
+  "title": "Cartesian 木",
+  "description": "相異なる整数からなる数列が与えられ、その Cartesian 木を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "cartesian_tree"
+    }
+  ]
+}

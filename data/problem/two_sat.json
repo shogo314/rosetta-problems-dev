@@ -1,0 +1,11 @@
+{
+  "id": "two_sat",
+  "title": "2-SAT",
+  "description": "$N$ 変数・$M$ 節の 2-SAT が与えられ、充足可能か判定し、可能なら変数の割当を $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "two_sat"
+    }
+  ]
+}

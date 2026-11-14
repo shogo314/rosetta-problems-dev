@@ -1,0 +1,11 @@
+{
+  "id": "associative_array",
+  "title": "連想配列",
+  "description": "添字が非常に大きい配列に対し、一点の値の代入と一点の値の取得を処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "associative_array"
+    }
+  ]
+}

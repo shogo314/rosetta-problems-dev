@@ -6,6 +6,10 @@
     {
       "judge": "atcoder",
       "problem": "awc0015_e"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "static_range_count_distinct"
     }
   ]
 }

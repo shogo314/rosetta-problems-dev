@@ -1,0 +1,11 @@
+{
+  "id": "bernoulli_number",
+  "title": "ベルヌーイ数",
+  "description": "$N$ が与えられ、ベルヌーイ数 $B_0, \\ldots, B_N$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "bernoulli_number"
+    }
+  ]
+}

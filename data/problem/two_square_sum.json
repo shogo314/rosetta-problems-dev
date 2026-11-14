@@ -1,0 +1,11 @@
+{
+  "id": "two_square_sum",
+  "title": "$2$ つの平方数の和",
+  "description": "$N$ が与えられ、$N = a^2 + b^2$ を満たす非負整数の組 $(a, b)$ をすべて求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "two_square_sum"
+    }
+  ]
+}

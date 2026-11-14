@@ -14,6 +14,18 @@
     {
       "judge": "atcoder",
       "problem": "fft_c"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "convolution_mod_1000000007"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "convolution_mod_2_64"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "convolution_mod_large"
     }
   ]
 }

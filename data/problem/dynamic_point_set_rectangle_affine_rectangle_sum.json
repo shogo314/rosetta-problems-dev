@@ -1,0 +1,11 @@
+{
+  "id": "dynamic_point_set_rectangle_affine_rectangle_sum",
+  "title": "点の追加・更新・長方形アフィン変換・長方形和",
+  "description": "平面上の重み付きの点に対し、点の追加・重みの更新、長方形内の点の重みのアフィン変換と、長方形内の点の重みの和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "dynamic_point_set_rectangle_affine_rectangle_sum"
+    }
+  ]
+}

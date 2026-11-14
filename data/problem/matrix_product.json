@@ -10,6 +10,14 @@
     {
       "judge": "aoj",
       "problem": "ITP1_7_D"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "matrix_product"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "matrix_product_mod_2"
     }
   ]
 }

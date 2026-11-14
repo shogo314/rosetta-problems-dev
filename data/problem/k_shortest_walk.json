@@ -1,0 +1,11 @@
+{
+  "id": "k_shortest_walk",
+  "title": "$K$ 番目の最短ウォーク",
+  "description": "重み付き有向グラフと $2$ 頂点 $s, t$ が与えられ、$s$ から $t$ へのウォークの長さを短い順に $K$ 個求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "k_shortest_walk"
+    }
+  ]
+}

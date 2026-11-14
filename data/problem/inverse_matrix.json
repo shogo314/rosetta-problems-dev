@@ -1,0 +1,15 @@
+{
+  "id": "inverse_matrix",
+  "title": "逆行列",
+  "description": "$N \\times N$ 行列が与えられ、その逆行列を求める(存在しなければそのことを報告する)。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "inverse_matrix"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "inverse_matrix_mod_2"
+    }
+  ]
+}

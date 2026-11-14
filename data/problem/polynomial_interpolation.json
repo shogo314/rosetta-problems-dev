@@ -1,0 +1,15 @@
+{
+  "id": "polynomial_interpolation",
+  "title": "多項式補間",
+  "description": "$N$ 個の点 $(x_i, y_i)$ が与えられ、すべての点を通る次数 $N - 1$ 以下の多項式を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "polynomial_interpolation"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "polynomial_interpolation_on_geometric_sequence"
+    }
+  ]
+}

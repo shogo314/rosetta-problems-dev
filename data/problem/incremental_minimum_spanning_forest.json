@@ -1,0 +1,11 @@
+{
+  "id": "incremental_minimum_spanning_forest",
+  "title": "辺の追加がある最小全域森",
+  "description": "重み付きの辺を順に追加し、追加ごとに最小全域森から取り除かれる辺を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "incremental_minimum_spanning_forest"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_cliques",
+  "title": "クリークの列挙",
+  "description": "頂点に値のある無向グラフが与えられ、すべての空でないクリークについて頂点の値の積の総和を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "enumerate_cliques"
+    }
+  ]
+}

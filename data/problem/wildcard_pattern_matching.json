@@ -1,0 +1,11 @@
+{
+  "id": "wildcard_pattern_matching",
+  "title": "ワイルドカード付きパターン検索",
+  "description": "ワイルドカードを含む文字列 $S, T$ が与えられ、$S$ の各位置で $T$ と一致するか判定する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "wildcard_pattern_matching"
+    }
+  ]
+}

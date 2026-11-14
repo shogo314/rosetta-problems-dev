@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_runs",
+  "title": "ランの列挙",
+  "description": "文字列 $S$ が与えられ、すべてのラン(極大な周期的区間)を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "runenumerate"
+    }
+  ]
+}

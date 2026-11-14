@@ -6,6 +6,18 @@
     {
       "judge": "aoj",
       "problem": "DPL_5_I"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "stirling_number_of_the_second_kind"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "stirling_number_of_the_second_kind_fixed_k"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "stirling_number_of_the_second_kind_small_p_large_n"
     }
   ]
 }

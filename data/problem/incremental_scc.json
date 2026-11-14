@@ -1,0 +1,11 @@
+{
+  "id": "incremental_scc",
+  "title": "辺の追加がある強連結成分",
+  "description": "有向グラフに辺を順に追加し、追加ごとに同じ強連結成分に属する頂点対についての値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "incremental_scc"
+    }
+  ]
+}

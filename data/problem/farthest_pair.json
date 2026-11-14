@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "CGL_4_B"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "furthest_pair"
     }
   ]
 }

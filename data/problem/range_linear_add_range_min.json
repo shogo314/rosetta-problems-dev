@@ -1,0 +1,11 @@
+{
+  "id": "range_linear_add_range_min",
+  "title": "区間一次関数加算・区間最小値クエリ",
+  "description": "長さ $N$ の数列に対し、区間の各要素 $a_i$ に $b i + c$ を加える操作と、区間の最小値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_linear_add_range_min"
+    }
+  ]
+}

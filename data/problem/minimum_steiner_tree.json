@@ -1,0 +1,11 @@
+{
+  "id": "minimum_steiner_tree",
+  "title": "最小シュタイナー木",
+  "description": "重み付き無向グラフと頂点の部分集合 $X$ が与えられ、$X$ の頂点をすべて連結にする部分グラフのうち辺の重みの和が最小のものを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "minimum_steiner_tree"
+    }
+  ]
+}

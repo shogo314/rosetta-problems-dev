@@ -1,0 +1,11 @@
+{
+  "id": "count_points_in_triangle",
+  "title": "三角形内の点の個数",
+  "description": "点集合 $A, B$ と $Q$ 個のクエリが与えられ、$A$ の $3$ 点を頂点とする三角形の内部にある $B$ の点の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "count_points_in_triangle"
+    }
+  ]
+}

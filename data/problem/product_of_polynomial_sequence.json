@@ -1,0 +1,11 @@
+{
+  "id": "product_of_polynomial_sequence",
+  "title": "多項式の総積",
+  "description": "$N$ 個の多項式が与えられ、それらの積を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "product_of_polynomial_sequence"
+    }
+  ]
+}

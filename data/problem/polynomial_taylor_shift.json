@@ -1,0 +1,11 @@
+{
+  "id": "polynomial_taylor_shift",
+  "title": "多項式の平行移動",
+  "description": "多項式 $f(x)$ と $c$ が与えられ、$f(x + c)$ の係数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "polynomial_taylor_shift"
+    }
+  ]
+}

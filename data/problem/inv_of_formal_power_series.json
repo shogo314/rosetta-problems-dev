@@ -1,0 +1,15 @@
+{
+  "id": "inv_of_formal_power_series",
+  "title": "形式的冪級数の逆元",
+  "description": "形式的冪級数 $f$ が与えられ、$1/f$ の先頭 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "inv_of_formal_power_series"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "inv_of_formal_power_series_sparse"
+    }
+  ]
+}

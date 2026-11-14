@@ -1,0 +1,11 @@
+{
+  "id": "floor_kth_root",
+  "title": "$\\left\\lfloor\\sqrt[K]{X}\\right\\rfloor$",
+  "description": "$X, K$ が与えられ、$\\left\\lfloor X^{1/K} \\right\\rfloor$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "kth_root_integer"
+    }
+  ]
+}

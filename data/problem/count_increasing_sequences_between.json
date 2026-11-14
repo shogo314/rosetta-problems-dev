@@ -1,0 +1,11 @@
+{
+  "id": "count_increasing_sequences_between",
+  "title": "$2$ つの数列に挟まれた広義単調増加列の個数",
+  "description": "数列 $A, B$ と $M$ が与えられ、$A_i \\leq x_i < B_i$ を満たす広義単調増加な数列 $x$ の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "number_of_increasing_sequences_between_two_sequences"
+    }
+  ]
+}

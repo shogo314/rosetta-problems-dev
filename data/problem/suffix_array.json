@@ -1,0 +1,11 @@
+{
+  "id": "suffix_array",
+  "title": "接尾辞配列",
+  "description": "文字列 $S$ が与えられ、その接尾辞配列を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "suffixarray"
+    }
+  ]
+}

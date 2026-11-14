@@ -1,0 +1,11 @@
+{
+  "id": "range_set_range_composite",
+  "title": "区間更新・区間の一次関数の合成",
+  "description": "一次関数の列に対し、区間の関数の一括更新と、区間の関数を順に合成した値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_set_range_composite"
+    }
+  ]
+}

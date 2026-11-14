@@ -1,0 +1,11 @@
+{
+  "id": "persistent_queue",
+  "title": "永続キュー",
+  "description": "過去の任意の版を元にした末尾への追加・先頭の削除を処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "persistent_queue"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "vertex_get_range_contour_add_on_tree",
+  "title": "木の距離範囲加算・頂点取得",
+  "description": "木に対し、頂点 $p$ からの距離が $[l, r)$ の頂点への加算と、頂点の値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "vertex_get_range_contour_add_on_tree"
+    }
+  ]
+}

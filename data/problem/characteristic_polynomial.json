@@ -1,0 +1,11 @@
+{
+  "id": "characteristic_polynomial",
+  "title": "特性多項式",
+  "description": "$N \\times N$ 行列 $M$ が与えられ、その特性多項式 $\\det(xI - M)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "characteristic_polynomial"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "gaussian_integer_gcd",
+  "title": "ガウス整数の最大公約数",
+  "description": "$2$ つのガウス整数が与えられ、その最大公約数を $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "gcd_of_gaussian_integers"
+    }
+  ]
+}

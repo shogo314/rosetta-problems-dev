@@ -1,0 +1,11 @@
+{
+  "id": "nim_product",
+  "title": "ニム積",
+  "description": "非負整数 $A, B$ が与えられ、ニム積 $A \\otimes B$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "nim_product_64"
+    }
+  ]
+}

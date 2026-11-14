@@ -1,0 +1,19 @@
+{
+  "id": "min_plus_convolution",
+  "title": "(min, +) 畳み込み",
+  "description": "数列 $a, b$(一方または両方が凸など)が与えられ、$c_k = \\min_{i+j=k} (a_i + b_j)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "min_plus_convolution_concave_arbitrary"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "min_plus_convolution_convex_arbitrary"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "min_plus_convolution_convex_convex"
+    }
+  ]
+}

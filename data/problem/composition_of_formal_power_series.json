@@ -1,0 +1,15 @@
+{
+  "id": "composition_of_formal_power_series",
+  "title": "形式的冪級数の合成",
+  "description": "形式的冪級数 $f, g$ が与えられ、$f(g(x))$ の先頭 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "composition_of_formal_power_series"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "composition_of_formal_power_series_large"
+    }
+  ]
+}

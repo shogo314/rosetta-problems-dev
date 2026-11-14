@@ -26,7 +26,17 @@ export default async function Page({ params }: { params: Promise<{ judge: string
     ]);
 
     const judgeData = JSON.parse(infoRaw);
-    const problemList: { id: string }[] = JSON.parse(problemRaw);
+    const problemList: { id: string; url: string }[] = JSON.parse(problemRaw);
+    const themeDir = path.join(process.cwd(), "data/problem");
+    const themeFiles = await fs.readdir(themeDir);
+    const linkedProblems = new Set<string>();
+    for (const filename of themeFiles) {
+      if (!filename.endsWith(".json")) continue;
+      const theme = JSON.parse(await fs.readFile(path.join(themeDir, filename), "utf-8"));
+      for (const source of theme.sources ?? []) {
+        if (source.judge === judge && source.problem) linkedProblems.add(source.problem);
+      }
+    }
 
     return (
       <div className="p-6">
@@ -46,7 +56,7 @@ export default async function Page({ params }: { params: Promise<{ judge: string
             <ul className="list-disc ml-6 mt-2">
               {problemList.map((problem) => (
                 <li key={problem.id}>
-                  <Link href={`/judge/${judge}/${problem.id}`} className="text-blue-600 underline">
+                  <Link href={linkedProblems.has(problem.id) ? `/judge/${judge}/${problem.id}` : problem.url} className="text-blue-600 underline">
                     {problem.id}
                   </Link>
                 </li>

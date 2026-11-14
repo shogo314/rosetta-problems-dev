@@ -1,0 +1,11 @@
+{
+  "id": "range_affine_point_get",
+  "title": "区間アフィン変換・一点取得クエリ",
+  "description": "長さ $N$ の数列に対し、区間の各要素 $a_i$ を $b a_i + c$ に変える操作と、一点の値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_affine_point_get"
+    }
+  ]
+}

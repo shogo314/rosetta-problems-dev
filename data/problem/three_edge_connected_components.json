@@ -1,0 +1,11 @@
+{
+  "id": "three_edge_connected_components",
+  "title": "三重辺連結成分分解",
+  "description": "無向グラフが与えられ、三重辺連結成分に分解する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "three_edge_connected_components"
+    }
+  ]
+}

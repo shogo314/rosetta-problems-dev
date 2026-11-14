@@ -1,0 +1,11 @@
+{
+  "id": "dynamic_tree_subtree_add_subtree_sum",
+  "title": "動的木の部分木加算・部分木和",
+  "description": "辺の削除・追加で形が変わる木に対し、部分木の頂点の値への加算と、部分木の値の和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "dynamic_tree_subtree_add_subtree_sum"
+    }
+  ]
+}

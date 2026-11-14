@@ -1,0 +1,11 @@
+{
+  "id": "division_of_polynomials",
+  "title": "多項式の除算",
+  "description": "多項式 $f, g$ が与えられ、$f$ を $g$ で割った商と余りを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "division_of_polynomials"
+    }
+  ]
+}

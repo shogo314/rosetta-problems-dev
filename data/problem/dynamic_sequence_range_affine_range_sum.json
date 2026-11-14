@@ -1,0 +1,11 @@
+{
+  "id": "dynamic_sequence_range_affine_range_sum",
+  "title": "挿入・削除・区間反転・区間アフィン変換・区間和クエリ",
+  "description": "数列に対し、要素の挿入・削除、区間の反転、区間アフィン変換と、区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "dynamic_sequence_range_affine_range_sum"
+    }
+  ]
+}

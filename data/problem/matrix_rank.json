@@ -1,0 +1,15 @@
+{
+  "id": "matrix_rank",
+  "title": "行列の階数",
+  "description": "$N \\times M$ 行列が与えられ、その階数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "matrix_rank"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "matrix_rank_mod_2"
+    }
+  ]
+}

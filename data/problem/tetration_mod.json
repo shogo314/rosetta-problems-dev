@@ -1,0 +1,11 @@
+{
+  "id": "tetration_mod",
+  "title": "テトレーション",
+  "description": "$A, B, M$ が与えられ、${}^{B}A \\bmod M$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "tetration_mod"
+    }
+  ]
+}

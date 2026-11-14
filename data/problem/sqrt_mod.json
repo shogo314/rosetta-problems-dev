@@ -1,0 +1,11 @@
+{
+  "id": "sqrt_mod",
+  "title": "平方剰余($\\bmod P$ での平方根)",
+  "description": "$Y$ と素数 $P$ が与えられ、$X^2 \\equiv Y \\pmod{P}$ を満たす $X$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sqrt_mod"
+    }
+  ]
+}

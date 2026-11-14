@@ -1,0 +1,11 @@
+{
+  "id": "minimum_diameter_spanning_tree",
+  "title": "最小直径全域木",
+  "description": "重み付き無向グラフが与えられ、直径が最小となる全域木を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "minimum_diameter_spanning_tree"
+    }
+  ]
+}

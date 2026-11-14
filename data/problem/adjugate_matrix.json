@@ -1,0 +1,11 @@
+{
+  "id": "adjugate_matrix",
+  "title": "余因子行列",
+  "description": "$N \\times N$ 行列が与えられ、その余因子行列を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "adjugate_matrix"
+    }
+  ]
+}

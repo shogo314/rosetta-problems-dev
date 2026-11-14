@@ -1,0 +1,11 @@
+{
+  "id": "consecutive_terms_of_linear_recurrence",
+  "title": "線形漸化式の連続する項",
+  "description": "線形漸化式と初項が与えられ、第 $K$ 項から $M$ 個の連続する項を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "consecutive_terms_of_linear_recurrent_sequence"
+    }
+  ]
+}

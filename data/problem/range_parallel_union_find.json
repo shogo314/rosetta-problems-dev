@@ -1,0 +1,11 @@
+{
+  "id": "range_parallel_union_find",
+  "title": "区間並列 Union-Find",
+  "description": "$N$ 頂点のグラフに対し、辺 $(a+i, b+i)$ $(0 \\leq i < k)$ をまとめて追加する操作を処理し、操作ごとに同じ連結成分に属する頂点対についての値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_parallel_unionfind"
+    }
+  ]
+}

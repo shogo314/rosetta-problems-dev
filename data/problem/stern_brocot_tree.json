@@ -1,0 +1,11 @@
+{
+  "id": "stern_brocot_tree",
+  "title": "Stern–Brocot 木",
+  "description": "Stern–Brocot 木上の有理数について、根からの経路、経路からの復元、LCA、祖先、子孫の範囲の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "stern_brocot_tree"
+    }
+  ]
+}

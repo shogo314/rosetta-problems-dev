@@ -1,0 +1,11 @@
+{
+  "id": "kth_root_mod",
+  "title": "$\\bmod P$ での $K$ 乗根",
+  "description": "$K, Y$ と素数 $P$ が与えられ、$X^K \\equiv Y \\pmod{P}$ を満たす $X$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "kth_root_mod"
+    }
+  ]
+}

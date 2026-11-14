@@ -1,0 +1,11 @@
+{
+  "id": "min_of_mod_of_linear",
+  "title": "$(Ax + B) \\bmod M$ の最小値",
+  "description": "$N, M, A, B$ が与えられ、$0 \\leq x < N$ における $(Ax + B) \\bmod M$ の最小値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "min_of_mod_of_linear"
+    }
+  ]
+}

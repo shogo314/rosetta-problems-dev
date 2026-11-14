@@ -1,0 +1,11 @@
+{
+  "id": "bitwise_xor_convolution",
+  "title": "XOR 畳み込み",
+  "description": "長さ $2^N$ の数列 $a, b$ が与えられ、$c_k = \\sum_{i \\oplus j = k} a_i b_j$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "bitwise_xor_convolution"
+    }
+  ]
+}

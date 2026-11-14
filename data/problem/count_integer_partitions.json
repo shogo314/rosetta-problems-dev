@@ -10,6 +10,10 @@
     {
       "judge": "aoj",
       "problem": "DPL_5_L"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "partition_function"
     }
   ]
 }

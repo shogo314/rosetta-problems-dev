@@ -1,0 +1,15 @@
+{
+  "id": "multipoint_evaluation",
+  "title": "多項式の多点評価",
+  "description": "多項式 $f$ と $M$ 個の点が与えられ、各点での $f$ の値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "multipoint_evaluation"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "multipoint_evaluation_on_geometric_sequence"
+    }
+  ]
+}

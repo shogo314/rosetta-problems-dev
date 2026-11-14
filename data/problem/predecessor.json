@@ -1,0 +1,11 @@
+{
+  "id": "predecessor",
+  "title": "集合の前後の要素",
+  "description": "整数の集合に対し、値の挿入・削除・存在判定と、$k$ 以上の最小の値・$k$ 以下の最大の値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "predecessor_problem"
+    }
+  ]
+}

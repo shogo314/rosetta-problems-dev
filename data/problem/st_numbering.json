@@ -1,0 +1,11 @@
+{
+  "id": "st_numbering",
+  "title": "st-番号付け",
+  "description": "無向グラフと $2$ 頂点 $s, t$ が与えられ、st-番号付けが存在するか判定し、存在すれば $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "st_numbering"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "q_binomial_coefficient",
+  "title": "$q$-二項係数",
+  "description": "$n, k, q$ が与えられ、$q$-二項係数 $\\binom{n}{k}_q$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "q_binomial_coefficient_prime_mod"
+    }
+  ]
+}

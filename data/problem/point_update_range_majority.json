@@ -1,0 +1,11 @@
+{
+  "id": "point_update_range_majority",
+  "title": "一点更新・区間の過半数要素",
+  "description": "長さ $N$ の数列に対し、一点の値の更新と、区間内で過半数を占める値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "majority_voting"
+    }
+  ]
+}

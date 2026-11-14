@@ -1,0 +1,11 @@
+{
+  "id": "sort_points_by_argument",
+  "title": "偏角ソート",
+  "description": "平面上の $N$ 点が与えられ、偏角の順に並べる。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sort_points_by_argument"
+    }
+  ]
+}

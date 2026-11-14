@@ -1,0 +1,11 @@
+{
+  "id": "chordal_graph_recognition",
+  "title": "弦グラフ判定",
+  "description": "無向グラフが与えられ、弦グラフか判定し、弦グラフなら完全消去順序を、そうでなければ長さ $4$ 以上の誘導閉路を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "chordal_graph_recognition"
+    }
+  ]
+}

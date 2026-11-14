@@ -1,0 +1,11 @@
+{
+  "id": "count_distinct_subsequences",
+  "title": "異なる部分列の個数",
+  "description": "長さ $N$ の数列が与えられ、部分列として現れる列の種類数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "number_of_subsequences"
+    }
+  ]
+}

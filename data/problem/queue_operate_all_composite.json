@@ -1,0 +1,11 @@
+{
+  "id": "queue_operate_all_composite",
+  "title": "キュー上の一次関数の合成",
+  "description": "一次関数のキューに対し、末尾への追加、先頭の削除、全体を順に合成した値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "queue_operate_all_composite"
+    }
+  ]
+}

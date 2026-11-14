@@ -1,0 +1,11 @@
+{
+  "id": "eertree",
+  "title": "回文木",
+  "description": "文字列 $S$ が与えられ、その回文木を構築する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "eertree"
+    }
+  ]
+}

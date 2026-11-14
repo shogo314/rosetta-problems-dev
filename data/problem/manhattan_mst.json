@@ -1,0 +1,11 @@
+{
+  "id": "manhattan_mst",
+  "title": "マンハッタン最小全域木",
+  "description": "平面上の $N$ 点が与えられ、マンハッタン距離を辺の重みとする完全グラフの最小全域木を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "manhattanmst"
+    }
+  ]
+}

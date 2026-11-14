@@ -1,0 +1,11 @@
+{
+  "id": "counting_squarefrees",
+  "title": "平方因子を持たない数の個数",
+  "description": "$N$ が与えられ、$N$ 以下の正整数のうち平方因子を持たないものの個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "counting_squarefrees"
+    }
+  ]
+}

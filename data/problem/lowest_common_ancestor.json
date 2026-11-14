@@ -14,6 +14,10 @@
     {
       "judge": "aoj",
       "problem": "GRL_5_C"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "lca"
     }
   ]
 }

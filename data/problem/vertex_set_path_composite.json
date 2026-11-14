@@ -1,0 +1,11 @@
+{
+  "id": "vertex_set_path_composite",
+  "title": "木の頂点更新・パス上の一次関数の合成",
+  "description": "頂点に一次関数が書かれた木に対し、頂点の関数の更新と、パス上の関数を順に合成した値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "vertex_set_path_composite"
+    }
+  ]
+}

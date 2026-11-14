@@ -1,0 +1,11 @@
+{
+  "id": "matrix_power",
+  "title": "行列累乗",
+  "description": "$N \\times N$ 行列 $A$ と $K$ が与えられ、$A^K$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "pow_of_matrix"
+    }
+  ]
+}

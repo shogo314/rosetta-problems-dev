@@ -1,0 +1,11 @@
+{
+  "id": "point_update_range_frequency",
+  "title": "一点更新・区間内の特定の値の出現回数",
+  "description": "長さ $N$ の数列に対し、一点の値の更新と、区間内で $x$ に等しい要素の個数の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "point_set_range_frequency"
+    }
+  ]
+}

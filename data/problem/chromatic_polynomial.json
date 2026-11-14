@@ -1,0 +1,11 @@
+{
+  "id": "chromatic_polynomial",
+  "title": "彩色多項式",
+  "description": "無向グラフが与えられ、その彩色多項式を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "chromatic_polynomial"
+    }
+  ]
+}

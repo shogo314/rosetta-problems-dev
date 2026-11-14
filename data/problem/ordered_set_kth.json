@@ -6,6 +6,10 @@
     {
       "judge": "doj",
       "problem": "638"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "ordered_set"
     }
   ]
 }

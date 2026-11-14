@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_quotients",
+  "title": "$\\lfloor N / x \\rfloor$ の列挙",
+  "description": "$N$ が与えられ、$\\lfloor N / x \\rfloor$ $(1 \\leq x \\leq N)$ としてあり得る値をすべて求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "enumerate_quotients"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "compositional_inverse_of_formal_power_series",
+  "title": "形式的冪級数の逆関数",
+  "description": "形式的冪級数 $f$ が与えられ、$f(g(x)) = x$ を満たす $g$ の先頭 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "compositional_inverse_of_formal_power_series"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "compositional_inverse_of_formal_power_series_large"
+    }
+  ]
+}

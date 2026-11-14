@@ -1,0 +1,11 @@
+{
+  "id": "rectangle_add_rectangle_sum",
+  "title": "長方形加算・長方形和",
+  "description": "$2$ 次元配列に対し、長方形領域への加算をすべて行ったあと、長方形領域の和の問い合わせに答える。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "static_rectangle_add_rectangle_sum"
+    }
+  ]
+}

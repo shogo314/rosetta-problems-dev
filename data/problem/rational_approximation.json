@@ -1,0 +1,11 @@
+{
+  "id": "rational_approximation",
+  "title": "有理数近似",
+  "description": "$N, x, y$ が与えられ、分子・分母が $N$ 以下の既約分数のうち、$x/y$ 以下で最大のものと $x/y$ 以上で最小のものを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "rational_approximation"
+    }
+  ]
+}

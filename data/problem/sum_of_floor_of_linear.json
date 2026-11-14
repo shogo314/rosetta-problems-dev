@@ -1,0 +1,11 @@
+{
+  "id": "sum_of_floor_of_linear",
+  "title": "$\\lfloor (Ai + B) / M \\rfloor$ の和",
+  "description": "$N, M, A, B$ が与えられ、$\\sum_{i=0}^{N-1} \\left\\lfloor \\frac{Ai + B}{M} \\right\\rfloor$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sum_of_floor_of_linear"
+    }
+  ]
+}

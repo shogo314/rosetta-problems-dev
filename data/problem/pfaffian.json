@@ -1,0 +1,11 @@
+{
+  "id": "pfaffian",
+  "title": "パフィアン",
+  "description": "交代行列が与えられ、そのパフィアンを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "pfaffian_of_matrix"
+    }
+  ]
+}

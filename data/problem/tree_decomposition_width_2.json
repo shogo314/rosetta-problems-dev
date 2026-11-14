@@ -1,0 +1,11 @@
+{
+  "id": "tree_decomposition_width_2",
+  "title": "木幅 $2$ 以下の木分解",
+  "description": "無向グラフが与えられ、木幅が $2$ 以下か判定し、そうなら木幅 $2$ 以下の木分解を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "tree_decomposition_width_2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "general_weighted_matching",
+  "title": "一般グラフの最大重みマッチング",
+  "description": "重み付き無向グラフが与えられ、重みの和が最大となるマッチングを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "general_weighted_matching"
+    }
+  ]
+}

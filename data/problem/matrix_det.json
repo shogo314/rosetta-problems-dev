@@ -1,0 +1,23 @@
+{
+  "id": "matrix_det",
+  "title": "行列式",
+  "description": "$N \\times N$ 行列が与えられ、その行列式を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "matrix_det"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "matrix_det_arbitrary_mod"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "matrix_det_mod_2"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "sparse_matrix_det"
+    }
+  ]
+}

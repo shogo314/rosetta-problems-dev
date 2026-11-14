@@ -1,0 +1,11 @@
+{
+  "id": "deque_operate_all_composite",
+  "title": "両端キュー上の一次関数の合成",
+  "description": "一次関数の両端キューに対し、両端への追加・両端からの削除と、全体を順に合成した値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "deque_operate_all_composite"
+    }
+  ]
+}

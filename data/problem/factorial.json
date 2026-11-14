@@ -1,0 +1,15 @@
+{
+  "id": "factorial",
+  "title": "階乗",
+  "description": "$N$ が与えられ、$N! \\bmod P$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "factorial"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "many_factorials"
+    }
+  ]
+}

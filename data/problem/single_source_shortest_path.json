@@ -74,6 +74,10 @@
     {
       "judge": "aoj",
       "problem": "GRL_1_B"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "shortest_path"
     }
   ]
 }

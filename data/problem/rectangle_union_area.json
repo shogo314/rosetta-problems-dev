@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "DSL_4_A"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "area_of_union_of_rectangles"
     }
   ]
 }

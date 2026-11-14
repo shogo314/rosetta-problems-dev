@@ -1,0 +1,11 @@
+{
+  "id": "bell_number",
+  "title": "ベル数",
+  "description": "$N$ が与えられ、ベル数 $B_0, \\ldots, B_N$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "bell_number"
+    }
+  ]
+}

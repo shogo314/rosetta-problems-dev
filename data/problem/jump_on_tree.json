@@ -1,0 +1,11 @@
+{
+  "id": "jump_on_tree",
+  "title": "木のパス上の $i$ 番目の頂点",
+  "description": "木と $Q$ 個のクエリ $(s, t, i)$ が与えられ、$s$ から $t$ へのパス上で $s$ から $i$ 番目の頂点を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "jump_on_tree"
+    }
+  ]
+}

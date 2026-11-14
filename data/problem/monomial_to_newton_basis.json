@@ -1,0 +1,11 @@
+{
+  "id": "monomial_to_newton_basis",
+  "title": "単項式基底からニュートン基底への変換",
+  "description": "多項式 $f$ と点 $p_0, \\ldots, p_{N-1}$ が与えられ、$f$ をニュートン基底 $\\prod_{j<i} (x - p_j)$ で表したときの係数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "conversion_from_monomial_basis_to_newton_basis"
+    }
+  ]
+}

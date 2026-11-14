@@ -1,0 +1,15 @@
+{
+  "id": "point_set_tree_path_composite_sum",
+  "title": "一点更新・木のパス上の合成の総和",
+  "description": "頂点に値、辺に一次関数が書かれた木に対し、値・関数の更新と、ある頂点へ向かうパスの関数を各頂点の値に適用した結果の総和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "point_set_tree_path_composite_sum"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "point_set_tree_path_composite_sum_fixed_root"
+    }
+  ]
+}

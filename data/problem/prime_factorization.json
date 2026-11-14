@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "NTL_1_A"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "factorize"
     }
   ]
 }

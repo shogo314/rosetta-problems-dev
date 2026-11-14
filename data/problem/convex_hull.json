@@ -6,6 +6,10 @@
     {
       "judge": "aoj",
       "problem": "CGL_4_A"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "static_convex_hull"
     }
   ]
 }

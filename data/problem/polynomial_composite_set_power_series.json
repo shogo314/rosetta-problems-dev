@@ -1,0 +1,11 @@
+{
+  "id": "polynomial_composite_set_power_series",
+  "title": "多項式と集合冪級数の合成",
+  "description": "多項式 $f$ と集合冪級数 $s$ が与えられ、$f(s)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "polynomial_composite_set_power_series"
+    }
+  ]
+}

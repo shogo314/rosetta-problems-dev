@@ -1,0 +1,11 @@
+{
+  "id": "gcd_convolution",
+  "title": "GCD 畳み込み",
+  "description": "数列 $a_1, \\ldots, a_N$ と $b_1, \\ldots, b_N$ が与えられ、$c_k = \\sum_{\\gcd(i, j) = k} a_i b_j$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "gcd_convolution"
+    }
+  ]
+}

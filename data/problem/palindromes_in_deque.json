@@ -1,0 +1,11 @@
+{
+  "id": "palindromes_in_deque",
+  "title": "両端キュー上の回文",
+  "description": "文字列に対し、両端への文字の追加・両端からの削除を処理し、操作ごとに異なる回文の個数などを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "palindromes_in_deque"
+    }
+  ]
+}

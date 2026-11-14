@@ -1,0 +1,11 @@
+{
+  "id": "complement_graph_connected_components",
+  "title": "補グラフの連結成分",
+  "description": "無向グラフが与えられ、その補グラフを連結成分に分解する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "connected_components_of_complement_graph"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_triangles",
+  "title": "三角形の列挙",
+  "description": "頂点に値のある無向グラフが与えられ、すべての三角形について $3$ 頂点の値の積の総和を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "enumerate_triangles"
+    }
+  ]
+}

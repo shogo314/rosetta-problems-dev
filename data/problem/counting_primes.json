@@ -1,0 +1,11 @@
+{
+  "id": "counting_primes",
+  "title": "素数の個数",
+  "description": "$N$ が与えられ、$N$ 以下の素数の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "counting_primes"
+    }
+  ]
+}

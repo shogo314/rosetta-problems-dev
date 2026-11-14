@@ -1,0 +1,11 @@
+{
+  "id": "dominator_tree",
+  "title": "支配木",
+  "description": "有向グラフと始点 $s$ が与えられ、$s$ を根とする支配木を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "dominatortree"
+    }
+  ]
+}

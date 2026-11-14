@@ -1,0 +1,11 @@
+{
+  "id": "common_interval_decomposition_tree",
+  "title": "共通区間分解木",
+  "description": "順列が与えられ、その共通区間分解木を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "common_interval_decomposition_tree"
+    }
+  ]
+}

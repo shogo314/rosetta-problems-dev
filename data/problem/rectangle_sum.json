@@ -1,0 +1,11 @@
+{
+  "id": "rectangle_sum",
+  "title": "長方形領域内の点の重みの和",
+  "description": "平面上の重み付きの $N$ 点と $Q$ 個の長方形が与えられ、各長方形に含まれる点の重みの和を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "rectangle_sum"
+    }
+  ]
+}

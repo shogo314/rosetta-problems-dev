@@ -1,0 +1,11 @@
+{
+  "id": "dynamic_star_global_min_cut",
+  "title": "星を加えたグラフの最小カット",
+  "description": "重み付き無向グラフに全頂点と結ばれた新しい頂点を加えたグラフについて、新しい辺の重みの変更を処理し、変更ごとに全域最小カットを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "global_minimum_cut_of_dynamic_star_augmented_graph"
+    }
+  ]
+}

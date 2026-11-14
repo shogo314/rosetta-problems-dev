@@ -1,0 +1,15 @@
+{
+  "id": "mul_mod_convolution",
+  "title": "積が $k \\bmod M$ になる畳み込み",
+  "description": "法 $M$ と長さ $M$ の数列 $a, b$ が与えられ、$c_k = \\sum_{i j \\equiv k \\pmod{M}} a_i b_j$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "mul_mod2n_convolution"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "mul_modp_convolution"
+    }
+  ]
+}

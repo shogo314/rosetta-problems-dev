@@ -1,0 +1,11 @@
+{
+  "id": "lyndon_factorization",
+  "title": "Lyndon 分解",
+  "description": "文字列 $S$ が与えられ、その Lyndon 分解を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "lyndon_factorization"
+    }
+  ]
+}

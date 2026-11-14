@@ -1,0 +1,11 @@
+{
+  "id": "subset_convolution",
+  "title": "部分集合畳み込み",
+  "description": "長さ $2^N$ の数列 $a, b$ が与えられ、$c_k = \\sum_{i \\mathbin{\\&} j = 0,\\ i \\mid j = k} a_i b_j$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "subset_convolution"
+    }
+  ]
+}

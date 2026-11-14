@@ -1,0 +1,11 @@
+{
+  "id": "discrete_logarithm",
+  "title": "離散対数",
+  "description": "$X, Y, M$ が与えられ、$X^K \\equiv Y \\pmod{M}$ を満たす最小の非負整数 $K$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "discrete_logarithm_mod"
+    }
+  ]
+}

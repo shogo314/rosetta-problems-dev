@@ -1,0 +1,11 @@
+{
+  "id": "enumerate_primes",
+  "title": "素数の列挙",
+  "description": "$N$ が与えられ、$N$ 以下の素数を列挙する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "enumerate_primes"
+    }
+  ]
+}

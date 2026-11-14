@@ -1,0 +1,11 @@
+{
+  "id": "two_edge_connected_components",
+  "title": "二重辺連結成分分解",
+  "description": "無向グラフが与えられ、二重辺連結成分に分解する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "two_edge_connected_components"
+    }
+  ]
+}

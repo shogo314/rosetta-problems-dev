@@ -1,0 +1,11 @@
+{
+  "id": "count_spanning_arborescences",
+  "title": "全域有向木の数え上げ",
+  "description": "有向グラフと根 $r$ が与えられ、$r$ を根とする全域有向木の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "counting_spanning_tree_directed"
+    }
+  ]
+}

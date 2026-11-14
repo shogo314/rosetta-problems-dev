@@ -1,0 +1,11 @@
+{
+  "id": "undirected_cycle_detection",
+  "title": "無向グラフの閉路検出",
+  "description": "無向グラフが与えられ、閉路が存在するか判定し、存在すれば $1$ つ求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "cycle_detection_undirected"
+    }
+  ]
+}

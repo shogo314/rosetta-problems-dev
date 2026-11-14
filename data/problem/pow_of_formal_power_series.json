@@ -1,0 +1,15 @@
+{
+  "id": "pow_of_formal_power_series",
+  "title": "形式的冪級数の累乗",
+  "description": "形式的冪級数 $f$ と $M$ が与えられ、$f^M$ の先頭 $N$ 項を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "pow_of_formal_power_series"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "pow_of_formal_power_series_sparse"
+    }
+  ]
+}

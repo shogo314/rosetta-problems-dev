@@ -1,0 +1,11 @@
+{
+  "id": "count_eulerian_circuits",
+  "title": "オイラー閉路の数え上げ",
+  "description": "有向グラフが与えられ、オイラー閉路の個数を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "counting_eulerian_circuits"
+    }
+  ]
+}

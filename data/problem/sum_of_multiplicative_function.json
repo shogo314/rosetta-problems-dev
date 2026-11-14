@@ -1,0 +1,15 @@
+{
+  "id": "sum_of_multiplicative_function",
+  "title": "乗法的関数の和",
+  "description": "素数冪での値が与えられた乗法的関数 $f$ と $N$ が与えられ、$\\sum_{i=1}^{N} f(i)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sum_of_multiplicative_function"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "sum_of_multiplicative_function_large"
+    }
+  ]
+}

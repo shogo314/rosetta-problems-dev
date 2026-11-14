@@ -1,0 +1,11 @@
+{
+  "id": "montmort_number",
+  "title": "モンモール数(完全順列の個数)",
+  "description": "$N$ が与えられ、すべての $i$ で $p_i \\neq i$ となる長さ $k$ の順列の個数を $k = 1, \\ldots, N$ について求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "montmort_number_mod"
+    }
+  ]
+}

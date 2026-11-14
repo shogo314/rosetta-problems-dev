@@ -1,0 +1,11 @@
+{
+  "id": "find_linear_recurrence",
+  "title": "線形漸化式の推定",
+  "description": "数列が与えられ、それを満たす最短の線形漸化式を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "find_linear_recurrence"
+    }
+  ]
+}

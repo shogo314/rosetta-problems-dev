@@ -34,6 +34,10 @@
     {
       "judge": "aoj",
       "problem": "NTL_2_F"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "multiplication_of_hex_big_integers"
     }
   ]
 }

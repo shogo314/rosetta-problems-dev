@@ -1,0 +1,11 @@
+{
+  "id": "z_algorithm",
+  "title": "Z 配列",
+  "description": "文字列 $S$ が与えられ、各 $i$ について $S$ と $S[i:]$ の最長共通接頭辞の長さを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "zalgorithm"
+    }
+  ]
+}

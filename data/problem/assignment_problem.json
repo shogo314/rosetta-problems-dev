@@ -1,0 +1,11 @@
+{
+  "id": "assignment_problem",
+  "title": "割当問題",
+  "description": "$N \\times N$ 行列 $a$ が与えられ、$\\sum_i a_{i p_i}$ が最小となる順列 $p$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "assignment"
+    }
+  ]
+}

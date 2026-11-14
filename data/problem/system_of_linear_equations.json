@@ -1,0 +1,15 @@
+{
+  "id": "system_of_linear_equations",
+  "title": "連立一次方程式",
+  "description": "$N \\times M$ 行列 $A$ とベクトル $b$ が与えられ、$Ax = b$ を満たす $x$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "system_of_linear_equations"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "system_of_linear_equations_mod_2"
+    }
+  ]
+}

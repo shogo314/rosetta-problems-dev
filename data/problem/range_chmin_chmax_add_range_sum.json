@@ -1,0 +1,11 @@
+{
+  "id": "range_chmin_chmax_add_range_sum",
+  "title": "区間 chmin・chmax・加算・区間和クエリ",
+  "description": "長さ $N$ の数列に対し、区間の各要素を $\\min(a_i, b)$・$\\max(a_i, b)$・$a_i + b$ に変える操作と、区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_chmin_chmax_add_range_sum"
+    }
+  ]
+}

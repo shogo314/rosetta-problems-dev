@@ -1,0 +1,11 @@
+{
+  "id": "rectangle_add_point_get",
+  "title": "長方形の追加・点を含む長方形の重みの和",
+  "description": "平面上の重み付きの長方形に対し、長方形の追加と、点を含む長方形の重みの和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "rectangle_add_point_get"
+    }
+  ]
+}

@@ -10,6 +10,14 @@
     {
       "judge": "leetcode",
       "problem": "house-robber"
+    },
+    {
+      "judge": "spoj",
+      "problem": "FARIDA"
+    },
+    {
+      "judge": "hackerrank",
+      "problem": "max-array-sum"
     }
   ]
 }

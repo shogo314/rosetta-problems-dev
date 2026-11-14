@@ -1,0 +1,11 @@
+{
+  "id": "hafnian",
+  "title": "ハフニアン",
+  "description": "対角成分が $0$ の対称行列が与えられ、そのハフニアンを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "hafnian_of_matrix"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "min_cost_b_flow",
+  "title": "最小費用 b-フロー",
+  "description": "各頂点の供給・需要と、各辺の流量の下限・上限・費用が与えられ、条件を満たすフローのうち費用が最小のものを求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "min_cost_b_flow"
+    }
+  ]
+}

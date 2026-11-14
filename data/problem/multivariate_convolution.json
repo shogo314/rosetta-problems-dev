@@ -1,0 +1,11 @@
+{
+  "id": "multivariate_convolution",
+  "title": "多変数畳み込み",
+  "description": "$K$ 変数の多項式 $f, g$ が与えられ、積 $fg$ を $\\bmod (x_1^{N_1}, \\ldots, x_K^{N_K})$ で求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "multivariate_convolution"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "point_set_range_composite",
+  "title": "一点更新・区間の一次関数の合成",
+  "description": "一次関数の列に対し、一点の関数の更新と、区間の関数を順に合成した値の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "point_set_range_composite"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "point_set_range_composite_large_array"
+    }
+  ]
+}

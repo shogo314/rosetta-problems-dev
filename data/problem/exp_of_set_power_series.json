@@ -1,0 +1,11 @@
+{
+  "id": "exp_of_set_power_series",
+  "title": "集合冪級数の exp",
+  "description": "集合冪級数 $s$ が与えられ、$\\exp(s)$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "exp_of_set_power_series"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "chromatic_number",
+  "title": "彩色数",
+  "description": "無向グラフが与えられ、隣り合う頂点が異なる色になるように塗るときの色数の最小値を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "chromatic_number"
+    }
+  ]
+}

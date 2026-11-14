@@ -1,0 +1,11 @@
+{
+  "id": "sum_of_exponential_times_polynomial_limit",
+  "title": "$\\sum_{i=0}^{\\infty} r^i i^d$",
+  "description": "$r, d$ が与えられ、$\\sum_{i=0}^{\\infty} r^i i^d$ を求める。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "sum_of_exponential_times_polynomial_limit"
+    }
+  ]
+}

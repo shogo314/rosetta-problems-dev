@@ -18,6 +18,14 @@
     {
       "judge": "marisaoj",
       "problem": "3"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "division_of_big_integers"
+    },
+    {
+      "judge": "yosupo",
+      "problem": "division_of_hex_big_integers"
     }
   ]
 }

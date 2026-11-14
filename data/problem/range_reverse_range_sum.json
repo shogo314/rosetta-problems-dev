@@ -1,0 +1,11 @@
+{
+  "id": "range_reverse_range_sum",
+  "title": "区間反転・区間和クエリ",
+  "description": "長さ $N$ の数列に対し、区間の反転と区間和の問い合わせを処理する。",
+  "sources": [
+    {
+      "judge": "yosupo",
+      "problem": "range_reverse_range_sum"
+    }
+  ]
+}
